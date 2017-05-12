@@ -1,0 +1,10386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character-collection>
+<set name="耀">
+  <character>
+    <utf8>耀</utf8>
+    <width>1000</width>
+    <height>1000</height>
+    <strokes>
+      <stroke>
+        <point x="313" y="285" timestamp="0" />
+        <point x="313" y="312" timestamp="8" />
+        <point x="313" y="342" timestamp="16" />
+        <point x="313" y="375" timestamp="24" />
+        <point x="313" y="402" timestamp="32" />
+        <point x="313" y="430" timestamp="40" />
+        <point x="313" y="457" timestamp="48" />
+        <point x="313" y="472" timestamp="56" />
+        <point x="313" y="482" timestamp="64" />
+        <point x="313" y="490" timestamp="72" />
+        <point x="313" y="492" timestamp="80" />
+      </stroke>
+      <stroke>
+        <point x="268" y="415" timestamp="319" />
+        <point x="271" y="420" timestamp="359" />
+        <point x="273" y="425" timestamp="368" />
+        <point x="278" y="430" timestamp="376" />
+        <point x="283" y="435" timestamp="384" />
+        <point x="286" y="437" timestamp="392" />
+        <point x="291" y="442" timestamp="400" />
+        <point x="298" y="450" timestamp="408" />
+        <point x="301" y="455" timestamp="416" />
+        <point x="303" y="457" timestamp="424" />
+        <point x="308" y="465" timestamp="432" />
+        <point x="311" y="467" timestamp="440" />
+        <point x="311" y="470" timestamp="448" />
+      </stroke>
+      <stroke>
+        <point x="388" y="407" timestamp="688" />
+        <point x="386" y="420" timestamp="704" />
+        <point x="378" y="430" timestamp="712" />
+        <point x="368" y="442" timestamp="720" />
+        <point x="363" y="452" timestamp="728" />
+        <point x="353" y="467" timestamp="736" />
+        <point x="343" y="480" timestamp="744" />
+        <point x="333" y="490" timestamp="752" />
+        <point x="331" y="495" timestamp="760" />
+        <point x="328" y="497" timestamp="768" />
+        <point x="326" y="500" timestamp="776" />
+      </stroke>
+      <stroke>
+        <point x="251" y="515" timestamp="1008" />
+        <point x="258" y="515" timestamp="1048" />
+        <point x="266" y="517" timestamp="1056" />
+        <point x="276" y="517" timestamp="1064" />
+        <point x="288" y="517" timestamp="1072" />
+        <point x="306" y="517" timestamp="1080" />
+        <point x="323" y="522" timestamp="1088" />
+        <point x="346" y="522" timestamp="1096" />
+        <point x="361" y="525" timestamp="1104" />
+        <point x="376" y="530" timestamp="1112" />
+        <point x="378" y="530" timestamp="1120" />
+        <point x="381" y="530" timestamp="1136" />
+        <point x="383" y="532" timestamp="1240" />
+      </stroke>
+      <stroke>
+        <point x="336" y="547" timestamp="1400" />
+        <point x="333" y="550" timestamp="1440" />
+        <point x="331" y="557" timestamp="1448" />
+        <point x="328" y="565" timestamp="1456" />
+        <point x="326" y="572" timestamp="1464" />
+        <point x="323" y="580" timestamp="1472" />
+        <point x="318" y="590" timestamp="1480" />
+        <point x="313" y="600" timestamp="1488" />
+        <point x="308" y="612" timestamp="1496" />
+        <point x="301" y="627" timestamp="1504" />
+        <point x="291" y="645" timestamp="1512" />
+        <point x="281" y="662" timestamp="1520" />
+        <point x="271" y="677" timestamp="1528" />
+        <point x="261" y="690" timestamp="1536" />
+        <point x="258" y="697" timestamp="1544" />
+      </stroke>
+      <stroke>
+        <point x="338" y="532" timestamp="2152" />
+        <point x="336" y="537" timestamp="2160" />
+        <point x="336" y="547" timestamp="2168" />
+        <point x="338" y="560" timestamp="2176" />
+        <point x="338" y="577" timestamp="2184" />
+        <point x="341" y="595" timestamp="2192" />
+        <point x="346" y="615" timestamp="2200" />
+        <point x="351" y="632" timestamp="2208" />
+        <point x="356" y="652" timestamp="2216" />
+        <point x="358" y="672" timestamp="2224" />
+        <point x="363" y="687" timestamp="2232" />
+        <point x="363" y="692" timestamp="2240" />
+        <point x="366" y="695" timestamp="2248" />
+        <point x="368" y="697" timestamp="2256" />
+        <point x="371" y="700" timestamp="2344" />
+        <point x="373" y="700" timestamp="2351" />
+        <point x="381" y="695" timestamp="2359" />
+        <point x="383" y="692" timestamp="2367" />
+        <point x="388" y="687" timestamp="2376" />
+        <point x="393" y="682" timestamp="2383" />
+        <point x="396" y="677" timestamp="2391" />
+        <point x="401" y="672" timestamp="2399" />
+        <point x="403" y="670" timestamp="2407" />
+        <point x="406" y="662" timestamp="2415" />
+        <point x="411" y="657" timestamp="2423" />
+        <point x="416" y="650" timestamp="2431" />
+        <point x="418" y="647" timestamp="2439" />
+        <point x="423" y="640" timestamp="2447" />
+        <point x="426" y="637" timestamp="2455" />
+        <point x="428" y="632" timestamp="2463" />
+      </stroke>
+      <stroke>
+        <point x="446" y="247" timestamp="2920" />
+        <point x="448" y="247" timestamp="2944" />
+        <point x="458" y="247" timestamp="2952" />
+        <point x="466" y="250" timestamp="2960" />
+        <point x="476" y="250" timestamp="2968" />
+        <point x="496" y="255" timestamp="2976" />
+        <point x="503" y="255" timestamp="2984" />
+        <point x="513" y="255" timestamp="2992" />
+        <point x="518" y="255" timestamp="3000" />
+        <point x="523" y="255" timestamp="3008" />
+        <point x="526" y="255" timestamp="3016" />
+        <point x="531" y="260" timestamp="3128" />
+        <point x="531" y="272" timestamp="3136" />
+        <point x="531" y="287" timestamp="3144" />
+        <point x="531" y="315" timestamp="3152" />
+        <point x="531" y="347" timestamp="3160" />
+        <point x="531" y="382" timestamp="3168" />
+        <point x="531" y="417" timestamp="3176" />
+        <point x="531" y="445" timestamp="3184" />
+        <point x="531" y="472" timestamp="3192" />
+        <point x="531" y="490" timestamp="3200" />
+        <point x="531" y="500" timestamp="3208" />
+        <point x="531" y="505" timestamp="3216" />
+        <point x="531" y="507" timestamp="3224" />
+      </stroke>
+      <stroke>
+        <point x="481" y="365" timestamp="3512" />
+        <point x="486" y="367" timestamp="3544" />
+        <point x="491" y="370" timestamp="3552" />
+        <point x="498" y="372" timestamp="3560" />
+        <point x="503" y="375" timestamp="3568" />
+        <point x="513" y="380" timestamp="3576" />
+        <point x="518" y="382" timestamp="3584" />
+        <point x="521" y="385" timestamp="3592" />
+        <point x="523" y="387" timestamp="3616" />
+      </stroke>
+      <stroke>
+        <point x="476" y="427" timestamp="3848" />
+        <point x="478" y="427" timestamp="3904" />
+        <point x="483" y="422" timestamp="3912" />
+        <point x="488" y="420" timestamp="3920" />
+        <point x="491" y="417" timestamp="3928" />
+        <point x="493" y="415" timestamp="3936" />
+        <point x="498" y="410" timestamp="3944" />
+        <point x="503" y="407" timestamp="3952" />
+        <point x="508" y="402" timestamp="3960" />
+        <point x="513" y="400" timestamp="3968" />
+      </stroke>
+      <stroke>
+        <point x="576" y="260" timestamp="4440" />
+        <point x="578" y="257" timestamp="4488" />
+        <point x="583" y="252" timestamp="4496" />
+        <point x="591" y="252" timestamp="4504" />
+        <point x="598" y="252" timestamp="4512" />
+        <point x="608" y="250" timestamp="4520" />
+        <point x="618" y="250" timestamp="4528" />
+        <point x="628" y="247" timestamp="4536" />
+        <point x="638" y="247" timestamp="4544" />
+        <point x="648" y="245" timestamp="4552" />
+        <point x="656" y="242" timestamp="4560" />
+        <point x="666" y="242" timestamp="4568" />
+        <point x="671" y="240" timestamp="4576" />
+        <point x="673" y="240" timestamp="4584" />
+        <point x="676" y="242" timestamp="4704" />
+        <point x="676" y="250" timestamp="4712" />
+        <point x="676" y="262" timestamp="4720" />
+        <point x="676" y="280" timestamp="4728" />
+        <point x="676" y="307" timestamp="4736" />
+        <point x="676" y="332" timestamp="4744" />
+        <point x="676" y="357" timestamp="4752" />
+        <point x="676" y="397" timestamp="4760" />
+        <point x="676" y="430" timestamp="4768" />
+        <point x="676" y="460" timestamp="4776" />
+        <point x="676" y="487" timestamp="4784" />
+        <point x="676" y="510" timestamp="4792" />
+        <point x="676" y="532" timestamp="4800" />
+        <point x="676" y="535" timestamp="4808" />
+        <point x="676" y="537" timestamp="4816" />
+        <point x="676" y="540" timestamp="4888" />
+        <point x="678" y="542" timestamp="4896" />
+        <point x="678" y="545" timestamp="4904" />
+        <point x="678" y="547" timestamp="4912" />
+      </stroke>
+      <stroke>
+        <point x="596" y="357" timestamp="5232" />
+        <point x="601" y="357" timestamp="5256" />
+        <point x="606" y="362" timestamp="5264" />
+        <point x="611" y="365" timestamp="5272" />
+        <point x="616" y="367" timestamp="5280" />
+        <point x="621" y="370" timestamp="5288" />
+        <point x="626" y="372" timestamp="5296" />
+        <point x="628" y="375" timestamp="5304" />
+      </stroke>
+      <stroke>
+        <point x="611" y="437" timestamp="5600" />
+        <point x="613" y="440" timestamp="5656" />
+        <point x="621" y="435" timestamp="5664" />
+        <point x="623" y="432" timestamp="5672" />
+        <point x="628" y="427" timestamp="5680" />
+        <point x="633" y="422" timestamp="5688" />
+        <point x="638" y="417" timestamp="5696" />
+        <point x="643" y="412" timestamp="5704" />
+        <point x="646" y="410" timestamp="5712" />
+        <point x="648" y="407" timestamp="5720" />
+        <point x="651" y="405" timestamp="5728" />
+      </stroke>
+      <stroke>
+        <point x="491" y="562" timestamp="6264" />
+        <point x="493" y="560" timestamp="6320" />
+        <point x="486" y="567" timestamp="6408" />
+        <point x="483" y="570" timestamp="6416" />
+        <point x="478" y="575" timestamp="6424" />
+        <point x="473" y="580" timestamp="6432" />
+        <point x="471" y="582" timestamp="6440" />
+        <point x="468" y="585" timestamp="6448" />
+        <point x="466" y="587" timestamp="6456" />
+        <point x="461" y="592" timestamp="6464" />
+        <point x="458" y="595" timestamp="6472" />
+        <point x="453" y="597" timestamp="6480" />
+        <point x="448" y="600" timestamp="6488" />
+        <point x="443" y="602" timestamp="6496" />
+        <point x="441" y="605" timestamp="6504" />
+        <point x="438" y="607" timestamp="6512" />
+      </stroke>
+      <stroke>
+        <point x="481" y="587" timestamp="6952" />
+        <point x="483" y="587" timestamp="6976" />
+        <point x="486" y="587" timestamp="6992" />
+        <point x="491" y="587" timestamp="7000" />
+        <point x="493" y="590" timestamp="7008" />
+        <point x="496" y="592" timestamp="7016" />
+        <point x="498" y="602" timestamp="7024" />
+        <point x="501" y="612" timestamp="7032" />
+        <point x="501" y="625" timestamp="7040" />
+        <point x="501" y="640" timestamp="7048" />
+        <point x="501" y="662" timestamp="7056" />
+        <point x="501" y="685" timestamp="7064" />
+        <point x="501" y="702" timestamp="7072" />
+        <point x="501" y="717" timestamp="7080" />
+        <point x="501" y="725" timestamp="7088" />
+        <point x="501" y="727" timestamp="7096" />
+        <point x="501" y="730" timestamp="7104" />
+        <point x="501" y="727" timestamp="7176" />
+        <point x="501" y="720" timestamp="7184" />
+      </stroke>
+      <stroke>
+        <point x="541" y="530" timestamp="7376" />
+        <point x="543" y="530" timestamp="7408" />
+        <point x="548" y="532" timestamp="7416" />
+        <point x="551" y="535" timestamp="7424" />
+        <point x="553" y="540" timestamp="7432" />
+        <point x="553" y="542" timestamp="7440" />
+        <point x="556" y="547" timestamp="7448" />
+        <point x="558" y="550" timestamp="7456" />
+        <point x="561" y="555" timestamp="7464" />
+        <point x="561" y="557" timestamp="7472" />
+        <point x="561" y="560" timestamp="7480" />
+        <point x="561" y="562" timestamp="7496" />
+        <point x="561" y="565" timestamp="7504" />
+        <point x="561" y="567" timestamp="7512" />
+        <point x="561" y="572" timestamp="7520" />
+        <point x="561" y="580" timestamp="7528" />
+        <point x="561" y="585" timestamp="7536" />
+      </stroke>
+      <stroke>
+        <point x="516" y="617" timestamp="7696" />
+        <point x="518" y="617" timestamp="7736" />
+        <point x="523" y="617" timestamp="7744" />
+        <point x="531" y="617" timestamp="7752" />
+        <point x="543" y="617" timestamp="7760" />
+        <point x="553" y="615" timestamp="7768" />
+        <point x="563" y="615" timestamp="7776" />
+        <point x="576" y="615" timestamp="7784" />
+        <point x="588" y="615" timestamp="7792" />
+        <point x="608" y="615" timestamp="7800" />
+        <point x="621" y="615" timestamp="7808" />
+        <point x="636" y="615" timestamp="7816" />
+        <point x="643" y="615" timestamp="7824" />
+        <point x="646" y="615" timestamp="7832" />
+        <point x="648" y="617" timestamp="7904" />
+        <point x="646" y="620" timestamp="7928" />
+      </stroke>
+      <stroke>
+        <point x="538" y="650" timestamp="8168" />
+        <point x="536" y="652" timestamp="8224" />
+        <point x="538" y="655" timestamp="8368" />
+        <point x="548" y="655" timestamp="8376" />
+        <point x="561" y="655" timestamp="8384" />
+        <point x="578" y="647" timestamp="8392" />
+        <point x="603" y="647" timestamp="8400" />
+        <point x="628" y="642" timestamp="8408" />
+        <point x="653" y="640" timestamp="8416" />
+        <point x="673" y="640" timestamp="8424" />
+        <point x="688" y="640" timestamp="8432" />
+        <point x="691" y="640" timestamp="8440" />
+        <point x="693" y="640" timestamp="8448" />
+      </stroke>
+      <stroke>
+        <point x="533" y="730" timestamp="8784" />
+        <point x="536" y="727" timestamp="8824" />
+        <point x="543" y="722" timestamp="8832" />
+        <point x="551" y="722" timestamp="8840" />
+        <point x="563" y="720" timestamp="8848" />
+        <point x="583" y="717" timestamp="8856" />
+        <point x="601" y="717" timestamp="8864" />
+        <point x="626" y="712" timestamp="8872" />
+        <point x="648" y="707" timestamp="8880" />
+        <point x="671" y="707" timestamp="8888" />
+        <point x="686" y="707" timestamp="8896" />
+        <point x="693" y="707" timestamp="8904" />
+        <point x="696" y="707" timestamp="8920" />
+      </stroke>
+      <stroke>
+        <point x="616" y="635" timestamp="9408" />
+        <point x="613" y="640" timestamp="9440" />
+        <point x="613" y="645" timestamp="9448" />
+        <point x="613" y="652" timestamp="9456" />
+        <point x="611" y="660" timestamp="9464" />
+        <point x="611" y="662" timestamp="9472" />
+        <point x="611" y="672" timestamp="9480" />
+        <point x="611" y="677" timestamp="9488" />
+        <point x="611" y="687" timestamp="9496" />
+        <point x="611" y="700" timestamp="9504" />
+        <point x="611" y="710" timestamp="9512" />
+        <point x="611" y="722" timestamp="9520" />
+        <point x="611" y="732" timestamp="9528" />
+        <point x="611" y="740" timestamp="9536" />
+        <point x="611" y="742" timestamp="9544" />
+        <point x="611" y="745" timestamp="9560" />
+        <point x="608" y="747" timestamp="9608" />
+        <point x="606" y="745" timestamp="9624" />
+      </stroke>
+      <stroke>
+        <point x="501" y="757" timestamp="10328" />
+        <point x="503" y="760" timestamp="10368" />
+        <point x="511" y="760" timestamp="10376" />
+        <point x="518" y="760" timestamp="10384" />
+        <point x="531" y="760" timestamp="10392" />
+        <point x="543" y="760" timestamp="10400" />
+        <point x="563" y="760" timestamp="10408" />
+        <point x="596" y="760" timestamp="10416" />
+        <point x="636" y="760" timestamp="10424" />
+        <point x="668" y="760" timestamp="10432" />
+        <point x="696" y="760" timestamp="10440" />
+        <point x="721" y="760" timestamp="10448" />
+        <point x="738" y="760" timestamp="10456" />
+        <point x="748" y="760" timestamp="10464" />
+      </stroke>
+    </strokes>
+  </character>
+</set>
+<set name="茂">
+  <character>
+    <utf8>茂</utf8>
+    <width>1000</width>
+    <height>1000</height>
+    <strokes>
+      <stroke>
+        <point x="314" y="246" timestamp="0" />
+        <point x="321" y="246" timestamp="32" />
+        <point x="336" y="246" timestamp="40" />
+        <point x="371" y="246" timestamp="48" />
+        <point x="404" y="246" timestamp="56" />
+        <point x="446" y="246" timestamp="64" />
+        <point x="481" y="246" timestamp="72" />
+        <point x="524" y="246" timestamp="80" />
+        <point x="566" y="246" timestamp="88" />
+        <point x="596" y="246" timestamp="96" />
+        <point x="626" y="246" timestamp="104" />
+        <point x="644" y="246" timestamp="112" />
+        <point x="659" y="246" timestamp="120" />
+        <point x="664" y="246" timestamp="128" />
+        <point x="671" y="246" timestamp="136" />
+        <point x="676" y="246" timestamp="144" />
+        <point x="681" y="246" timestamp="152" />
+        <point x="684" y="246" timestamp="160" />
+        <point x="689" y="248" timestamp="168" />
+        <point x="691" y="248" timestamp="176" />
+        <point x="694" y="248" timestamp="184" />
+      </stroke>
+      <stroke>
+        <point x="444" y="186" timestamp="664" />
+        <point x="441" y="198" timestamp="688" />
+        <point x="441" y="218" timestamp="696" />
+        <point x="441" y="253" timestamp="704" />
+        <point x="441" y="281" timestamp="712" />
+        <point x="441" y="303" timestamp="720" />
+        <point x="446" y="323" timestamp="728" />
+        <point x="446" y="328" timestamp="736" />
+        <point x="446" y="331" timestamp="744" />
+      </stroke>
+      <stroke>
+        <point x="564" y="201" timestamp="1368" />
+        <point x="566" y="196" timestamp="1432" />
+        <point x="566" y="201" timestamp="1552" />
+        <point x="569" y="213" timestamp="1560" />
+        <point x="574" y="233" timestamp="1568" />
+        <point x="574" y="251" timestamp="1576" />
+        <point x="576" y="266" timestamp="1584" />
+        <point x="576" y="281" timestamp="1592" />
+        <point x="581" y="291" timestamp="1600" />
+        <point x="581" y="296" timestamp="1608" />
+        <point x="581" y="298" timestamp="1616" />
+        <point x="581" y="301" timestamp="1624" />
+        <point x="581" y="303" timestamp="1640" />
+        <point x="581" y="306" timestamp="1656" />
+        <point x="581" y="308" timestamp="1672" />
+        <point x="581" y="311" timestamp="1680" />
+        <point x="581" y="313" timestamp="1688" />
+        <point x="581" y="318" timestamp="1816" />
+      </stroke>
+      <stroke>
+        <point x="354" y="408" timestamp="2304" />
+        <point x="351" y="411" timestamp="2336" />
+        <point x="354" y="416" timestamp="2344" />
+        <point x="361" y="418" timestamp="2352" />
+        <point x="369" y="418" timestamp="2360" />
+        <point x="384" y="421" timestamp="2368" />
+        <point x="411" y="421" timestamp="2376" />
+        <point x="449" y="421" timestamp="2384" />
+        <point x="491" y="421" timestamp="2392" />
+        <point x="539" y="421" timestamp="2400" />
+        <point x="579" y="413" timestamp="2408" />
+        <point x="616" y="413" timestamp="2416" />
+        <point x="646" y="413" timestamp="2424" />
+        <point x="669" y="413" timestamp="2432" />
+        <point x="694" y="413" timestamp="2440" />
+        <point x="704" y="413" timestamp="2448" />
+        <point x="711" y="413" timestamp="2456" />
+        <point x="719" y="413" timestamp="2464" />
+        <point x="729" y="413" timestamp="2472" />
+        <point x="736" y="413" timestamp="2480" />
+        <point x="744" y="413" timestamp="2488" />
+        <point x="746" y="413" timestamp="2496" />
+        <point x="754" y="413" timestamp="2504" />
+        <point x="756" y="413" timestamp="2512" />
+        <point x="759" y="413" timestamp="2536" />
+        <point x="761" y="416" timestamp="2616" />
+      </stroke>
+      <stroke>
+        <point x="359" y="413" timestamp="3344" />
+        <point x="356" y="418" timestamp="3416" />
+        <point x="356" y="431" timestamp="3424" />
+        <point x="356" y="456" timestamp="3432" />
+        <point x="356" y="483" timestamp="3440" />
+        <point x="356" y="521" timestamp="3448" />
+        <point x="356" y="558" timestamp="3456" />
+        <point x="349" y="598" timestamp="3464" />
+        <point x="344" y="641" timestamp="3472" />
+        <point x="339" y="668" timestamp="3480" />
+        <point x="331" y="698" timestamp="3488" />
+        <point x="324" y="721" timestamp="3496" />
+        <point x="319" y="743" timestamp="3504" />
+        <point x="314" y="756" timestamp="3512" />
+        <point x="311" y="766" timestamp="3520" />
+        <point x="311" y="768" timestamp="3528" />
+        <point x="311" y="773" timestamp="3536" />
+        <point x="309" y="776" timestamp="3544" />
+        <point x="306" y="778" timestamp="3552" />
+        <point x="304" y="781" timestamp="3568" />
+        <point x="299" y="786" timestamp="3576" />
+        <point x="296" y="788" timestamp="3584" />
+        <point x="294" y="791" timestamp="3592" />
+        <point x="289" y="793" timestamp="3600" />
+        <point x="281" y="798" timestamp="3608" />
+        <point x="274" y="801" timestamp="3616" />
+        <point x="269" y="803" timestamp="3624" />
+        <point x="266" y="803" timestamp="3632" />
+        <point x="264" y="806" timestamp="3640" />
+        <point x="259" y="806" timestamp="3648" />
+        <point x="256" y="808" timestamp="3656" />
+        <point x="251" y="811" timestamp="3664" />
+        <point x="249" y="811" timestamp="3672" />
+        <point x="246" y="811" timestamp="3680" />
+        <point x="244" y="813" timestamp="3688" />
+        <point x="241" y="813" timestamp="3696" />
+        <point x="239" y="813" timestamp="3704" />
+      </stroke>
+      <stroke>
+        <point x="544" y="326" timestamp="4544" />
+        <point x="541" y="326" timestamp="4576" />
+        <point x="544" y="338" timestamp="4584" />
+        <point x="546" y="351" timestamp="4592" />
+        <point x="551" y="373" timestamp="4600" />
+        <point x="556" y="403" timestamp="4608" />
+        <point x="561" y="436" timestamp="4616" />
+        <point x="566" y="468" timestamp="4624" />
+        <point x="571" y="503" timestamp="4632" />
+        <point x="576" y="536" timestamp="4640" />
+        <point x="584" y="568" timestamp="4648" />
+        <point x="589" y="596" timestamp="4656" />
+        <point x="596" y="626" timestamp="4664" />
+        <point x="604" y="648" timestamp="4672" />
+        <point x="609" y="666" timestamp="4680" />
+        <point x="616" y="681" timestamp="4688" />
+        <point x="621" y="693" timestamp="4696" />
+        <point x="626" y="703" timestamp="4704" />
+        <point x="631" y="713" timestamp="4712" />
+        <point x="636" y="723" timestamp="4720" />
+        <point x="641" y="733" timestamp="4728" />
+        <point x="644" y="736" timestamp="4736" />
+        <point x="649" y="741" timestamp="4744" />
+        <point x="654" y="746" timestamp="4752" />
+        <point x="656" y="748" timestamp="4768" />
+        <point x="659" y="751" timestamp="4792" />
+        <point x="661" y="753" timestamp="4800" />
+        <point x="669" y="748" timestamp="4976" />
+        <point x="674" y="738" timestamp="4984" />
+        <point x="679" y="726" timestamp="4992" />
+        <point x="689" y="706" timestamp="5000" />
+        <point x="699" y="686" timestamp="5008" />
+        <point x="706" y="671" timestamp="5016" />
+        <point x="711" y="661" timestamp="5024" />
+        <point x="714" y="653" timestamp="5032" />
+        <point x="716" y="651" timestamp="5040" />
+        <point x="719" y="648" timestamp="5048" />
+        <point x="721" y="646" timestamp="5064" />
+      </stroke>
+      <stroke>
+        <point x="704" y="576" timestamp="5312" />
+        <point x="699" y="576" timestamp="5344" />
+        <point x="689" y="578" timestamp="5352" />
+        <point x="679" y="586" timestamp="5360" />
+        <point x="669" y="593" timestamp="5368" />
+        <point x="656" y="606" timestamp="5376" />
+        <point x="636" y="621" timestamp="5384" />
+        <point x="611" y="641" timestamp="5392" />
+        <point x="586" y="663" timestamp="5400" />
+        <point x="559" y="683" timestamp="5408" />
+        <point x="536" y="706" timestamp="5416" />
+        <point x="516" y="728" timestamp="5424" />
+        <point x="494" y="751" timestamp="5432" />
+        <point x="471" y="768" timestamp="5440" />
+        <point x="459" y="778" timestamp="5448" />
+        <point x="456" y="783" timestamp="5456" />
+      </stroke>
+      <stroke>
+        <point x="649" y="371" timestamp="6096" />
+        <point x="651" y="371" timestamp="6120" />
+        <point x="656" y="373" timestamp="6128" />
+        <point x="659" y="376" timestamp="6136" />
+        <point x="664" y="378" timestamp="6144" />
+        <point x="671" y="381" timestamp="6152" />
+        <point x="676" y="383" timestamp="6160" />
+        <point x="681" y="386" timestamp="6168" />
+        <point x="684" y="388" timestamp="6176" />
+        <point x="689" y="388" timestamp="6184" />
+        <point x="691" y="391" timestamp="6192" />
+        <point x="699" y="396" timestamp="6200" />
+        <point x="704" y="398" timestamp="6208" />
+        <point x="709" y="401" timestamp="6216" />
+        <point x="716" y="406" timestamp="6224" />
+        <point x="719" y="408" timestamp="6232" />
+        <point x="726" y="411" timestamp="6240" />
+        <point x="731" y="416" timestamp="6248" />
+        <point x="739" y="418" timestamp="6256" />
+        <point x="741" y="421" timestamp="6264" />
+        <point x="744" y="421" timestamp="6272" />
+      </stroke>
+    </strokes>
+  </character>
+</set>
+<set name="誇">
+  <character>
+    <utf8>誇</utf8>
+    <width>1000</width>
+    <height>1000</height>
+    <strokes>
+      <stroke>
+        <point x="302" y="198" timestamp="0" />
+        <point x="307" y="205" timestamp="32" />
+        <point x="312" y="213" timestamp="40" />
+        <point x="314" y="218" timestamp="48" />
+        <point x="319" y="225" timestamp="56" />
+        <point x="322" y="233" timestamp="64" />
+        <point x="327" y="240" timestamp="72" />
+        <point x="329" y="245" timestamp="80" />
+        <point x="329" y="250" timestamp="96" />
+        <point x="329" y="255" timestamp="152" />
+      </stroke>
+      <stroke>
+        <point x="237" y="333" timestamp="408" />
+        <point x="239" y="333" timestamp="440" />
+        <point x="247" y="330" timestamp="448" />
+        <point x="257" y="328" timestamp="456" />
+        <point x="267" y="328" timestamp="464" />
+        <point x="287" y="325" timestamp="472" />
+        <point x="309" y="325" timestamp="480" />
+        <point x="332" y="325" timestamp="488" />
+        <point x="362" y="325" timestamp="496" />
+        <point x="382" y="325" timestamp="504" />
+        <point x="402" y="328" timestamp="512" />
+        <point x="412" y="333" timestamp="520" />
+        <point x="419" y="333" timestamp="528" />
+        <point x="422" y="333" timestamp="576" />
+        <point x="424" y="335" timestamp="624" />
+      </stroke>
+      <stroke>
+        <point x="292" y="438" timestamp="880" />
+        <point x="299" y="438" timestamp="928" />
+        <point x="307" y="435" timestamp="936" />
+        <point x="317" y="433" timestamp="944" />
+        <point x="327" y="430" timestamp="952" />
+        <point x="337" y="430" timestamp="960" />
+        <point x="344" y="430" timestamp="968" />
+        <point x="352" y="430" timestamp="976" />
+        <point x="357" y="430" timestamp="984" />
+        <point x="359" y="430" timestamp="992" />
+        <point x="362" y="430" timestamp="1000" />
+      </stroke>
+      <stroke>
+        <point x="294" y="508" timestamp="1384" />
+        <point x="299" y="510" timestamp="1448" />
+        <point x="304" y="510" timestamp="1456" />
+        <point x="314" y="510" timestamp="1464" />
+        <point x="324" y="510" timestamp="1472" />
+        <point x="332" y="510" timestamp="1480" />
+        <point x="339" y="510" timestamp="1488" />
+        <point x="347" y="510" timestamp="1496" />
+        <point x="354" y="510" timestamp="1504" />
+        <point x="359" y="510" timestamp="1512" />
+        <point x="362" y="510" timestamp="1520" />
+        <point x="364" y="510" timestamp="1528" />
+      </stroke>
+      <stroke>
+        <point x="287" y="610" timestamp="1904" />
+        <point x="287" y="613" timestamp="1912" />
+        <point x="287" y="618" timestamp="1920" />
+        <point x="287" y="625" timestamp="1928" />
+        <point x="287" y="633" timestamp="1936" />
+        <point x="287" y="643" timestamp="1944" />
+        <point x="287" y="658" timestamp="1952" />
+        <point x="292" y="688" timestamp="1960" />
+        <point x="292" y="723" timestamp="1968" />
+        <point x="292" y="753" timestamp="1976" />
+        <point x="292" y="768" timestamp="1984" />
+        <point x="292" y="783" timestamp="1992" />
+        <point x="292" y="785" timestamp="2000" />
+        <point x="292" y="788" timestamp="2008" />
+        <point x="292" y="790" timestamp="2016" />
+        <point x="292" y="780" timestamp="2096" />
+      </stroke>
+      <stroke>
+        <point x="289" y="618" timestamp="2648" />
+        <point x="292" y="615" timestamp="2704" />
+        <point x="299" y="615" timestamp="2712" />
+        <point x="309" y="615" timestamp="2720" />
+        <point x="319" y="615" timestamp="2728" />
+        <point x="329" y="615" timestamp="2736" />
+        <point x="339" y="615" timestamp="2744" />
+        <point x="349" y="615" timestamp="2752" />
+        <point x="359" y="615" timestamp="2760" />
+        <point x="369" y="615" timestamp="2768" />
+        <point x="377" y="613" timestamp="2776" />
+        <point x="384" y="610" timestamp="2784" />
+        <point x="389" y="610" timestamp="2792" />
+        <point x="394" y="610" timestamp="2800" />
+        <point x="399" y="610" timestamp="2808" />
+        <point x="402" y="610" timestamp="2816" />
+        <point x="404" y="613" timestamp="2904" />
+        <point x="404" y="618" timestamp="2912" />
+        <point x="404" y="623" timestamp="2920" />
+        <point x="402" y="630" timestamp="2928" />
+        <point x="399" y="640" timestamp="2936" />
+        <point x="399" y="648" timestamp="2944" />
+        <point x="399" y="655" timestamp="2952" />
+        <point x="399" y="665" timestamp="2960" />
+        <point x="399" y="673" timestamp="2968" />
+        <point x="399" y="680" timestamp="2976" />
+        <point x="399" y="688" timestamp="2984" />
+        <point x="399" y="695" timestamp="2992" />
+        <point x="399" y="703" timestamp="3000" />
+        <point x="397" y="710" timestamp="3008" />
+        <point x="397" y="715" timestamp="3016" />
+        <point x="397" y="720" timestamp="3024" />
+        <point x="394" y="725" timestamp="3032" />
+        <point x="394" y="728" timestamp="3112" />
+        <point x="392" y="733" timestamp="3120" />
+        <point x="389" y="738" timestamp="3128" />
+        <point x="389" y="745" timestamp="3136" />
+        <point x="389" y="753" timestamp="3144" />
+        <point x="389" y="763" timestamp="3152" />
+        <point x="389" y="770" timestamp="3160" />
+        <point x="389" y="775" timestamp="3168" />
+        <point x="387" y="780" timestamp="3184" />
+        <point x="387" y="783" timestamp="3280" />
+        <point x="387" y="785" timestamp="3368" />
+        <point x="384" y="788" timestamp="3376" />
+        <point x="377" y="790" timestamp="3392" />
+      </stroke>
+      <stroke>
+        <point x="289" y="795" timestamp="3632" />
+        <point x="294" y="795" timestamp="3672" />
+        <point x="299" y="798" timestamp="3680" />
+        <point x="307" y="798" timestamp="3688" />
+        <point x="312" y="798" timestamp="3696" />
+        <point x="319" y="798" timestamp="3704" />
+        <point x="327" y="798" timestamp="3712" />
+        <point x="334" y="798" timestamp="3720" />
+        <point x="337" y="798" timestamp="3728" />
+        <point x="342" y="798" timestamp="3736" />
+        <point x="344" y="798" timestamp="3744" />
+        <point x="347" y="800" timestamp="3752" />
+        <point x="349" y="800" timestamp="3768" />
+        <point x="352" y="800" timestamp="3792" />
+        <point x="354" y="800" timestamp="3808" />
+        <point x="359" y="800" timestamp="3816" />
+        <point x="362" y="800" timestamp="3824" />
+        <point x="364" y="800" timestamp="3832" />
+        <point x="367" y="800" timestamp="3840" />
+        <point x="372" y="800" timestamp="3848" />
+        <point x="374" y="800" timestamp="3856" />
+        <point x="377" y="800" timestamp="3864" />
+        <point x="379" y="800" timestamp="3872" />
+        <point x="382" y="800" timestamp="3880" />
+        <point x="384" y="800" timestamp="3936" />
+        <point x="387" y="800" timestamp="3944" />
+        <point x="389" y="798" timestamp="3952" />
+        <point x="392" y="795" timestamp="3968" />
+        <point x="394" y="795" timestamp="3976" />
+        <point x="397" y="793" timestamp="3984" />
+        <point x="399" y="793" timestamp="4000" />
+        <point x="402" y="793" timestamp="4008" />
+        <point x="404" y="790" timestamp="4016" />
+      </stroke>
+      <stroke>
+        <point x="477" y="228" timestamp="4888" />
+        <point x="474" y="230" timestamp="4904" />
+        <point x="474" y="233" timestamp="4912" />
+        <point x="484" y="238" timestamp="4920" />
+        <point x="497" y="238" timestamp="4928" />
+        <point x="512" y="238" timestamp="4936" />
+        <point x="532" y="238" timestamp="4944" />
+        <point x="557" y="245" timestamp="4952" />
+        <point x="579" y="245" timestamp="4960" />
+        <point x="604" y="245" timestamp="4968" />
+        <point x="624" y="245" timestamp="4976" />
+        <point x="639" y="245" timestamp="4984" />
+        <point x="647" y="245" timestamp="4992" />
+        <point x="652" y="245" timestamp="5000" />
+        <point x="654" y="245" timestamp="5008" />
+        <point x="659" y="245" timestamp="5016" />
+        <point x="664" y="245" timestamp="5024" />
+        <point x="669" y="245" timestamp="5032" />
+        <point x="672" y="245" timestamp="5040" />
+        <point x="677" y="245" timestamp="5048" />
+        <point x="679" y="245" timestamp="5056" />
+        <point x="682" y="243" timestamp="5064" />
+        <point x="687" y="240" timestamp="5080" />
+      </stroke>
+      <stroke>
+        <point x="604" y="155" timestamp="5512" />
+        <point x="604" y="160" timestamp="5568" />
+        <point x="604" y="168" timestamp="5576" />
+        <point x="602" y="175" timestamp="5584" />
+        <point x="599" y="183" timestamp="5592" />
+        <point x="592" y="195" timestamp="5600" />
+        <point x="587" y="205" timestamp="5608" />
+        <point x="582" y="218" timestamp="5616" />
+        <point x="574" y="235" timestamp="5624" />
+        <point x="567" y="255" timestamp="5632" />
+        <point x="557" y="273" timestamp="5640" />
+        <point x="554" y="288" timestamp="5648" />
+        <point x="547" y="298" timestamp="5656" />
+        <point x="547" y="300" timestamp="5664" />
+        <point x="544" y="303" timestamp="5672" />
+        <point x="542" y="305" timestamp="5696" />
+        <point x="537" y="310" timestamp="5704" />
+        <point x="532" y="313" timestamp="5720" />
+        <point x="524" y="318" timestamp="5728" />
+        <point x="517" y="320" timestamp="5736" />
+        <point x="507" y="325" timestamp="5744" />
+        <point x="502" y="328" timestamp="5752" />
+        <point x="497" y="330" timestamp="5760" />
+        <point x="492" y="335" timestamp="5768" />
+        <point x="489" y="338" timestamp="5784" />
+        <point x="487" y="340" timestamp="5792" />
+        <point x="482" y="343" timestamp="5848" />
+        <point x="479" y="345" timestamp="5872" />
+        <point x="474" y="348" timestamp="5880" />
+        <point x="469" y="350" timestamp="5888" />
+        <point x="467" y="353" timestamp="5896" />
+        <point x="464" y="355" timestamp="5904" />
+        <point x="459" y="358" timestamp="5912" />
+        <point x="454" y="360" timestamp="5928" />
+      </stroke>
+      <stroke>
+        <point x="579" y="238" timestamp="6432" />
+        <point x="587" y="243" timestamp="6496" />
+        <point x="589" y="245" timestamp="6504" />
+        <point x="597" y="253" timestamp="6512" />
+        <point x="607" y="260" timestamp="6520" />
+        <point x="617" y="268" timestamp="6528" />
+        <point x="624" y="275" timestamp="6536" />
+        <point x="639" y="285" timestamp="6544" />
+        <point x="652" y="295" timestamp="6552" />
+        <point x="667" y="305" timestamp="6560" />
+        <point x="677" y="313" timestamp="6568" />
+        <point x="689" y="320" timestamp="6576" />
+        <point x="702" y="330" timestamp="6584" />
+        <point x="709" y="333" timestamp="6592" />
+        <point x="717" y="335" timestamp="6600" />
+        <point x="719" y="338" timestamp="6608" />
+        <point x="722" y="338" timestamp="6616" />
+        <point x="724" y="340" timestamp="6624" />
+      </stroke>
+      <stroke>
+        <point x="534" y="395" timestamp="7136" />
+        <point x="539" y="400" timestamp="7168" />
+        <point x="542" y="400" timestamp="7176" />
+        <point x="552" y="403" timestamp="7184" />
+        <point x="559" y="403" timestamp="7192" />
+        <point x="569" y="403" timestamp="7200" />
+        <point x="589" y="403" timestamp="7208" />
+        <point x="607" y="403" timestamp="7216" />
+        <point x="624" y="403" timestamp="7224" />
+        <point x="629" y="403" timestamp="7232" />
+        <point x="632" y="403" timestamp="7240" />
+        <point x="634" y="403" timestamp="7248" />
+        <point x="637" y="403" timestamp="7304" />
+        <point x="642" y="403" timestamp="7312" />
+        <point x="644" y="403" timestamp="7320" />
+        <point x="647" y="403" timestamp="7328" />
+        <point x="649" y="403" timestamp="7408" />
+        <point x="652" y="403" timestamp="7416" />
+        <point x="654" y="403" timestamp="7424" />
+        <point x="657" y="405" timestamp="7440" />
+      </stroke>
+      <stroke>
+        <point x="499" y="495" timestamp="7896" />
+        <point x="507" y="495" timestamp="8016" />
+        <point x="517" y="495" timestamp="8024" />
+        <point x="534" y="495" timestamp="8032" />
+        <point x="559" y="495" timestamp="8040" />
+        <point x="584" y="495" timestamp="8048" />
+        <point x="614" y="495" timestamp="8056" />
+        <point x="647" y="495" timestamp="8064" />
+        <point x="677" y="495" timestamp="8072" />
+        <point x="704" y="495" timestamp="8080" />
+        <point x="732" y="495" timestamp="8088" />
+        <point x="742" y="495" timestamp="8096" />
+        <point x="749" y="495" timestamp="8104" />
+        <point x="752" y="495" timestamp="8120" />
+        <point x="754" y="495" timestamp="8160" />
+        <point x="757" y="495" timestamp="8168" />
+        <point x="759" y="495" timestamp="8176" />
+        <point x="762" y="498" timestamp="8264" />
+      </stroke>
+      <stroke>
+        <point x="574" y="488" timestamp="8800" />
+        <point x="574" y="493" timestamp="8872" />
+        <point x="572" y="500" timestamp="8880" />
+        <point x="569" y="510" timestamp="8888" />
+        <point x="569" y="518" timestamp="8896" />
+        <point x="567" y="528" timestamp="8904" />
+        <point x="567" y="535" timestamp="8912" />
+        <point x="564" y="548" timestamp="8920" />
+        <point x="562" y="560" timestamp="8928" />
+        <point x="559" y="573" timestamp="8936" />
+        <point x="554" y="590" timestamp="8944" />
+        <point x="552" y="603" timestamp="8952" />
+        <point x="549" y="608" timestamp="8960" />
+        <point x="552" y="610" timestamp="9048" />
+        <point x="559" y="610" timestamp="9056" />
+        <point x="567" y="610" timestamp="9064" />
+        <point x="577" y="610" timestamp="9072" />
+        <point x="587" y="610" timestamp="9080" />
+        <point x="599" y="608" timestamp="9088" />
+        <point x="607" y="608" timestamp="9096" />
+        <point x="619" y="605" timestamp="9104" />
+        <point x="632" y="603" timestamp="9112" />
+        <point x="649" y="603" timestamp="9120" />
+        <point x="669" y="600" timestamp="9128" />
+        <point x="682" y="595" timestamp="9136" />
+        <point x="689" y="595" timestamp="9144" />
+        <point x="694" y="595" timestamp="9152" />
+        <point x="697" y="593" timestamp="9160" />
+        <point x="699" y="593" timestamp="9168" />
+        <point x="702" y="593" timestamp="9248" />
+        <point x="704" y="593" timestamp="9256" />
+        <point x="707" y="593" timestamp="9264" />
+        <point x="709" y="595" timestamp="9280" />
+        <point x="712" y="600" timestamp="9288" />
+        <point x="714" y="618" timestamp="9296" />
+        <point x="719" y="653" timestamp="9304" />
+        <point x="719" y="690" timestamp="9312" />
+        <point x="719" y="718" timestamp="9320" />
+        <point x="719" y="745" timestamp="9328" />
+        <point x="719" y="768" timestamp="9336" />
+        <point x="719" y="788" timestamp="9344" />
+        <point x="719" y="803" timestamp="9352" />
+        <point x="719" y="813" timestamp="9360" />
+        <point x="719" y="818" timestamp="9368" />
+        <point x="719" y="820" timestamp="9376" />
+        <point x="719" y="823" timestamp="9432" />
+        <point x="719" y="828" timestamp="9464" />
+        <point x="719" y="833" timestamp="9472" />
+        <point x="717" y="838" timestamp="9480" />
+        <point x="714" y="840" timestamp="9488" />
+        <point x="714" y="843" timestamp="9496" />
+        <point x="712" y="845" timestamp="9568" />
+        <point x="704" y="845" timestamp="9592" />
+        <point x="697" y="845" timestamp="9600" />
+        <point x="687" y="838" timestamp="9608" />
+        <point x="682" y="833" timestamp="9616" />
+        <point x="669" y="828" timestamp="9624" />
+        <point x="652" y="815" timestamp="9632" />
+        <point x="637" y="805" timestamp="9640" />
+        <point x="622" y="795" timestamp="9648" />
+        <point x="619" y="793" timestamp="9656" />
+        <point x="614" y="790" timestamp="9664" />
+      </stroke>
+    </strokes>
+  </character>
+</set>
+<set name="涉">
+  <character>
+    <utf8>涉</utf8>
+    <width>1000</width>
+    <height>1000</height>
+    <strokes>
+      <stroke>
+        <point x="265" y="294" timestamp="0" />
+        <point x="267" y="296" timestamp="40" />
+        <point x="277" y="306" timestamp="48" />
+        <point x="292" y="319" timestamp="56" />
+        <point x="307" y="334" timestamp="64" />
+        <point x="322" y="344" timestamp="72" />
+        <point x="337" y="354" timestamp="80" />
+        <point x="347" y="359" timestamp="88" />
+        <point x="355" y="364" timestamp="96" />
+        <point x="357" y="366" timestamp="104" />
+        <point x="360" y="369" timestamp="160" />
+        <point x="362" y="371" timestamp="176" />
+        <point x="362" y="374" timestamp="184" />
+      </stroke>
+      <stroke>
+        <point x="250" y="436" timestamp="704" />
+        <point x="252" y="439" timestamp="712" />
+        <point x="257" y="444" timestamp="720" />
+        <point x="262" y="449" timestamp="728" />
+        <point x="272" y="454" timestamp="736" />
+        <point x="277" y="459" timestamp="744" />
+        <point x="287" y="464" timestamp="752" />
+        <point x="292" y="469" timestamp="760" />
+        <point x="297" y="471" timestamp="768" />
+        <point x="302" y="474" timestamp="776" />
+        <point x="305" y="476" timestamp="784" />
+        <point x="307" y="479" timestamp="792" />
+        <point x="312" y="481" timestamp="808" />
+      </stroke>
+      <stroke>
+        <point x="235" y="731" timestamp="1432" />
+        <point x="242" y="721" timestamp="1472" />
+        <point x="247" y="716" timestamp="1480" />
+        <point x="255" y="706" timestamp="1488" />
+        <point x="262" y="696" timestamp="1496" />
+        <point x="277" y="681" timestamp="1504" />
+        <point x="290" y="666" timestamp="1512" />
+        <point x="300" y="656" timestamp="1520" />
+        <point x="310" y="646" timestamp="1528" />
+        <point x="320" y="639" timestamp="1536" />
+        <point x="327" y="631" timestamp="1544" />
+        <point x="330" y="629" timestamp="1552" />
+        <point x="332" y="626" timestamp="1560" />
+        <point x="335" y="624" timestamp="1648" />
+        <point x="337" y="621" timestamp="1680" />
+      </stroke>
+      <stroke>
+        <point x="482" y="134" timestamp="2344" />
+        <point x="482" y="144" timestamp="2352" />
+        <point x="482" y="156" timestamp="2360" />
+        <point x="482" y="169" timestamp="2368" />
+        <point x="482" y="179" timestamp="2376" />
+        <point x="482" y="191" timestamp="2384" />
+        <point x="482" y="201" timestamp="2392" />
+        <point x="482" y="209" timestamp="2400" />
+        <point x="482" y="214" timestamp="2408" />
+        <point x="485" y="219" timestamp="2416" />
+        <point x="485" y="221" timestamp="2424" />
+        <point x="485" y="224" timestamp="2432" />
+        <point x="485" y="226" timestamp="2456" />
+        <point x="487" y="229" timestamp="2464" />
+        <point x="487" y="231" timestamp="2472" />
+        <point x="487" y="234" timestamp="2480" />
+        <point x="487" y="236" timestamp="2496" />
+      </stroke>
+      <stroke>
+        <point x="537" y="111" timestamp="2968" />
+        <point x="540" y="109" timestamp="3064" />
+        <point x="545" y="111" timestamp="3072" />
+        <point x="547" y="121" timestamp="3080" />
+        <point x="552" y="131" timestamp="3088" />
+        <point x="555" y="151" timestamp="3096" />
+        <point x="560" y="169" timestamp="3104" />
+        <point x="560" y="194" timestamp="3112" />
+        <point x="560" y="219" timestamp="3120" />
+        <point x="560" y="239" timestamp="3128" />
+        <point x="560" y="254" timestamp="3136" />
+        <point x="560" y="256" timestamp="3144" />
+        <point x="560" y="259" timestamp="3152" />
+        <point x="560" y="261" timestamp="3168" />
+      </stroke>
+      <stroke>
+        <point x="562" y="234" timestamp="3392" />
+        <point x="565" y="231" timestamp="3400" />
+        <point x="570" y="229" timestamp="3408" />
+        <point x="572" y="226" timestamp="3416" />
+        <point x="577" y="224" timestamp="3424" />
+        <point x="582" y="221" timestamp="3432" />
+        <point x="590" y="216" timestamp="3440" />
+        <point x="597" y="216" timestamp="3448" />
+        <point x="610" y="214" timestamp="3456" />
+        <point x="620" y="214" timestamp="3464" />
+        <point x="632" y="214" timestamp="3472" />
+        <point x="642" y="214" timestamp="3480" />
+        <point x="650" y="214" timestamp="3488" />
+        <point x="655" y="214" timestamp="3496" />
+        <point x="657" y="214" timestamp="3504" />
+      </stroke>
+      <stroke>
+        <point x="437" y="266" timestamp="4040" />
+        <point x="435" y="269" timestamp="4080" />
+        <point x="440" y="271" timestamp="4088" />
+        <point x="450" y="274" timestamp="4096" />
+        <point x="467" y="274" timestamp="4104" />
+        <point x="492" y="274" timestamp="4112" />
+        <point x="522" y="274" timestamp="4120" />
+        <point x="552" y="279" timestamp="4128" />
+        <point x="600" y="279" timestamp="4136" />
+        <point x="640" y="279" timestamp="4144" />
+        <point x="672" y="279" timestamp="4152" />
+        <point x="707" y="279" timestamp="4160" />
+        <point x="730" y="279" timestamp="4168" />
+        <point x="747" y="279" timestamp="4176" />
+        <point x="757" y="279" timestamp="4184" />
+        <point x="760" y="279" timestamp="4192" />
+        <point x="762" y="276" timestamp="4208" />
+        <point x="765" y="276" timestamp="4312" />
+      </stroke>
+      <stroke>
+        <point x="605" y="304" timestamp="4800" />
+        <point x="607" y="309" timestamp="4864" />
+        <point x="612" y="326" timestamp="4872" />
+        <point x="612" y="354" timestamp="4880" />
+        <point x="612" y="381" timestamp="4888" />
+        <point x="612" y="409" timestamp="4896" />
+        <point x="612" y="434" timestamp="4904" />
+        <point x="615" y="461" timestamp="4912" />
+        <point x="620" y="481" timestamp="4920" />
+        <point x="620" y="494" timestamp="4928" />
+        <point x="625" y="509" timestamp="4936" />
+        <point x="625" y="524" timestamp="4944" />
+        <point x="625" y="539" timestamp="4952" />
+        <point x="625" y="551" timestamp="4960" />
+        <point x="625" y="561" timestamp="4968" />
+        <point x="625" y="571" timestamp="4976" />
+        <point x="625" y="574" timestamp="4984" />
+        <point x="625" y="579" timestamp="4992" />
+        <point x="625" y="584" timestamp="5000" />
+        <point x="625" y="586" timestamp="5088" />
+        <point x="622" y="589" timestamp="5096" />
+        <point x="620" y="589" timestamp="5104" />
+        <point x="612" y="589" timestamp="5112" />
+        <point x="605" y="589" timestamp="5120" />
+        <point x="597" y="584" timestamp="5128" />
+        <point x="592" y="579" timestamp="5136" />
+        <point x="585" y="574" timestamp="5144" />
+        <point x="582" y="571" timestamp="5152" />
+        <point x="577" y="566" timestamp="5160" />
+        <point x="572" y="564" timestamp="5168" />
+        <point x="570" y="561" timestamp="5176" />
+        <point x="567" y="559" timestamp="5184" />
+        <point x="562" y="556" timestamp="5200" />
+        <point x="560" y="554" timestamp="5224" />
+        <point x="560" y="551" timestamp="5232" />
+      </stroke>
+      <stroke>
+        <point x="555" y="431" timestamp="5448" />
+        <point x="550" y="436" timestamp="5464" />
+        <point x="547" y="441" timestamp="5472" />
+        <point x="540" y="456" timestamp="5480" />
+        <point x="537" y="471" timestamp="5488" />
+        <point x="527" y="494" timestamp="5496" />
+        <point x="515" y="509" timestamp="5504" />
+        <point x="505" y="524" timestamp="5512" />
+        <point x="495" y="539" timestamp="5520" />
+        <point x="490" y="551" timestamp="5528" />
+        <point x="487" y="566" timestamp="5536" />
+        <point x="482" y="581" timestamp="5544" />
+        <point x="477" y="596" timestamp="5552" />
+        <point x="475" y="599" timestamp="5560" />
+        <point x="475" y="604" timestamp="5568" />
+        <point x="475" y="606" timestamp="5576" />
+        <point x="472" y="611" timestamp="5600" />
+      </stroke>
+      <stroke>
+        <point x="660" y="506" timestamp="5968" />
+        <point x="660" y="514" timestamp="5992" />
+        <point x="660" y="519" timestamp="6000" />
+        <point x="660" y="526" timestamp="6008" />
+        <point x="660" y="531" timestamp="6016" />
+        <point x="660" y="541" timestamp="6024" />
+        <point x="660" y="549" timestamp="6032" />
+        <point x="660" y="561" timestamp="6040" />
+        <point x="660" y="571" timestamp="6048" />
+        <point x="660" y="584" timestamp="6056" />
+        <point x="655" y="599" timestamp="6064" />
+        <point x="652" y="611" timestamp="6072" />
+        <point x="647" y="639" timestamp="6080" />
+        <point x="642" y="664" timestamp="6088" />
+        <point x="637" y="681" timestamp="6096" />
+        <point x="630" y="701" timestamp="6104" />
+        <point x="620" y="719" timestamp="6112" />
+        <point x="610" y="739" timestamp="6120" />
+        <point x="600" y="754" timestamp="6128" />
+        <point x="587" y="774" timestamp="6136" />
+        <point x="577" y="794" timestamp="6144" />
+        <point x="565" y="814" timestamp="6152" />
+        <point x="547" y="836" timestamp="6160" />
+        <point x="537" y="846" timestamp="6168" />
+        <point x="525" y="859" timestamp="6176" />
+        <point x="515" y="869" timestamp="6184" />
+        <point x="505" y="874" timestamp="6192" />
+        <point x="502" y="874" timestamp="6200" />
+        <point x="500" y="876" timestamp="6208" />
+        <point x="495" y="879" timestamp="6216" />
+        <point x="487" y="881" timestamp="6232" />
+        <point x="482" y="884" timestamp="6240" />
+        <point x="477" y="886" timestamp="6248" />
+        <point x="472" y="889" timestamp="6256" />
+        <point x="467" y="889" timestamp="6264" />
+        <point x="460" y="891" timestamp="6272" />
+      </stroke>
+    </strokes>
+  </character>
+</set>
+<set name="氈">
+</set>
+<set name="邋">
+</set>
+<set name="伊">
+</set>
+<set name="鬨">
+</set>
+<set name="預">
+</set>
+<set name="抗">
+</set>
+<set name="脖">
+</set>
+<set name="料">
+</set>
+<set name="袛">
+</set>
+<set name="辮">
+</set>
+<set name="亟">
+</set>
+<set name="洞">
+</set>
+<set name="造">
+</set>
+<set name="璣">
+</set>
+<set name="錢">
+</set>
+<set name="瞥">
+</set>
+<set name="瘤">
+</set>
+<set name="媧">
+</set>
+<set name="礦">
+</set>
+<set name="鶩">
+</set>
+<set name="黝">
+</set>
+<set name="鴐">
+</set>
+<set name="般">
+</set>
+<set name="河">
+</set>
+<set name="欲">
+</set>
+<set name="侵">
+</set>
+<set name="渴">
+</set>
+<set name="銷">
+</set>
+<set name="然">
+</set>
+<set name="疹">
+</set>
+<set name="吸">
+</set>
+<set name="類">
+</set>
+<set name="娼">
+</set>
+<set name="萏">
+</set>
+<set name="舛">
+</set>
+<set name="談">
+</set>
+<set name="豈">
+</set>
+<set name="烋">
+</set>
+<set name="反">
+</set>
+<set name="牌">
+</set>
+<set name="戌">
+</set>
+<set name="科">
+</set>
+<set name="筒">
+</set>
+<set name="織">
+</set>
+<set name="苗">
+</set>
+<set name="摘">
+</set>
+<set name="軟">
+</set>
+<set name="凡">
+</set>
+<set name="遠">
+</set>
+<set name="瓣">
+</set>
+<set name="身">
+</set>
+<set name="知">
+</set>
+<set name="除">
+</set>
+<set name="緩">
+</set>
+<set name="屨">
+</set>
+<set name="罪">
+</set>
+<set name="揭">
+</set>
+<set name="沓">
+</set>
+<set name="衰">
+</set>
+<set name="泳">
+</set>
+<set name="歲">
+</set>
+<set name="蹴">
+</set>
+<set name="狷">
+</set>
+<set name="其">
+</set>
+<set name="呸">
+</set>
+<set name="鯽">
+</set>
+<set name="廿">
+</set>
+<set name="愁">
+</set>
+<set name="婪">
+</set>
+<set name="覆">
+</set>
+<set name="沈">
+</set>
+<set name="個">
+</set>
+<set name="湃">
+</set>
+<set name="睬">
+</set>
+<set name="沌">
+</set>
+<set name="引">
+</set>
+<set name="纔">
+</set>
+<set name="鐘">
+</set>
+<set name="攙">
+</set>
+<set name="撘">
+</set>
+<set name="瑂">
+</set>
+<set name="枚">
+</set>
+<set name="謝">
+</set>
+<set name="丟">
+</set>
+<set name="泄">
+</set>
+<set name="無">
+</set>
+<set name="鎢">
+</set>
+<set name="假">
+</set>
+<set name="禦">
+</set>
+<set name="崩">
+</set>
+<set name="磯">
+</set>
+<set name="循">
+</set>
+<set name="抬">
+</set>
+<set name="是">
+</set>
+<set name="稜">
+</set>
+<set name="械">
+</set>
+<set name="氳">
+</set>
+<set name="溴">
+</set>
+<set name="刷">
+</set>
+<set name="冶">
+</set>
+<set name="咸">
+</set>
+<set name="頻">
+</set>
+<set name="凋">
+</set>
+<set name="骼">
+</set>
+<set name="濂">
+</set>
+<set name="痊">
+</set>
+<set name="賈">
+</set>
+<set name="運">
+</set>
+<set name="俊">
+</set>
+<set name="鍍">
+</set>
+<set name="嗎">
+</set>
+<set name="契">
+</set>
+<set name="烹">
+</set>
+<set name="寒">
+</set>
+<set name="罕">
+</set>
+<set name="黔">
+</set>
+<set name="典">
+</set>
+<set name="教">
+</set>
+<set name="衛">
+</set>
+<set name="柚">
+</set>
+<set name="諜">
+</set>
+<set name="也">
+</set>
+<set name="酡">
+</set>
+<set name="瑣">
+</set>
+<set name="叢">
+</set>
+<set name="睥">
+</set>
+<set name="盤">
+</set>
+<set name="秦">
+</set>
+<set name="峨">
+</set>
+<set name="恫">
+</set>
+<set name="忪">
+</set>
+<set name="括">
+</set>
+<set name="景">
+</set>
+<set name="熠">
+</set>
+<set name="併">
+</set>
+<set name="滴">
+</set>
+<set name="剷">
+</set>
+<set name="凶">
+</set>
+<set name="基">
+</set>
+<set name="孽">
+</set>
+<set name="鹿">
+</set>
+<set name="巾">
+</set>
+<set name="斃">
+</set>
+<set name="漪">
+</set>
+<set name="甬">
+</set>
+<set name="喀">
+</set>
+<set name="沉">
+</set>
+<set name="贈">
+</set>
+<set name="醋">
+</set>
+<set name="上">
+</set>
+<set name="劍">
+</set>
+<set name="鞏">
+</set>
+<set name="后">
+</set>
+<set name="碑">
+</set>
+<set name="餐">
+</set>
+<set name="經">
+</set>
+<set name="底">
+</set>
+<set name="弔">
+</set>
+<set name="怖">
+</set>
+<set name="蒙">
+</set>
+<set name="攘">
+</set>
+<set name="蘚">
+</set>
+<set name="剛">
+</set>
+<set name="辟">
+</set>
+<set name="厄">
+</set>
+<set name="耆">
+</set>
+<set name="疤">
+</set>
+<set name="閣">
+</set>
+<set name="跚">
+</set>
+<set name="嚥">
+</set>
+<set name="薇">
+</set>
+<set name="頰">
+</set>
+<set name="岩">
+</set>
+<set name="鴨">
+</set>
+<set name="憫">
+</set>
+<set name="芭">
+</set>
+<set name="貳">
+</set>
+<set name="枯">
+</set>
+<set name="袱">
+</set>
+<set name="椰">
+</set>
+<set name="足">
+</set>
+<set name="伴">
+</set>
+<set name="棎">
+</set>
+<set name="唸">
+</set>
+<set name="妻">
+</set>
+<set name="媽">
+</set>
+<set name="鬼">
+</set>
+<set name="尾">
+</set>
+<set name="酵">
+</set>
+<set name="框">
+</set>
+<set name="泉">
+</set>
+<set name="瘍">
+</set>
+<set name="釋">
+</set>
+<set name="湊">
+</set>
+<set name="卌">
+</set>
+<set name="呎">
+</set>
+<set name="壑">
+</set>
+<set name="祐">
+</set>
+<set name="駢">
+</set>
+<set name="罔">
+</set>
+<set name="聖">
+</set>
+<set name="敘">
+</set>
+<set name="晚">
+</set>
+<set name="譜">
+</set>
+<set name="濟">
+</set>
+<set name="郡">
+</set>
+<set name="嗣">
+</set>
+<set name="牢">
+</set>
+<set name="盥">
+</set>
+<set name="坤">
+</set>
+<set name="寧">
+</set>
+<set name="絨">
+</set>
+<set name="鏈">
+</set>
+<set name="繪">
+</set>
+<set name="拭">
+</set>
+<set name="褓">
+</set>
+<set name="柯">
+</set>
+<set name="棱">
+</set>
+<set name="跳">
+</set>
+<set name="該">
+</set>
+<set name="偶">
+</set>
+<set name="畸">
+</set>
+<set name="移">
+</set>
+<set name="竽">
+</set>
+<set name="詫">
+</set>
+<set name="忿">
+</set>
+<set name="老">
+</set>
+<set name="膀">
+</set>
+<set name="梆">
+</set>
+<set name="消">
+</set>
+<set name="躊">
+</set>
+<set name="鈍">
+</set>
+<set name="霏">
+</set>
+<set name="咎">
+</set>
+<set name="頑">
+</set>
+<set name="候">
+</set>
+<set name="紓">
+</set>
+<set name="媒">
+</set>
+<set name="帕">
+</set>
+<set name="羔">
+</set>
+<set name="肖">
+</set>
+<set name="訝">
+</set>
+<set name="鴛">
+</set>
+<set name="輟">
+</set>
+<set name="貞">
+</set>
+<set name="倡">
+</set>
+<set name="冠">
+</set>
+<set name="諶">
+</set>
+<set name="鬧">
+</set>
+<set name="勰">
+</set>
+<set name="縝">
+</set>
+<set name="脫">
+</set>
+<set name="掬">
+</set>
+<set name="撮">
+</set>
+<set name="蠱">
+</set>
+<set name="課">
+</set>
+<set name="踵">
+</set>
+<set name="猷">
+</set>
+<set name="吹">
+</set>
+<set name="皺">
+</set>
+<set name="稽">
+</set>
+<set name="精">
+</set>
+<set name="翅">
+</set>
+<set name="臀">
+</set>
+<set name="蕃">
+</set>
+<set name="拂">
+</set>
+<set name="柄">
+</set>
+<set name="歇">
+</set>
+<set name="豉">
+</set>
+<set name="珍">
+</set>
+<set name="克">
+</set>
+<set name="車">
+</set>
+<set name="前">
+</set>
+<set name="睏">
+</set>
+<set name="哎">
+</set>
+<set name="塑">
+</set>
+<set name="姐">
+</set>
+<set name="髒">
+</set>
+<set name="幕">
+</set>
+<set name="翔">
+</set>
+<set name="胖">
+</set>
+<set name="曚">
+</set>
+<set name="轟">
+</set>
+<set name="賞">
+</set>
+<set name="姑">
+</set>
+<set name="啣">
+</set>
+<set name="勢">
+</set>
+<set name="噥">
+</set>
+<set name="編">
+</set>
+<set name="腫">
+</set>
+<set name="扭">
+</set>
+<set name="泓">
+</set>
+<set name="杯">
+</set>
+<set name="蓮">
+</set>
+<set name="蒞">
+</set>
+<set name="迴">
+</set>
+<set name="卷">
+</set>
+<set name="馨">
+</set>
+<set name="壼">
+</set>
+<set name="迕">
+</set>
+<set name="固">
+</set>
+<set name="殮">
+</set>
+<set name="彿">
+</set>
+<set name="糾">
+</set>
+<set name="戀">
+</set>
+<set name="脂">
+</set>
+<set name="拗">
+</set>
+<set name="丈">
+</set>
+<set name="贊">
+</set>
+<set name="再">
+</set>
+<set name="霎">
+</set>
+<set name="鮑">
+</set>
+<set name="纓">
+</set>
+<set name="堂">
+</set>
+<set name="錯">
+</set>
+<set name="挖">
+</set>
+<set name="蔚">
+</set>
+<set name="輞">
+</set>
+<set name="閥">
+</set>
+<set name="冇">
+</set>
+<set name="碧">
+</set>
+<set name="符">
+</set>
+<set name="義">
+</set>
+<set name="披">
+</set>
+<set name="分">
+</set>
+<set name="蜮">
+</set>
+<set name="褲">
+</set>
+<set name="涵">
+</set>
+<set name="水">
+</set>
+<set name="傷">
+</set>
+<set name="猶">
+</set>
+<set name="瘸">
+</set>
+<set name="禽">
+</set>
+<set name="箋">
+</set>
+<set name="鼾">
+</set>
+<set name="菁">
+</set>
+<set name="所">
+</set>
+<set name="旅">
+</set>
+<set name="蹈">
+</set>
+<set name="重">
+</set>
+<set name="灌">
+</set>
+<set name="瓏">
+</set>
+<set name="坎">
+</set>
+<set name="廓">
+</set>
+<set name="饒">
+</set>
+<set name="柙">
+</set>
+<set name="櫛">
+</set>
+<set name="塌">
+</set>
+<set name="噤">
+</set>
+<set name="鏡">
+</set>
+<set name="牠">
+</set>
+<set name="監">
+</set>
+<set name="兢">
+</set>
+<set name="嗥">
+</set>
+<set name="瑤">
+</set>
+<set name="翩">
+</set>
+<set name="帽">
+</set>
+<set name="苫">
+</set>
+<set name="臭">
+</set>
+<set name="罹">
+</set>
+<set name="峙">
+</set>
+<set name="詰">
+</set>
+<set name="偎">
+</set>
+<set name="襲">
+</set>
+<set name="淵">
+</set>
+<set name="培">
+</set>
+<set name="陸">
+</set>
+<set name="嫻">
+</set>
+<set name="碾">
+</set>
+<set name="蔔">
+</set>
+<set name="持">
+</set>
+<set name="技">
+</set>
+<set name="昃">
+</set>
+<set name="憂">
+</set>
+<set name="殆">
+</set>
+<set name="載">
+</set>
+<set name="予">
+</set>
+<set name="越">
+</set>
+<set name="吏">
+</set>
+<set name="瞎">
+</set>
+<set name="笑">
+</set>
+<set name="妒">
+</set>
+<set name="紕">
+</set>
+<set name="岔">
+</set>
+<set name="耗">
+</set>
+<set name="莖">
+</set>
+<set name="訛">
+</set>
+<set name="氟">
+</set>
+<set name="匡">
+</set>
+<set name="加">
+</set>
+<set name="轇">
+</set>
+<set name="砧">
+</set>
+<set name="懨">
+</set>
+<set name="搯">
+</set>
+<set name="誰">
+</set>
+<set name="饉">
+</set>
+<set name="覲">
+</set>
+<set name="貴">
+</set>
+<set name="蕾">
+</set>
+<set name="霹">
+</set>
+<set name="隸">
+</set>
+<set name="稻">
+</set>
+<set name="碼">
+</set>
+<set name="尿">
+</set>
+<set name="誡">
+</set>
+<set name="晃">
+</set>
+<set name="懂">
+</set>
+<set name="故">
+</set>
+<set name="蓄">
+</set>
+<set name="謠">
+</set>
+<set name="轉">
+</set>
+<set name="剋">
+</set>
+<set name="配">
+</set>
+<set name="城">
+</set>
+<set name="孑">
+</set>
+<set name="秒">
+</set>
+<set name="絕">
+</set>
+<set name="荏">
+</set>
+<set name="揖">
+</set>
+<set name="蝙">
+</set>
+<set name="詛">
+</set>
+<set name="胎">
+</set>
+<set name="楝">
+</set>
+<set name="補">
+</set>
+<set name="江">
+</set>
+<set name="俞">
+</set>
+<set name="卡">
+</set>
+<set name="狠">
+</set>
+<set name="陣">
+</set>
+<set name="略">
+</set>
+<set name="顧">
+</set>
+<set name="實">
+</set>
+<set name="彩">
+</set>
+<set name="黨">
+</set>
+<set name="摯">
+</set>
+<set name="乳">
+</set>
+<set name="賴">
+</set>
+<set name="偷">
+</set>
+<set name="眨">
+</set>
+<set name="睹">
+</set>
+<set name="相">
+</set>
+<set name="痺">
+</set>
+<set name="好">
+</set>
+<set name="飼">
+</set>
+<set name="螃">
+</set>
+<set name="傀">
+</set>
+<set name="溉">
+</set>
+<set name="王">
+</set>
+<set name="傍">
+</set>
+<set name="球">
+</set>
+<set name="疏">
+</set>
+<set name="頒">
+</set>
+<set name="純">
+</set>
+<set name="或">
+</set>
+<set name="蜘">
+</set>
+<set name="殛">
+</set>
+<set name="條">
+</set>
+<set name="趟">
+</set>
+<set name="踞">
+</set>
+<set name="花">
+</set>
+<set name="垣">
+</set>
+<set name="逢">
+</set>
+<set name="莫">
+</set>
+<set name="榆">
+</set>
+<set name="瞳">
+</set>
+<set name="斯">
+</set>
+<set name="澳">
+</set>
+<set name="冷">
+</set>
+<set name="制">
+</set>
+<set name="霸">
+</set>
+<set name="琺">
+</set>
+<set name="綿">
+</set>
+<set name="績">
+</set>
+<set name="荀">
+</set>
+<set name="徊">
+</set>
+<set name="擅">
+</set>
+<set name="覷">
+</set>
+<set name="喑">
+</set>
+<set name="痠">
+</set>
+<set name="佈">
+</set>
+<set name="友">
+</set>
+<set name="扇">
+</set>
+<set name="兌">
+</set>
+<set name="噎">
+</set>
+<set name="子">
+</set>
+<set name="糕">
+</set>
+<set name="漸">
+</set>
+<set name="蛙">
+</set>
+<set name="毛">
+</set>
+<set name="喎">
+</set>
+<set name="裝">
+</set>
+<set name="玻">
+</set>
+<set name="跟">
+</set>
+<set name="乞">
+</set>
+<set name="狡">
+</set>
+<set name="占">
+</set>
+<set name="矣">
+</set>
+<set name="遢">
+</set>
+<set name="哥">
+</set>
+<set name="啤">
+</set>
+<set name="秧">
+</set>
+<set name="婦">
+</set>
+<set name="胭">
+</set>
+<set name="慬">
+</set>
+<set name="普">
+</set>
+<set name="諱">
+</set>
+<set name="議">
+</set>
+<set name="讒">
+</set>
+<set name="赴">
+</set>
+<set name="囹">
+</set>
+<set name="飽">
+</set>
+<set name="巿">
+</set>
+<set name="幾">
+</set>
+<set name="掀">
+</set>
+<set name="會">
+</set>
+<set name="邵">
+</set>
+<set name="薄">
+</set>
+<set name="複">
+</set>
+<set name="三">
+</set>
+<set name="侈">
+</set>
+<set name="倍">
+</set>
+<set name="濃">
+</set>
+<set name="唏">
+</set>
+<set name="階">
+</set>
+<set name="娑">
+</set>
+<set name="鼓">
+</set>
+<set name="抖">
+</set>
+<set name="講">
+</set>
+<set name="曇">
+</set>
+<set name="榜">
+</set>
+<set name="亞">
+</set>
+<set name="傢">
+</set>
+<set name="閤">
+</set>
+<set name="大">
+</set>
+<set name="羨">
+</set>
+<set name="茫">
+</set>
+<set name="憬">
+</set>
+<set name="支">
+</set>
+<set name="暮">
+</set>
+<set name="許">
+</set>
+<set name="仲">
+</set>
+<set name="踟">
+</set>
+<set name="儷">
+</set>
+<set name="鴿">
+</set>
+<set name="麾">
+</set>
+<set name="扁">
+</set>
+<set name="揀">
+</set>
+<set name="鑊">
+</set>
+<set name="憊">
+</set>
+<set name="卵">
+</set>
+<set name="蹉">
+</set>
+<set name="鍋">
+</set>
+<set name="泊">
+</set>
+<set name="遍">
+</set>
+<set name="里">
+</set>
+<set name="問">
+</set>
+<set name="盎">
+</set>
+<set name="寐">
+</set>
+<set name="展">
+</set>
+<set name="巔">
+</set>
+<set name="拖">
+</set>
+<set name="歛">
+</set>
+<set name="據">
+</set>
+<set name="衝">
+</set>
+<set name="仞">
+</set>
+<set name="牡">
+</set>
+<set name="珠">
+</set>
+<set name="督">
+</set>
+<set name="跨">
+</set>
+<set name="嗤">
+</set>
+<set name="奧">
+</set>
+<set name="髦">
+</set>
+<set name="繩">
+</set>
+<set name="繽">
+</set>
+<set name="捫">
+</set>
+<set name="恭">
+</set>
+<set name="矓">
+</set>
+<set name="話">
+</set>
+<set name="佳">
+</set>
+<set name="棲">
+</set>
+<set name="具">
+</set>
+<set name="噹">
+</set>
+<set name="埸">
+</set>
+<set name="哺">
+</set>
+<set name="蜂">
+</set>
+<set name="舄">
+</set>
+<set name="躇">
+</set>
+<set name="嘀">
+</set>
+<set name="權">
+</set>
+<set name="鞍">
+</set>
+<set name="芬">
+</set>
+<set name="綑">
+</set>
+<set name="墓">
+</set>
+<set name="箕">
+</set>
+<set name="稔">
+</set>
+<set name="暗">
+</set>
+<set name="潘">
+</set>
+<set name="耘">
+</set>
+<set name="沛">
+</set>
+<set name="翱">
+</set>
+<set name="依">
+</set>
+<set name="閡">
+</set>
+<set name="吠">
+</set>
+<set name="那">
+</set>
+<set name="判">
+</set>
+<set name="座">
+</set>
+<set name="鴦">
+</set>
+<set name="撫">
+</set>
+<set name="芯">
+</set>
+<set name="梳">
+</set>
+<set name="漲">
+</set>
+<set name="段">
+</set>
+<set name="訴">
+</set>
+<set name="嚷">
+</set>
+<set name="抒">
+</set>
+<set name="逸">
+</set>
+<set name="羽">
+</set>
+<set name="社">
+</set>
+<set name="旁">
+</set>
+<set name="胃">
+</set>
+<set name="熊">
+</set>
+<set name="仇">
+</set>
+<set name="案">
+</set>
+<set name="癌">
+</set>
+<set name="煎">
+</set>
+<set name="籐">
+</set>
+<set name="壓">
+</set>
+<set name="齒">
+</set>
+<set name="聘">
+</set>
+<set name="泛">
+</set>
+<set name="保">
+</set>
+<set name="乜">
+</set>
+<set name="楞">
+</set>
+<set name="嗡">
+</set>
+<set name="鑠">
+</set>
+<set name="面">
+</set>
+<set name="句">
+</set>
+<set name="銬">
+</set>
+<set name="給">
+</set>
+<set name="秩">
+</set>
+<set name="拯">
+</set>
+<set name="慮">
+</set>
+<set name="深">
+</set>
+<set name="汰">
+</set>
+<set name="裳">
+</set>
+<set name="洒">
+</set>
+<set name="雷">
+</set>
+<set name="當">
+</set>
+<set name="凹">
+</set>
+<set name="選">
+</set>
+<set name="系">
+</set>
+<set name="趾">
+</set>
+<set name="忽">
+</set>
+<set name="幼">
+</set>
+<set name="竿">
+</set>
+<set name="騮">
+</set>
+<set name="考">
+</set>
+<set name="螂">
+</set>
+<set name="茅">
+</set>
+<set name="抄">
+</set>
+<set name="万">
+</set>
+<set name="吋">
+</set>
+<set name="殊">
+</set>
+<set name="圍">
+</set>
+<set name="襬">
+</set>
+<set name="崑">
+</set>
+<set name="岐">
+</set>
+<set name="頓">
+</set>
+<set name="徒">
+</set>
+<set name="趴">
+</set>
+<set name="肘">
+</set>
+<set name="氛">
+</set>
+<set name="輝">
+</set>
+<set name="溜">
+</set>
+<set name="訟">
+</set>
+<set name="瀆">
+</set>
+<set name="拱">
+</set>
+<set name="連">
+</set>
+<set name="焚">
+</set>
+<set name="獰">
+</set>
+<set name="天">
+</set>
+<set name="風">
+</set>
+<set name="札">
+</set>
+<set name="音">
+</set>
+<set name="洱">
+</set>
+<set name="農">
+</set>
+<set name="偑">
+</set>
+<set name="墟">
+</set>
+<set name="珊">
+</set>
+<set name="炸">
+</set>
+<set name="麼">
+</set>
+<set name="稿">
+</set>
+<set name="禾">
+</set>
+<set name="恃">
+</set>
+<set name="淆">
+</set>
+<set name="瑋">
+</set>
+<set name="究">
+</set>
+<set name="坍">
+</set>
+<set name="雌">
+</set>
+<set name="鉏">
+</set>
+<set name="野">
+</set>
+<set name="鵑">
+</set>
+<set name="叭">
+</set>
+<set name="習">
+</set>
+<set name="孕">
+</set>
+<set name="體">
+</set>
+<set name="潸">
+</set>
+<set name="惘">
+</set>
+<set name="凄">
+</set>
+<set name="揚">
+</set>
+<set name="佝">
+</set>
+<set name="機">
+</set>
+<set name="啡">
+</set>
+<set name="饑">
+</set>
+<set name="灣">
+</set>
+<set name="矢">
+</set>
+<set name="鍥">
+</set>
+<set name="勤">
+</set>
+<set name="左">
+</set>
+<set name="磨">
+</set>
+<set name="葫">
+</set>
+<set name="杭">
+</set>
+<set name="曬">
+</set>
+<set name="良">
+</set>
+<set name="泰">
+</set>
+<set name="陷">
+</set>
+<set name="轕">
+</set>
+<set name="匠">
+</set>
+<set name="穿">
+</set>
+<set name="滔">
+</set>
+<set name="攀">
+</set>
+<set name="太">
+</set>
+<set name="茄">
+</set>
+<set name="澇">
+</set>
+<set name="燁">
+</set>
+<set name="開">
+</set>
+<set name="訊">
+</set>
+<set name="搬">
+</set>
+<set name="岑">
+</set>
+<set name="紐">
+</set>
+<set name="妓">
+</set>
+<set name="林">
+</set>
+<set name="搖">
+</set>
+<set name="戚">
+</set>
+<set name="溝">
+</set>
+<set name="澱">
+</set>
+<set name="鴕">
+</set>
+<set name="丰">
+</set>
+<set name="碩">
+</set>
+<set name="館">
+</set>
+<set name="本">
+</set>
+<set name="鏦">
+</set>
+<set name="洲">
+</set>
+<set name="蹟">
+</set>
+<set name="龔">
+</set>
+<set name="吶">
+</set>
+<set name="儸">
+</set>
+<set name="綻">
+</set>
+<set name="刺">
+</set>
+<set name="宿">
+</set>
+<set name="場">
+</set>
+<set name="擁">
+</set>
+<set name="懃">
+</set>
+<set name="時">
+</set>
+<set name="豆">
+</set>
+<set name="棉">
+</set>
+<set name="闋">
+</set>
+<set name="雍">
+</set>
+<set name="鑣">
+</set>
+<set name="過">
+</set>
+<set name="結">
+</set>
+<set name="姓">
+</set>
+<set name="沫">
+</set>
+<set name="孔">
+</set>
+<set name="爸">
+</set>
+<set name="慘">
+</set>
+<set name="跛">
+</set>
+<set name="靨">
+</set>
+<set name="作">
+</set>
+<set name="囤">
+</set>
+<set name="員">
+</set>
+<set name="釣">
+</set>
+<set name="院">
+</set>
+<set name="煬">
+</set>
+<set name="壩">
+</set>
+<set name="票">
+</set>
+<set name="姦">
+</set>
+<set name="璀">
+</set>
+<set name="霓">
+</set>
+<set name="華">
+</set>
+<set name="泱">
+</set>
+<set name="走">
+</set>
+<set name="槳">
+</set>
+<set name="蹲">
+</set>
+<set name="譴">
+</set>
+<set name="執">
+</set>
+<set name="呶">
+</set>
+<set name="價">
+</set>
+<set name="酸">
+</set>
+<set name="緻">
+</set>
+<set name="呲">
+</set>
+<set name="彼">
+</set>
+<set name="閔">
+</set>
+<set name="舅">
+</set>
+<set name="掄">
+</set>
+<set name="轆">
+</set>
+<set name="嘍">
+</set>
+<set name="瞌">
+</set>
+<set name="炎">
+</set>
+<set name="少">
+</set>
+<set name="渙">
+</set>
+<set name="餓">
+</set>
+<set name="箔">
+</set>
+<set name="朗">
+</set>
+<set name="軔">
+</set>
+<set name="耙">
+</set>
+<set name="洛">
+</set>
+<set name="踝">
+</set>
+<set name="辜">
+</set>
+<set name="別">
+</set>
+<set name="弧">
+</set>
+<set name="妨">
+</set>
+<set name="攫">
+</set>
+<set name="窪">
+</set>
+<set name="蘭">
+</set>
+<set name="振">
+</set>
+<set name="梱">
+</set>
+<set name="鯉">
+</set>
+<set name="躲">
+</set>
+<set name="樵">
+</set>
+<set name="眷">
+</set>
+<set name="鴻">
+</set>
+<set name="總">
+</set>
+<set name="墾">
+</set>
+<set name="揄">
+</set>
+<set name="佇">
+</set>
+<set name="啋">
+</set>
+<set name="降">
+</set>
+<set name="韌">
+</set>
+<set name="郎">
+</set>
+<set name="屑">
+</set>
+<set name="驕">
+</set>
+<set name="烏">
+</set>
+<set name="恙">
+</set>
+<set name="臘">
+</set>
+<set name="拚">
+</set>
+<set name="九">
+</set>
+<set name="譟">
+</set>
+<set name="攪">
+</set>
+<set name="酣">
+</set>
+<set name="離">
+</set>
+<set name="古">
+</set>
+<set name="橘">
+</set>
+<set name="姨">
+</set>
+<set name="婢">
+</set>
+<set name="柬">
+</set>
+<set name="猩">
+</set>
+<set name="囈">
+</set>
+<set name="煦">
+</set>
+<set name="滲">
+</set>
+<set name="疋">
+</set>
+<set name="坷">
+</set>
+<set name="瓶">
+</set>
+<set name="凸">
+</set>
+<set name="幽">
+</set>
+<set name="翼">
+</set>
+<set name="孿">
+</set>
+<set name="飾">
+</set>
+<set name="芃">
+</set>
+<set name="漆">
+</set>
+<set name="殉">
+</set>
+<set name="計">
+</set>
+<set name="隋">
+</set>
+<set name="同">
+</set>
+<set name="邏">
+</set>
+<set name="徑">
+</set>
+<set name="縐">
+</set>
+<set name="研">
+</set>
+<set name="艘">
+</set>
+<set name="掙">
+</set>
+<set name="嚅">
+</set>
+<set name="些">
+</set>
+<set name="愚">
+</set>
+<set name="廛">
+</set>
+<set name="瘠">
+</set>
+<set name="劣">
+</set>
+<set name="產">
+</set>
+<set name="冥">
+</set>
+<set name="箇">
+</set>
+<set name="粧">
+</set>
+<set name="弦">
+</set>
+<set name="緝">
+</set>
+<set name="暫">
+</set>
+<set name="堆">
+</set>
+<set name="簿">
+</set>
+<set name="萬">
+</set>
+<set name="肯">
+</set>
+<set name="辱">
+</set>
+<set name="踰">
+</set>
+<set name="檳">
+</set>
+<set name="育">
+</set>
+<set name="壟">
+</set>
+<set name="眶">
+</set>
+<set name="吵">
+</set>
+<set name="麻">
+</set>
+<set name="鄺">
+</set>
+<set name="綽">
+</set>
+<set name="尼">
+</set>
+<set name="資">
+</set>
+<set name="但">
+</set>
+<set name="屐">
+</set>
+<set name="雋">
+</set>
+<set name="楊">
+</set>
+<set name="慫">
+</set>
+<set name="像">
+</set>
+<set name="獎">
+</set>
+<set name="忑">
+</set>
+<set name="踹">
+</set>
+<set name="髓">
+</set>
+<set name="駕">
+</set>
+<set name="塔">
+</set>
+<set name="杖">
+</set>
+<set name="托">
+</set>
+<set name="慚">
+</set>
+<set name="距">
+</set>
+<set name="棟">
+</set>
+<set name="噠">
+</set>
+<set name="畢">
+</set>
+<set name="燥">
+</set>
+<set name="糧">
+</set>
+<set name="審">
+</set>
+<set name="奪">
+</set>
+<set name="旭">
+</set>
+<set name="葬">
+</set>
+<set name="据">
+</set>
+<set name="俱">
+</set>
+<set name="篩">
+</set>
+<set name="諳">
+</set>
+<set name="瓷">
+</set>
+<set name="鉸">
+</set>
+<set name="巽">
+</set>
+<set name="輔">
+</set>
+<set name="詁">
+</set>
+<set name="呦">
+</set>
+<set name="脅">
+</set>
+<set name="悄">
+</set>
+<set name="來">
+</set>
+<set name="瘋">
+</set>
+<set name="和">
+</set>
+<set name="透">
+</set>
+<set name="娓">
+</set>
+<set name="夕">
+</set>
+<set name="搗">
+</set>
+<set name="折">
+</set>
+<set name="減">
+</set>
+<set name="膚">
+</set>
+<set name="蠟">
+</set>
+<set name="殞">
+</set>
+<set name="濱">
+</set>
+<set name="鈣">
+</set>
+<set name="慇">
+</set>
+<set name="蹋">
+</set>
+<set name="骨">
+</set>
+<set name="禪">
+</set>
+<set name="蔭">
+</set>
+<set name="撬">
+</set>
+<set name="怯">
+</set>
+<set name="掮">
+</set>
+<set name="漱">
+</set>
+<set name="液">
+</set>
+<set name="匹">
+</set>
+<set name="醺">
+</set>
+<set name="粼">
+</set>
+<set name="輓">
+</set>
+<set name="蛀">
+</set>
+<set name="駟">
+</set>
+<set name="證">
+</set>
+<set name="陋">
+</set>
+<set name="儡">
+</set>
+<set name="偏">
+</set>
+<set name="槌">
+</set>
+<set name="黐">
+</set>
+<set name="緒">
+</set>
+<set name="奕">
+</set>
+<set name="著">
+</set>
+<set name="拘">
+</set>
+<set name="湛">
+</set>
+<set name="賜">
+</set>
+<set name="坡">
+</set>
+<set name="因">
+</set>
+<set name="闢">
+</set>
+<set name="入">
+</set>
+<set name="郤">
+</set>
+<set name="孩">
+</set>
+<set name="虫">
+</set>
+<set name="姪">
+</set>
+<set name="蕭">
+</set>
+<set name="擬">
+</set>
+<set name="聯">
+</set>
+<set name="揮">
+</set>
+<set name="仰">
+</set>
+<set name="詳">
+</set>
+<set name="極">
+</set>
+<set name="呷">
+</set>
+<set name="卹">
+</set>
+<set name="勸">
+</set>
+<set name="幻">
+</set>
+<set name="出">
+</set>
+<set name="幔">
+</set>
+<set name="嗔">
+</set>
+<set name="最">
+</set>
+<set name="掃">
+</set>
+<set name="肅">
+</set>
+<set name="祗">
+</set>
+<set name="涇">
+</set>
+<set name="型">
+</set>
+<set name="訢">
+</set>
+<set name="狒">
+</set>
+<set name="蹙">
+</set>
+<set name="螯">
+</set>
+<set name="斗">
+</set>
+<set name="濘">
+</set>
+<set name="芙">
+</set>
+<set name="辛">
+</set>
+<set name="鐮">
+</set>
+<set name="貝">
+</set>
+<set name="還">
+</set>
+<set name="眠">
+</set>
+<set name="琢">
+</set>
+<set name="簇">
+</set>
+<set name="窩">
+</set>
+<set name="笨">
+</set>
+<set name="螫">
+</set>
+<set name="堪">
+</set>
+<set name="播">
+</set>
+<set name="蔬">
+</set>
+<set name="戮">
+</set>
+<set name="估">
+</set>
+<set name="梵">
+</set>
+<set name="嘶">
+</set>
+<set name="銹">
+</set>
+<set name="庵">
+</set>
+<set name="雞">
+</set>
+<set name="禿">
+</set>
+<set name="騾">
+</set>
+<set name="詡">
+</set>
+<set name="情">
+</set>
+<set name="慄">
+</set>
+<set name="淇">
+</set>
+<set name="猖">
+</set>
+<set name="埋">
+</set>
+<set name="界">
+</set>
+<set name="量">
+</set>
+<set name="剎">
+</set>
+<set name="黑">
+</set>
+<set name="罐">
+</set>
+<set name="寓">
+</set>
+<set name="磕">
+</set>
+<set name="奔">
+</set>
+<set name="旗">
+</set>
+<set name="甸">
+</set>
+<set name="拙">
+</set>
+<set name="濛">
+</set>
+<set name="聚">
+</set>
+<set name="荐">
+</set>
+<set name="詞">
+</set>
+<set name="盡">
+</set>
+<set name="靠">
+</set>
+<set name="口">
+</set>
+<set name="呢">
+</set>
+<set name="僥">
+</set>
+<set name="照">
+</set>
+<set name="巧">
+</set>
+<set name="嫩">
+</set>
+<set name="訓">
+</set>
+<set name="扮">
+</set>
+<set name="潰">
+</set>
+<set name="汲">
+</set>
+<set name="棵">
+</set>
+<set name="陶">
+</set>
+<set name="狹">
+</set>
+<set name="卸">
+</set>
+<set name="翻">
+</set>
+<set name="遺">
+</set>
+<set name="峽">
+</set>
+<set name="姿">
+</set>
+<set name="范">
+</set>
+<set name="蒂">
+</set>
+<set name="者">
+</set>
+<set name="了">
+</set>
+<set name="國">
+</set>
+<set name="名">
+</set>
+<set name="帑">
+</set>
+<set name="徐">
+</set>
+<set name="粒">
+</set>
+<set name="蔗">
+</set>
+<set name="暖">
+</set>
+<set name="幃">
+</set>
+<set name="掘">
+</set>
+<set name="輛">
+</set>
+<set name="肚">
+</set>
+<set name="臍">
+</set>
+<set name="語">
+</set>
+<set name="瘡">
+</set>
+<set name="瞠">
+</set>
+<set name="憚">
+</set>
+<set name="倥">
+</set>
+<set name="冤">
+</set>
+<set name="度">
+</set>
+<set name="末">
+</set>
+<set name="搭">
+</set>
+<set name="斬">
+</set>
+<set name="脯">
+</set>
+<set name="踱">
+</set>
+<set name="辰">
+</set>
+<set name="謳">
+</set>
+<set name="貲">
+</set>
+<set name="榴">
+</set>
+<set name="男">
+</set>
+<set name="嚶">
+</set>
+<set name="爹">
+</set>
+<set name="漉">
+</set>
+<set name="鼻">
+</set>
+<set name="為">
+</set>
+<set name="簽">
+</set>
+<set name="嶼">
+</set>
+<set name="餿">
+</set>
+<set name="媾">
+</set>
+<set name="晁">
+</set>
+<set name="蟀">
+</set>
+<set name="荃">
+</set>
+<set name="擂">
+</set>
+<set name="瀏">
+</set>
+<set name="仆">
+</set>
+<set name="裊">
+</set>
+<set name="闌">
+</set>
+<set name="繹">
+</set>
+<set name="委">
+</set>
+<set name="敗">
+</set>
+<set name="迸">
+</set>
+<set name="艙">
+</set>
+<set name="潛">
+</set>
+<set name="惚">
+</set>
+<set name="汝">
+</set>
+<set name="獻">
+</set>
+<set name="襟">
+</set>
+<set name="癡">
+</set>
+<set name="埠">
+</set>
+<set name="瓢">
+</set>
+<set name="健">
+</set>
+<set name="穩">
+</set>
+<set name="災">
+</set>
+<set name="飪">
+</set>
+<set name="葭">
+</set>
+<set name="旬">
+</set>
+<set name="拮">
+</set>
+<set name="述">
+</set>
+<set name="酥">
+</set>
+<set name="長">
+</set>
+<set name="零">
+</set>
+<set name="特">
+</set>
+<set name="司">
+</set>
+<set name="蛾">
+</set>
+<set name="籽">
+</set>
+<set name="祿">
+</set>
+<set name="潔">
+</set>
+<set name="要">
+</set>
+<set name="涅">
+</set>
+<set name="沃">
+</set>
+<set name="謂">
+</set>
+<set name="鏗">
+</set>
+<set name="盞">
+</set>
+<set name="脆">
+</set>
+<set name="箍">
+</set>
+<set name="序">
+</set>
+<set name="崎">
+</set>
+<set name="逐">
+</set>
+<set name="嘔">
+</set>
+<set name="趙">
+</set>
+<set name="氘">
+</set>
+<set name="肛">
+</set>
+<set name="舜">
+</set>
+<set name="鑼">
+</set>
+<set name="鬢">
+</set>
+<set name="嚇">
+</set>
+<set name="犧">
+</set>
+<set name="焦">
+</set>
+<set name="閩">
+</set>
+<set name="被">
+</set>
+<set name="溯">
+</set>
+<set name="冉">
+</set>
+<set name="撳">
+</set>
+<set name="茲">
+</set>
+<set name="蘴">
+</set>
+<set name="骷">
+</set>
+<set name="綹">
+</set>
+<set name="簸">
+</set>
+<set name="傻">
+</set>
+<set name="缺">
+</set>
+<set name="皿">
+</set>
+<set name="唾">
+</set>
+<set name="槁">
+</set>
+<set name="血">
+</set>
+<set name="賃">
+</set>
+<set name="迅">
+</set>
+<set name="湄">
+</set>
+<set name="拇">
+</set>
+<set name="腆">
+</set>
+<set name="藉">
+</set>
+<set name="澍">
+</set>
+<set name="磋">
+</set>
+<set name="穌">
+</set>
+<set name="黏">
+</set>
+<set name="金">
+</set>
+<set name="遐">
+</set>
+<set name="卒">
+</set>
+<set name="諗">
+</set>
+<set name="襖">
+</set>
+<set name="胛">
+</set>
+<set name="佚">
+</set>
+<set name="敞">
+</set>
+<set name="閑">
+</set>
+<set name="鐐">
+</set>
+<set name="周">
+</set>
+<set name="坪">
+</set>
+<set name="詬">
+</set>
+<set name="滯">
+</set>
+<set name="浮">
+</set>
+<set name="恰">
+</set>
+<set name="捲">
+</set>
+<set name="柵">
+</set>
+<set name="晴">
+</set>
+<set name="奶">
+</set>
+<set name="鷹">
+</set>
+<set name="僻">
+</set>
+<set name="囿">
+</set>
+<set name="啾">
+</set>
+<set name="幪">
+</set>
+<set name="戈">
+</set>
+<set name="麗">
+</set>
+<set name="與">
+</set>
+<set name="撈">
+</set>
+<set name="鬍">
+</set>
+<set name="妙">
+</set>
+<set name="玒">
+</set>
+<set name="隔">
+</set>
+<set name="託">
+</set>
+<set name="視">
+</set>
+<set name="侚">
+</set>
+<set name="星">
+</set>
+<set name="餡">
+</set>
+<set name="簣">
+</set>
+<set name="客">
+</set>
+<set name="甩">
+</set>
+<set name="璨">
+</set>
+<set name="瞪">
+</set>
+<set name="檬">
+</set>
+<set name="港">
+</set>
+<set name="涮">
+</set>
+<set name="歉">
+</set>
+<set name="朵">
+</set>
+<set name="暴">
+</set>
+<set name="騷">
+</set>
+<set name="紹">
+</set>
+<set name="岸">
+</set>
+<set name="阿">
+</set>
+<set name="疾">
+</set>
+<set name="襁">
+</set>
+<set name="轅">
+</set>
+<set name="滄">
+</set>
+<set name="艇">
+</set>
+<set name="臆">
+</set>
+<set name="蕉">
+</set>
+<set name="灶">
+</set>
+<set name="筍">
+</set>
+<set name="嫌">
+</set>
+<set name="褒">
+</set>
+<set name="遏">
+</set>
+<set name="睜">
+</set>
+<set name="浙">
+</set>
+<set name="俚">
+</set>
+<set name="姻">
+</set>
+<set name="號">
+</set>
+<set name="魘">
+</set>
+<set name="佑">
+</set>
+<set name="籣">
+</set>
+<set name="寢">
+</set>
+<set name="彥">
+</set>
+<set name="牧">
+</set>
+<set name="燦">
+</set>
+<set name="哨">
+</set>
+<set name="衫">
+</set>
+<set name="譭">
+</set>
+<set name="御">
+</set>
+<set name="湯">
+</set>
+<set name="淮">
+</set>
+<set name="腱">
+</set>
+<set name="惰">
+</set>
+<set name="菲">
+</set>
+<set name="羚">
+</set>
+<set name="更">
+</set>
+<set name="婷">
+</set>
+<set name="絹">
+</set>
+<set name="祕">
+</set>
+<set name="鋼">
+</set>
+<set name="裔">
+</set>
+<set name="梁">
+</set>
+<set name="樂">
+</set>
+<set name="躅">
+</set>
+<set name="冀">
+</set>
+<set name="蘊">
+</set>
+<set name="嬌">
+</set>
+<set name="導">
+</set>
+<set name="傑">
+</set>
+<set name="間">
+</set>
+<set name="划">
+</set>
+<set name="嚕">
+</set>
+<set name="栖">
+</set>
+<set name="沙">
+</set>
+<set name="膛">
+</set>
+<set name="渚">
+</set>
+<set name="芝">
+</set>
+<set name="茜">
+</set>
+<set name="搞">
+</set>
+<set name="夠">
+</set>
+<set name="麥">
+</set>
+<set name="鎧">
+</set>
+<set name="倦">
+</set>
+<set name="咩">
+</set>
+<set name="用">
+</set>
+<set name="阪">
+</set>
+<set name="謬">
+</set>
+<set name="辯">
+</set>
+<set name="戲">
+</set>
+<set name="蜴">
+</set>
+<set name="粹">
+</set>
+<set name="韜">
+</set>
+<set name="瞿">
+</set>
+<set name="吾">
+</set>
+<set name="裁">
+</set>
+<set name="睡">
+</set>
+<set name="滅">
+</set>
+<set name="轄">
+</set>
+<set name="菇">
+</set>
+<set name="聆">
+</set>
+<set name="饔">
+</set>
+<set name="效">
+</set>
+<set name="始">
+</set>
+<set name="屎">
+</set>
+<set name="僑">
+</set>
+<set name="禹">
+</set>
+<set name="嗓">
+</set>
+<set name="雕">
+</set>
+<set name="毗">
+</set>
+<set name="砸">
+</set>
+<set name="煥">
+</set>
+<set name="烤">
+</set>
+<set name="磡">
+</set>
+<set name="奠">
+</set>
+<set name="緣">
+</set>
+<set name="穢">
+</set>
+<set name="彤">
+</set>
+<set name="哩">
+</set>
+<set name="陪">
+</set>
+<set name="諭">
+</set>
+<set name="譬">
+</set>
+<set name="俯">
+</set>
+<set name="惱">
+</set>
+<set name="慰">
+</set>
+<set name="旳">
+</set>
+<set name="色">
+</set>
+<set name="蝴">
+</set>
+<set name="篷">
+</set>
+<set name="懣">
+</set>
+<set name="鸕">
+</set>
+<set name="燻">
+</set>
+<set name="畦">
+</set>
+<set name="狽">
+</set>
+<set name="響">
+</set>
+<set name="瑾">
+</set>
+<set name="清">
+</set>
+<set name="澄">
+</set>
+<set name="指">
+</set>
+<set name="肆">
+</set>
+<set name="薈">
+</set>
+<set name="蚊">
+</set>
+<set name="稍">
+</set>
+<set name="完">
+</set>
+<set name="式">
+</set>
+<set name="蓬">
+</set>
+<set name="們">
+</set>
+<set name="息">
+</set>
+<set name="謗">
+</set>
+<set name="袖">
+</set>
+<set name="愛">
+</set>
+<set name="期">
+</set>
+<set name="撞">
+</set>
+<set name="堡">
+</set>
+<set name="帥">
+</set>
+<set name="群">
+</set>
+<set name="邦">
+</set>
+<set name="吩">
+</set>
+<set name="閨">
+</set>
+<set name="險">
+</set>
+<set name="設">
+</set>
+<set name="伯">
+</set>
+<set name="沮">
+</set>
+<set name="應">
+</set>
+<set name="緲">
+</set>
+<set name="昵">
+</set>
+<set name="穗">
+</set>
+<set name="尹">
+</set>
+<set name="儻">
+</set>
+<set name="爽">
+</set>
+<set name="鹽">
+</set>
+<set name="觀">
+</set>
+<set name="鍊">
+</set>
+<set name="久">
+</set>
+<set name="俄">
+</set>
+<set name="薑">
+</set>
+<set name="惆">
+</set>
+<set name="葉">
+</set>
+<set name="饋">
+</set>
+<set name="積">
+</set>
+<set name="富">
+</set>
+<set name="灑">
+</set>
+<set name="釐">
+</set>
+<set name="鯨">
+</set>
+<set name="鋒">
+</set>
+<set name="埔">
+</set>
+<set name="鋸">
+</set>
+<set name="淘">
+</set>
+<set name="菜">
+</set>
+<set name="束">
+</set>
+<set name="砭">
+</set>
+<set name="懺">
+</set>
+<set name="舶">
+</set>
+<set name="嘿">
+</set>
+<set name="瑩">
+</set>
+<set name="嗨">
+</set>
+<set name="雪">
+</set>
+<set name="詭">
+</set>
+<set name="佯">
+</set>
+<set name="泮">
+</set>
+<set name="眺">
+</set>
+<set name="柴">
+</set>
+<set name="魷">
+</set>
+<set name="屹">
+</set>
+<set name="建">
+</set>
+<set name="牽">
+</set>
+<set name="愫">
+</set>
+<set name="汀">
+</set>
+<set name="言">
+</set>
+<set name="褂">
+</set>
+<set name="超">
+</set>
+<set name="肇">
+</set>
+<set name="戒">
+</set>
+<set name="禍">
+</set>
+<set name="砌">
+</set>
+<set name="斛">
+</set>
+<set name="鼎">
+</set>
+<set name="爐">
+</set>
+<set name="皓">
+</set>
+<set name="儒">
+</set>
+<set name="梗">
+</set>
+<set name="塘">
+</set>
+<set name="悅">
+</set>
+<set name="膝">
+</set>
+<set name="管">
+</set>
+<set name="稠">
+</set>
+<set name="夢">
+</set>
+<set name="尤">
+</set>
+<set name="錦">
+</set>
+<set name="榭">
+</set>
+<set name="貯">
+</set>
+<set name="瞣">
+</set>
+<set name="戰">
+</set>
+<set name="嬈">
+</set>
+<set name="徹">
+</set>
+<set name="常">
+</set>
+<set name="冽">
+</set>
+<set name="值">
+</set>
+<set name="咿">
+</set>
+<set name="圾">
+</set>
+<set name="跡">
+</set>
+<set name="淅">
+</set>
+<set name="屠">
+</set>
+<set name="立">
+</set>
+<set name="蕊">
+</set>
+<set name="姍">
+</set>
+<set name="題">
+</set>
+<set name="彎">
+</set>
+<set name="兒">
+</set>
+<set name="痕">
+</set>
+<set name="熏">
+</set>
+<set name="棗">
+</set>
+<set name="乘">
+</set>
+<set name="招">
+</set>
+<set name="杞">
+</set>
+<set name="寡">
+</set>
+<set name="躑">
+</set>
+<set name="廣">
+</set>
+<set name="奢">
+</set>
+<set name="工">
+</set>
+<set name="層">
+</set>
+<set name="僧">
+</set>
+<set name="卦">
+</set>
+<set name="矩">
+</set>
+<set name="器">
+</set>
+<set name="諫">
+</set>
+<set name="番">
+</set>
+<set name="槭">
+</set>
+<set name="泯">
+</set>
+<set name="潮">
+</set>
+<set name="菱">
+</set>
+<set name="曳">
+</set>
+<set name="輿">
+</set>
+<set name="翹">
+</set>
+<set name="幸">
+</set>
+<set name="勻">
+</set>
+<set name="諺">
+</set>
+<set name="函">
+</set>
+<set name="灼">
+</set>
+<set name="褔">
+</set>
+<set name="恁">
+</set>
+<set name="七">
+</set>
+<set name="概">
+</set>
+<set name="鹼">
+</set>
+<set name="有">
+</set>
+<set name="暈">
+</set>
+<set name="程">
+</set>
+<set name="碌">
+</set>
+<set name="小">
+</set>
+<set name="美">
+</set>
+<set name="瘓">
+</set>
+<set name="醒">
+</set>
+<set name="甕">
+</set>
+<set name="栗">
+</set>
+<set name="殖">
+</set>
+<set name="伙">
+</set>
+<set name="戛">
+</set>
+<set name="供">
+</set>
+<set name="螞">
+</set>
+<set name="窠">
+</set>
+<set name="縣">
+</set>
+<set name="倚">
+</set>
+<set name="昭">
+</set>
+<set name="鑰">
+</set>
+<set name="眩">
+</set>
+<set name="隨">
+</set>
+<set name="喪">
+</set>
+<set name="胳">
+</set>
+<set name="氯">
+</set>
+<set name="侮">
+</set>
+<set name="憲">
+</set>
+<set name="頷">
+</set>
+<set name="家">
+</set>
+<set name="庸">
+</set>
+<set name="刻">
+</set>
+<set name="嶺">
+</set>
+<set name="腋">
+</set>
+<set name="乃">
+</set>
+<set name="今">
+</set>
+<set name="賄">
+</set>
+<set name="揆">
+</set>
+<set name="杉">
+</set>
+<set name="忡">
+</set>
+<set name="屏">
+</set>
+<set name="驍">
+</set>
+<set name="卑">
+</set>
+<set name="狐">
+</set>
+<set name="噓">
+</set>
+<set name="燒">
+</set>
+<set name="啕">
+</set>
+<set name="坏">
+</set>
+<set name="街">
+</set>
+<set name="余">
+</set>
+<set name="付">
+</set>
+<set name="扛">
+</set>
+<set name="淚">
+</set>
+<set name="惜">
+</set>
+<set name="摟">
+</set>
+<set name="章">
+</set>
+<set name="幣">
+</set>
+<set name="孺">
+</set>
+<set name="券">
+</set>
+<set name="另">
+</set>
+<set name="革">
+</set>
+<set name="雨">
+</set>
+<set name="橫">
+</set>
+<set name="渦">
+</set>
+<set name="業">
+</set>
+<set name="修">
+</set>
+<set name="捱">
+</set>
+<set name="懲">
+</set>
+<set name="敵">
+</set>
+<set name="擴">
+</set>
+<set name="寶">
+</set>
+<set name="役">
+</set>
+<set name="漾">
+</set>
+<set name="鷺">
+</set>
+<set name="煽">
+</set>
+<set name="鑿">
+</set>
+<set name="謀">
+</set>
+<set name="侃">
+</set>
+<set name="獗">
+</set>
+<set name="暉">
+</set>
+<set name="月">
+</set>
+<set name="宋">
+</set>
+<set name="萊">
+</set>
+<set name="綏">
+</set>
+<set name="攬">
+</set>
+<set name="劑">
+</set>
+<set name="錐">
+</set>
+<set name="匝">
+</set>
+<set name="倒">
+</set>
+<set name="咕">
+</set>
+<set name="唔">
+</set>
+<set name="亙">
+</set>
+<set name="掛">
+</set>
+<set name="肝">
+</set>
+<set name="愜">
+</set>
+<set name="斟">
+</set>
+<set name="笠">
+</set>
+<set name="粥">
+</set>
+<set name="昇">
+</set>
+<set name="在">
+</set>
+<set name="琪">
+</set>
+<set name="梭">
+</set>
+<set name="涯">
+</set>
+<set name="鵠">
+</set>
+<set name="抱">
+</set>
+<set name="焉">
+</set>
+<set name="闇">
+</set>
+<set name="娶">
+</set>
+<set name="缸">
+</set>
+<set name="去">
+</set>
+<set name="尺">
+</set>
+<set name="儼">
+</set>
+<set name="促">
+</set>
+<set name="桂">
+</set>
+<set name="懇">
+</set>
+<set name="几">
+</set>
+<set name="曉">
+</set>
+<set name="饌">
+</set>
+<set name="芹">
+</set>
+<set name="韓">
+</set>
+<set name="畔">
+</set>
+<set name="仙">
+</set>
+<set name="癥">
+</set>
+<set name="換">
+</set>
+<set name="豚">
+</set>
+<set name="虞">
+</set>
+<set name="筠">
+</set>
+<set name="塢">
+</set>
+<set name="鳥">
+</set>
+<set name="釧">
+</set>
+<set name="蒐">
+</set>
+<set name="睨">
+</set>
+<set name="毫">
+</set>
+<set name="瑪">
+</set>
+<set name="雯">
+</set>
+<set name="路">
+</set>
+<set name="湮">
+</set>
+<set name="英">
+</set>
+<set name="柳">
+</set>
+<set name="聲">
+</set>
+<set name="整">
+</set>
+<set name="巨">
+</set>
+<set name="叻">
+</set>
+<set name="都">
+</set>
+<set name="兼">
+</set>
+<set name="百">
+</set>
+<set name="樁">
+</set>
+<set name="讀">
+</set>
+<set name="較">
+</set>
+<set name="袂">
+</set>
+<set name="猙">
+</set>
+<set name="砍">
+</set>
+<set name="痣">
+</set>
+<set name="刑">
+</set>
+<set name="夙">
+</set>
+<set name="圓">
+</set>
+<set name="炒">
+</set>
+<set name="喔">
+</set>
+<set name="碘">
+</set>
+<set name="丙">
+</set>
+<set name="思">
+</set>
+<set name="膜">
+</set>
+<set name="琛">
+</set>
+<set name="鄧">
+</set>
+<set name="嘩">
+</set>
+<set name="謫">
+</set>
+<set name="咪">
+</set>
+<set name="覬">
+</set>
+<set name="亮">
+</set>
+<set name="羈">
+</set>
+<set name="諉">
+</set>
+<set name="悲">
+</set>
+<set name="搵">
+</set>
+<set name="夷">
+</set>
+<set name="猻">
+</set>
+<set name="韋">
+</set>
+<set name="吆">
+</set>
+<set name="毀">
+</set>
+<set name="裂">
+</set>
+<set name="捷">
+</set>
+<set name="孖">
+</set>
+<set name="拆">
+</set>
+<set name="晉">
+</set>
+<set name="筋">
+</set>
+<set name="擊">
+</set>
+<set name="額">
+</set>
+<set name="黎">
+</set>
+<set name="瑕">
+</set>
+<set name="闔">
+</set>
+<set name="論">
+</set>
+<set name="乙">
+</set>
+<set name="鶴">
+</set>
+<set name="齣">
+</set>
+<set name="飢">
+</set>
+<set name="履">
+</set>
+<set name="內">
+</set>
+<set name="噩">
+</set>
+<set name="烽">
+</set>
+<set name="哪">
+</set>
+<set name="艱">
+</set>
+<set name="杳">
+</set>
+<set name="葵">
+</set>
+<set name="競">
+</set>
+<set name="幹">
+</set>
+<set name="棕">
+</set>
+<set name="卻">
+</set>
+<set name="琵">
+</set>
+<set name="偽">
+</set>
+<set name="燼">
+</set>
+<set name="盾">
+</set>
+<set name="趁">
+</set>
+<set name="漂">
+</set>
+<set name="暇">
+</set>
+<set name="龍">
+</set>
+<set name="希">
+</set>
+<set name="礎">
+</set>
+<set name="疑">
+</set>
+<set name="吐">
+</set>
+<set name="園">
+</set>
+<set name="鈔">
+</set>
+<set name="龜">
+</set>
+<set name="贖">
+</set>
+<set name="謾">
+</set>
+<set name="馮">
+</set>
+<set name="枝">
+</set>
+<set name="欹">
+</set>
+<set name="萄">
+</set>
+<set name="由">
+</set>
+<set name="宥">
+</set>
+<set name="隧">
+</set>
+<set name="甦">
+</set>
+<set name="貫">
+</set>
+<set name="匪">
+</set>
+<set name="辭">
+</set>
+<set name="測">
+</set>
+<set name="檯">
+</set>
+<set name="戴">
+</set>
+<set name="康">
+</set>
+<set name="妹">
+</set>
+<set name="頸">
+</set>
+<set name="瞽">
+</set>
+<set name="滸">
+</set>
+<set name="囡">
+</set>
+<set name="毅">
+</set>
+<set name="橄">
+</set>
+<set name="蛇">
+</set>
+<set name="臉">
+</set>
+<set name="峋">
+</set>
+<set name="荊">
+</set>
+<set name="忍">
+</set>
+<set name="幌">
+</set>
+<set name="髏">
+</set>
+<set name="奎">
+</set>
+<set name="嗑">
+</set>
+<set name="青">
+</set>
+<set name="剔">
+</set>
+<set name="仗">
+</set>
+<set name="譚">
+</set>
+<set name="虜">
+</set>
+<set name="苟">
+</set>
+<set name="煤">
+</set>
+<set name="巡">
+</set>
+<set name="籠">
+</set>
+<set name="形">
+</set>
+<set name="寥">
+</set>
+<set name="盧">
+</set>
+<set name="啦">
+</set>
+<set name="遨">
+</set>
+<set name="鞋">
+</set>
+<set name="迭">
+</set>
+<set name="蹬">
+</set>
+<set name="旱">
+</set>
+<set name="想">
+</set>
+<set name="餒">
+</set>
+<set name="廷">
+</set>
+<set name="涕">
+</set>
+<set name="膾">
+</set>
+<set name="發">
+</set>
+<set name="勿">
+</set>
+<set name="檄">
+</set>
+<set name="蘇">
+</set>
+<set name="愉">
+</set>
+<set name="尋">
+</set>
+<set name="莊">
+</set>
+<set name="續">
+</set>
+<set name="敬">
+</set>
+<set name="咐">
+</set>
+<set name="坊">
+</set>
+<set name="迂">
+</set>
+<set name="萛">
+</set>
+<set name="讚">
+</set>
+<set name="朝">
+</set>
+<set name="沼">
+</set>
+<set name="舟">
+</set>
+<set name="膞">
+</set>
+<set name="紡">
+</set>
+<set name="砣">
+</set>
+<set name="鬥">
+</set>
+<set name="彰">
+</set>
+<set name="氫">
+</set>
+<set name="嗆">
+</set>
+<set name="京">
+</set>
+<set name="榮">
+</set>
+<set name="撰">
+</set>
+<set name="耳">
+</set>
+<set name="茵">
+</set>
+<set name="縷">
+</set>
+<set name="颸">
+</set>
+<set name="吻">
+</set>
+<set name="嚼">
+</set>
+<set name="爿">
+</set>
+<set name="熾">
+</set>
+<set name="流">
+</set>
+<set name="賀">
+</set>
+<set name="桃">
+</set>
+<set name="係">
+</set>
+<set name="轍">
+</set>
+<set name="屋">
+</set>
+<set name="菊">
+</set>
+<set name="滌">
+</set>
+<set name="道">
+</set>
+<set name="獸">
+</set>
+<set name="棘">
+</set>
+<set name="葛">
+</set>
+<set name="琤">
+</set>
+<set name="絡">
+</set>
+<set name="嗦">
+</set>
+<set name="煩">
+</set>
+<set name="部">
+</set>
+<set name="豫">
+</set>
+<set name="只">
+</set>
+<set name="潭">
+</set>
+<set name="滬">
+</set>
+<set name="復">
+</set>
+<set name="聳">
+</set>
+<set name="蟲">
+</set>
+<set name="駿">
+</set>
+<set name="她">
+</set>
+<set name="呻">
+</set>
+<set name="寺">
+</set>
+<set name="盼">
+</set>
+<set name="剿">
+</set>
+<set name="苔">
+</set>
+<set name="沁">
+</set>
+<set name="瘁">
+</set>
+<set name="誅">
+</set>
+<set name="欄">
+</set>
+<set name="枇">
+</set>
+<set name="搆">
+</set>
+<set name="悉">
+</set>
+<set name="愈">
+</set>
+<set name="舊">
+</set>
+<set name="纍">
+</set>
+<set name="宏">
+</set>
+<set name="唐">
+</set>
+<set name="撂">
+</set>
+<set name="澗">
+</set>
+<set name="裘">
+</set>
+<set name="薛">
+</set>
+<set name="蜜">
+</set>
+<set name="掟">
+</set>
+<set name="岡">
+</set>
+<set name="素">
+</set>
+<set name="嬤">
+</set>
+<set name="瞧">
+</set>
+<set name="否">
+</set>
+<set name="刪">
+</set>
+<set name="亭">
+</set>
+<set name="漬">
+</set>
+<set name="殯">
+</set>
+<set name="盜">
+</set>
+<set name="膳">
+</set>
+<set name="抵">
+</set>
+<set name="德">
+</set>
+<set name="夸">
+</set>
+<set name="喻">
+</set>
+<set name="眼">
+</set>
+<set name="逾">
+</set>
+<set name="況">
+</set>
+<set name="鵡">
+</set>
+<set name="蹂">
+</set>
+<set name="慈">
+</set>
+<set name="緋">
+</set>
+<set name="錶">
+</set>
+<set name="阜">
+</set>
+<set name="彌">
+</set>
+<set name="顎">
+</set>
+<set name="癒">
+</set>
+<set name="動">
+</set>
+<set name="協">
+</set>
+<set name="俗">
+</set>
+<set name="裙">
+</set>
+<set name="旛">
+</set>
+<set name="曝">
+</set>
+<set name="杜">
+</set>
+<set name="聞">
+</set>
+<set name="縑">
+</set>
+<set name="姣">
+</set>
+<set name="幢">
+</set>
+<set name="童">
+</set>
+<set name="孤">
+</set>
+<set name="龐">
+</set>
+<set name="全">
+</set>
+<set name="淫">
+</set>
+<set name="剪">
+</set>
+<set name="佬">
+</set>
+<set name="毯">
+</set>
+<set name="擱">
+</set>
+<set name="兩">
+</set>
+<set name="至">
+</set>
+<set name="燠">
+</set>
+<set name="沿">
+</set>
+<set name="婀">
+</set>
+<set name="壹">
+</set>
+<set name="奸">
+</set>
+<set name="空">
+</set>
+<set name="靼">
+</set>
+<set name="亂">
+</set>
+<set name="殄">
+</set>
+<set name="喱">
+</set>
+<set name="膈">
+</set>
+<set name="紋">
+</set>
+<set name="把">
+</set>
+<set name="後">
+</set>
+<set name="盂">
+</set>
+<set name="碎">
+</set>
+<set name="向">
+</set>
+<set name="鈕">
+</set>
+<set name="盅">
+</set>
+<set name="沖">
+</set>
+<set name="嗅">
+</set>
+<set name="果">
+</set>
+<set name="簡">
+</set>
+<set name="綠">
+</set>
+<set name="悚">
+</set>
+<set name="娥">
+</set>
+<set name="室">
+</set>
+<set name="霧">
+</set>
+<set name="擰">
+</set>
+<set name="倩">
+</set>
+<set name="妮">
+</set>
+<set name="努">
+</set>
+<set name="中">
+</set>
+<set name="新">
+</set>
+<set name="舵">
+</set>
+<set name="強">
+</set>
+<set name="頹">
+</set>
+<set name="獵">
+</set>
+<set name="窺">
+</set>
+<set name="瞼">
+</set>
+<set name="匿">
+</set>
+<set name="傾">
+</set>
+<set name="汁">
+</set>
+<set name="阡">
+</set>
+<set name="鞠">
+</set>
+<set name="凍">
+</set>
+<set name="忌">
+</set>
+<set name="魏">
+</set>
+<set name="偌">
+</set>
+<set name="鑑">
+</set>
+<set name="嗐">
+</set>
+<set name="盒">
+</set>
+<set name="叔">
+</set>
+<set name="櫚">
+</set>
+<set name="晝">
+</set>
+<set name="摻">
+</set>
+<set name="胞">
+</set>
+<set name="姝">
+</set>
+<set name="締">
+</set>
+<set name="廢">
+</set>
+<set name="驥">
+</set>
+<set name="篤">
+</set>
+<set name="瓦">
+</set>
+<set name="適">
+</set>
+<set name="赫">
+</set>
+<set name="鋪">
+</set>
+<set name="蹭">
+</set>
+<set name="俬">
+</set>
+<set name="譯">
+</set>
+<set name="森">
+</set>
+<set name="腳">
+</set>
+<set name="曲">
+</set>
+<set name="援">
+</set>
+<set name="罷">
+</set>
+<set name="島">
+</set>
+<set name="啻">
+</set>
+<set name="臾">
+</set>
+<set name="陽">
+</set>
+<set name="卿">
+</set>
+<set name="一">
+</set>
+<set name="袪">
+</set>
+<set name="撇">
+</set>
+<set name="掉">
+</set>
+<set name="興">
+</set>
+<set name="脊">
+</set>
+<set name="剌">
+</set>
+<set name="慳">
+</set>
+<set name="冕">
+</set>
+<set name="途">
+</set>
+<set name="記">
+</set>
+<set name="搜">
+</set>
+<set name="悟">
+</set>
+<set name="羡">
+</set>
+<set name="窣">
+</set>
+<set name="索">
+</set>
+<set name="妥">
+</set>
+<set name="堤">
+</set>
+<set name="咧">
+</set>
+<set name="玩">
+</set>
+<set name="刨">
+</set>
+<set name="享">
+</set>
+<set name="優">
+</set>
+<set name="梯">
+</set>
+<set name="襠">
+</set>
+<set name="肉">
+</set>
+<set name="芳">
+</set>
+<set name="脈">
+</set>
+<set name="容">
+</set>
+<set name="砵">
+</set>
+<set name="隻">
+</set>
+<set name="示">
+</set>
+<set name="吼">
+</set>
+<set name="馴">
+</set>
+<set name="濁">
+</set>
+<set name="菡">
+</set>
+<set name="櫃">
+</set>
+<set name="戊">
+</set>
+<set name="唷">
+</set>
+<set name="擇">
+</set>
+<set name="杆">
+</set>
+<set name="揉">
+</set>
+<set name="亍">
+</set>
+<set name="廘">
+</set>
+<set name="巍">
+</set>
+<set name="難">
+</set>
+<set name="肋">
+</set>
+<set name="限">
+</set>
+<set name="酢">
+</set>
+<set name="燕">
+</set>
+<set name="達">
+</set>
+<set name="泗">
+</set>
+<set name="藥">
+</set>
+<set name="蛛">
+</set>
+<set name="楚">
+</set>
+<set name="藝">
+</set>
+<set name="惟">
+</set>
+<set name="呤">
+</set>
+<set name="翡">
+</set>
+<set name="嫣">
+</set>
+<set name="絢">
+</set>
+<set name="姥">
+</set>
+<set name="坦">
+</set>
+<set name="叩">
+</set>
+<set name="闡">
+</set>
+<set name="武">
+</set>
+<set name="豬">
+</set>
+<set name="涼">
+</set>
+<set name="柱">
+</set>
+<set name="晰">
+</set>
+<set name="拳">
+</set>
+<set name="敲">
+</set>
+<set name="懵">
+</set>
+<set name="電">
+</set>
+<set name="祺">
+</set>
+<set name="嗽">
+</set>
+<set name="呼">
+</set>
+<set name="鍾">
+</set>
+<set name="企">
+</set>
+<set name="訃">
+</set>
+<set name="碳">
+</set>
+<set name="椅">
+</set>
+<set name="壅">
+</set>
+<set name="按">
+</set>
+<set name="膊">
+</set>
+<set name="納">
+</set>
+<set name="獃">
+</set>
+<set name="苒">
+</set>
+<set name="恬">
+</set>
+<set name="霑">
+</set>
+<set name="嚐">
+</set>
+<set name="閒">
+</set>
+<set name="儕">
+</set>
+<set name="餘">
+</set>
+<set name="謙">
+</set>
+<set name="誘">
+</set>
+<set name="擻">
+</set>
+<set name="攝">
+</set>
+<set name="蒜">
+</set>
+<set name="燄">
+</set>
+<set name="綢">
+</set>
+<set name="夥">
+</set>
+<set name="吧">
+</set>
+<set name="鞦">
+</set>
+<set name="攣">
+</set>
+<set name="丫">
+</set>
+<set name="責">
+</set>
+<set name="圜">
+</set>
+<set name="朱">
+</set>
+<set name="霾">
+</set>
+<set name="戳">
+</set>
+<set name="悴">
+</set>
+<set name="尷">
+</set>
+<set name="骸">
+</set>
+<set name="阻">
+</set>
+<set name="什">
+</set>
+<set name="棄">
+</set>
+<set name="崠">
+</set>
+<set name="草">
+</set>
+<set name="拈">
+</set>
+<set name="懊">
+</set>
+<set name="顏">
+</set>
+<set name="坑">
+</set>
+<set name="嗒">
+</set>
+<set name="汗">
+</set>
+<set name="噸">
+</set>
+<set name="虛">
+</set>
+<set name="敝">
+</set>
+<set name="髻">
+</set>
+<set name="霉">
+</set>
+<set name="齡">
+</set>
+<set name="廠">
+</set>
+<set name="巢">
+</set>
+<set name="祥">
+</set>
+<set name="壤">
+</set>
+<set name="砰">
+</set>
+<set name="忐">
+</set>
+<set name="箴">
+</set>
+<set name="琦">
+</set>
+<set name="赭">
+</set>
+<set name="賬">
+</set>
+<set name="東">
+</set>
+<set name="曰">
+</set>
+<set name="扳">
+</set>
+<set name="慵">
+</set>
+<set name="惴">
+</set>
+<set name="鱷">
+</set>
+<set name="登">
+</set>
+<set name="哼">
+</set>
+<set name="避">
+</set>
+<set name="現">
+</set>
+<set name="躁">
+</set>
+<set name="茁">
+</set>
+<set name="殃">
+</set>
+<set name="截">
+</set>
+<set name="梅">
+</set>
+<set name="文">
+</set>
+<set name="昆">
+</set>
+<set name="抉">
+</set>
+<set name="挈">
+</set>
+<set name="律">
+</set>
+<set name="曖">
+</set>
+<set name="鵲">
+</set>
+<set name="福">
+</set>
+<set name="騎">
+</set>
+<set name="儔">
+</set>
+<set name="世">
+</set>
+<set name="煇">
+</set>
+<set name="佛">
+</set>
+<set name="舞">
+</set>
+<set name="鼠">
+</set>
+<set name="宣">
+</set>
+<set name="尢">
+</set>
+<set name="夤">
+</set>
+<set name="喧">
+</set>
+<set name="瘦">
+</set>
+<set name="助">
+</set>
+<set name="錨">
+</set>
+<set name="倪">
+</set>
+<set name="暱">
+</set>
+<set name="伉">
+</set>
+<set name="嘲">
+</set>
+<set name="悵">
+</set>
+<set name="愴">
+</set>
+<set name="綷">
+</set>
+<set name="帶">
+</set>
+<set name="嬸">
+</set>
+<set name="瞻">
+</set>
+<set name="咽">
+</set>
+<set name="爾">
+</set>
+<set name="仁">
+</set>
+<set name="陡">
+</set>
+<set name="求">
+</set>
+<set name="綺">
+</set>
+<set name="渲">
+</set>
+<set name="拉">
+</set>
+<set name="聊">
+</set>
+<set name="嵌">
+</set>
+<set name="秏">
+</set>
+<set name="穎">
+</set>
+<set name="囑">
+</set>
+<set name="坐">
+</set>
+<set name="鑒">
+</set>
+<set name="僕">
+</set>
+<set name="兔">
+</set>
+<set name="湖">
+</set>
+<set name="識">
+</set>
+<set name="臟">
+</set>
+<set name="屢">
+</set>
+<set name="獨">
+</set>
+<set name="迫">
+</set>
+<set name="賭">
+</set>
+<set name="浬">
+</set>
+<set name="嚙">
+</set>
+<set name="詮">
+</set>
+<set name="杰">
+</set>
+<set name="腴">
+</set>
+<set name="巷">
+</set>
+<set name="寨">
+</set>
+<set name="竹">
+</set>
+<set name="學">
+</set>
+<set name="韻">
+</set>
+<set name="瀾">
+</set>
+<set name="哽">
+</set>
+<set name="啼">
+</set>
+<set name="丁">
+</set>
+<set name="澀">
+</set>
+<set name="腮">
+</set>
+<set name="蠅">
+</set>
+<set name="舉">
+</set>
+<set name="授">
+</set>
+<set name="弋">
+</set>
+<set name="玖">
+</set>
+<set name="對">
+</set>
+<set name="夏">
+</set>
+<set name="咒">
+</set>
+<set name="逕">
+</set>
+<set name="熔">
+</set>
+<set name="洗">
+</set>
+<set name="準">
+</set>
+<set name="標">
+</set>
+<set name="殘">
+</set>
+<set name="望">
+</set>
+<set name="斜">
+</set>
+<set name="感">
+</set>
+<set name="颳">
+</set>
+<set name="徠">
+</set>
+<set name="疚">
+</set>
+<set name="妤">
+</set>
+<set name="唧">
+</set>
+<set name="利">
+</set>
+<set name="漫">
+</set>
+<set name="邪">
+</set>
+<set name="貽">
+</set>
+<set name="撲">
+</set>
+<set name="庶">
+</set>
+<set name="箸">
+</set>
+<set name="確">
+</set>
+<set name="疼">
+</set>
+<set name="劾">
+</set>
+<set name="激">
+</set>
+<set name="賂">
+</set>
+<set name="啷">
+</set>
+<set name="曆">
+</set>
+<set name="扉">
+</set>
+<set name="仍">
+</set>
+<set name="齋">
+</set>
+<set name="籍">
+</set>
+<set name="奏">
+</set>
+<set name="卓">
+</set>
+<set name="違">
+</set>
+<set name="他">
+</set>
+<set name="橙">
+</set>
+<set name="棚">
+</set>
+<set name="慟">
+</set>
+<set name="苞">
+</set>
+<set name="繡">
+</set>
+<set name="忠">
+</set>
+<set name="季">
+</set>
+<set name="胺">
+</set>
+<set name="顥">
+</set>
+<set name="秤">
+</set>
+<set name="躕">
+</set>
+<set name="物">
+</set>
+<set name="叨">
+</set>
+<set name="襯">
+</set>
+<set name="諮">
+</set>
+<set name="漩">
+</set>
+<set name="荳">
+</set>
+<set name="擲">
+</set>
+<set name="致">
+</set>
+<set name="延">
+</set>
+<set name="巒">
+</set>
+<set name="寸">
+</set>
+<set name="壺">
+</set>
+<set name="命">
+</set>
+<set name="勾">
+</set>
+<set name="退">
+</set>
+<set name="璃">
+</set>
+<set name="綪">
+</set>
+<set name="瞅">
+</set>
+<set name="祠">
+</set>
+<set name="專">
+</set>
+<set name="範">
+</set>
+<set name="弊">
+</set>
+<set name="舌">
+</set>
+<set name="炬">
+</set>
+<set name="貓">
+</set>
+<set name="且">
+</set>
+<set name="喙">
+</set>
+<set name="待">
+</set>
+<set name="箝">
+</set>
+<set name="娜">
+</set>
+<set name="麟">
+</set>
+<set name="鴞">
+</set>
+<set name="怠">
+</set>
+<set name="婚">
+</set>
+<set name="氨">
+</set>
+<set name="炫">
+</set>
+<set name="輪">
+</set>
+<set name="厭">
+</set>
+<set name="爬">
+</set>
+<set name="售">
+</set>
+<set name="禱">
+</set>
+<set name="喉">
+</set>
+<set name="岳">
+</set>
+<set name="嬲">
+</set>
+<set name="徵">
+</set>
+<set name="方">
+</set>
+<set name="証">
+</set>
+<set name="派">
+</set>
+<set name="釁">
+</set>
+<set name="賡">
+</set>
+<set name="附">
+</set>
+<set name="竇">
+</set>
+<set name="癸">
+</set>
+<set name="巉">
+</set>
+<set name="屈">
+</set>
+<set name="惋">
+</set>
+<set name="齊">
+</set>
+<set name="揍">
+</set>
+<set name="秣">
+</set>
+<set name="桐">
+</set>
+<set name="賓">
+</set>
+<set name="濕">
+</set>
+<set name="纏">
+</set>
+<set name="狗">
+</set>
+<set name="煖">
+</set>
+<set name="痙">
+</set>
+<set name="飛">
+</set>
+<set name="靚">
+</set>
+<set name="篝">
+</set>
+<set name="廟">
+</set>
+<set name="絞">
+</set>
+<set name="薺">
+</set>
+<set name="查">
+</set>
+<set name="晤">
+</set>
+<set name="諧">
+</set>
+<set name="汨">
+</set>
+<set name="淼">
+</set>
+<set name="班">
+</set>
+<set name="盯">
+</set>
+<set name="颼">
+</set>
+<set name="駱">
+</set>
+<set name="顰">
+</set>
+<set name="鳳">
+</set>
+<set name="筲">
+</set>
+<set name="念">
+</set>
+<set name="年">
+</set>
+<set name="拷">
+</set>
+<set name="慶">
+</set>
+<set name="藹">
+</set>
+<set name="摸">
+</set>
+<set name="毽">
+</set>
+<set name="滿">
+</set>
+<set name="邀">
+</set>
+<set name="吃">
+</set>
+<set name="鎂">
+</set>
+<set name="雛">
+</set>
+<set name="的">
+</set>
+<set name="鴉">
+</set>
+<set name="忸">
+</set>
+<set name="羊">
+</set>
+<set name="昏">
+</set>
+<set name="氓">
+</set>
+<set name="臂">
+</set>
+<set name="輕">
+</set>
+<set name="五">
+</set>
+<set name="列">
+</set>
+<set name="昊">
+</set>
+<set name="嬝">
+</set>
+<set name="縟">
+</set>
+<set name="悠">
+</set>
+<set name="探">
+</set>
+<set name="蜥">
+</set>
+<set name="蚤">
+</set>
+<set name="覦">
+</set>
+<set name="洩">
+</set>
+<set name="貨">
+</set>
+<set name="倫">
+</set>
+<set name="毆">
+</set>
+<set name="犬">
+</set>
+<set name="嘯">
+</set>
+<set name="單">
+</set>
+<set name="失">
+</set>
+<set name="碰">
+</set>
+<set name="張">
+</set>
+<set name="舷">
+</set>
+<set name="憶">
+</set>
+<set name="改">
+</set>
+<set name="蒸">
+</set>
+<set name="蠻">
+</set>
+<set name="螺">
+</set>
+<set name="欽">
+</set>
+<set name="誼">
+</set>
+<set name="樊">
+</set>
+<set name="允">
+</set>
+<set name="呃">
+</set>
+<set name="雄">
+</set>
+<set name="姆">
+</set>
+<set name="免">
+</set>
+<set name="捍">
+</set>
+<set name="拌">
+</set>
+<set name="晏">
+</set>
+<set name="毒">
+</set>
+<set name="何">
+</set>
+<set name="仔">
+</set>
+<set name="鉗">
+</set>
+<set name="瀝">
+</set>
+<set name="留">
+</set>
+<set name="顛">
+</set>
+<set name="矚">
+</set>
+<set name="孝">
+</set>
+<set name="幟">
+</set>
+<set name="州">
+</set>
+<set name="惠">
+</set>
+<set name="董">
+</set>
+<set name="鈸">
+</set>
+<set name="浩">
+</set>
+<set name="注">
+</set>
+<set name="火">
+</set>
+<set name="迪">
+</set>
+<set name="蹓">
+</set>
+<set name="噯">
+</set>
+<set name="米">
+</set>
+<set name="駒">
+</set>
+<set name="罵">
+</set>
+<set name="艷">
+</set>
+<set name="懶">
+</set>
+<set name="譽">
+</set>
+<set name="邁">
+</set>
+<set name="儀">
+</set>
+<set name="閃">
+</set>
+<set name="隅">
+</set>
+<set name="圄">
+</set>
+<set name="宇">
+</set>
+<set name="順">
+</set>
+<set name="粉">
+</set>
+<set name="紈">
+</set>
+<set name="憋">
+</set>
+<set name="餃">
+</set>
+<set name="萎">
+</set>
+<set name="褐">
+</set>
+<set name="涓">
+</set>
+<set name="躂">
+</set>
+<set name="井">
+</set>
+<set name="演">
+</set>
+<set name="琉">
+</set>
+<set name="倖">
+</set>
+<set name="甘">
+</set>
+<set name="紮">
+</set>
+<set name="股">
+</set>
+<set name="闕">
+</set>
+<set name="圇">
+</set>
+<set name="販">
+</set>
+<set name="醫">
+</set>
+<set name="咆">
+</set>
+<set name="吮">
+</set>
+<set name="颱">
+</set>
+<set name="瀉">
+</set>
+<set name="麵">
+</set>
+<set name="耶">
+</set>
+<set name="蒹">
+</set>
+<set name="攸">
+</set>
+<set name="榻">
+</set>
+<set name="便">
+</set>
+<set name="氾">
+</set>
+<set name="郁">
+</set>
+<set name="兀">
+</set>
+<set name="劊">
+</set>
+<set name="雅">
+</set>
+<set name="篇">
+</set>
+<set name="顆">
+</set>
+<set name="懋">
+</set>
+<set name="拍">
+</set>
+<set name="柏">
+</set>
+<set name="仕">
+</set>
+<set name="佔">
+</set>
+<set name="受">
+</set>
+<set name="尸">
+</set>
+<set name="啥">
+</set>
+<set name="駛">
+</set>
+<set name="孜">
+</set>
+<set name="翟">
+</set>
+<set name="胡">
+</set>
+<set name="鉛">
+</set>
+<set name="瞋">
+</set>
+<set name="矯">
+</set>
+<set name="罩">
+</set>
+<set name="巳">
+</set>
+<set name="鹹">
+</set>
+<set name="聶">
+</set>
+<set name="數">
+</set>
+<set name="漁">
+</set>
+<set name="智">
+</set>
+<set name="鎔">
+</set>
+<set name="送">
+</set>
+<set name="駁">
+</set>
+<set name="樞">
+</set>
+<set name="跪">
+</set>
+<set name="瞄">
+</set>
+<set name="床">
+</set>
+<set name="舍">
+</set>
+<set name="掌">
+</set>
+<set name="贓">
+</set>
+<set name="丕">
+</set>
+<set name="北">
+</set>
+<set name="傖">
+</set>
+<set name="喘">
+</set>
+<set name="皚">
+</set>
+<set name="宜">
+</set>
+<set name="弟">
+</set>
+<set name="蹄">
+</set>
+<set name="怡">
+</set>
+<set name="膠">
+</set>
+<set name="蔣">
+</set>
+<set name="春">
+</set>
+<set name="趨">
+</set>
+<set name="溪">
+</set>
+<set name="爭">
+</set>
+<set name="繳">
+</set>
+<set name="眯">
+</set>
+<set name="報">
+</set>
+<set name="紳">
+</set>
+<set name="媲">
+</set>
+<set name="悶">
+</set>
+<set name="褻">
+</set>
+<set name="襤">
+</set>
+<set name="樽">
+</set>
+<set name="殼">
+</set>
+<set name="漿">
+</set>
+<set name="沾">
+</set>
+<set name="遁">
+</set>
+<set name="釀">
+</set>
+<set name="啃">
+</set>
+<set name="狂">
+</set>
+<set name="遷">
+</set>
+<set name="壆">
+</set>
+<set name="態">
+</set>
+<set name="廊">
+</set>
+<set name="才">
+</set>
+<set name="菌">
+</set>
+<set name="杏">
+</set>
+<set name="擎">
+</set>
+<set name="桑">
+</set>
+<set name="槐">
+</set>
+<set name="諒">
+</set>
+<set name="返">
+</set>
+<set name="南">
+</set>
+<set name="瑙">
+</set>
+<set name="訥">
+</set>
+<set name="瀕">
+</set>
+<set name="囚">
+</set>
+<set name="罟">
+</set>
+<set name="糞">
+</set>
+<set name="萍">
+</set>
+<set name="臠">
+</set>
+<set name="散">
+</set>
+<set name="歧">
+</set>
+<set name="汩">
+</set>
+<set name="淨">
+</set>
+<set name="八">
+</set>
+<set name="咦">
+</set>
+<set name="臃">
+</set>
+<set name="召">
+</set>
+<set name="哮">
+</set>
+<set name="顱">
+</set>
+<set name="絳">
+</set>
+<set name="鹵">
+</set>
+<set name="荷">
+</set>
+<set name="惶">
+</set>
+<set name="摹">
+</set>
+<set name="俾">
+</set>
+<set name="使">
+</set>
+<set name="刀">
+</set>
+<set name="鄂">
+</set>
+<set name="各">
+</set>
+<set name="鬆">
+</set>
+<set name="徉">
+</set>
+<set name="縈">
+</set>
+<set name="芋">
+</set>
+<set name="紊">
+</set>
+<set name="而">
+</set>
+<set name="椒">
+</set>
+<set name="趕">
+</set>
+<set name="化">
+</set>
+<set name="媛">
+</set>
+<set name="甚">
+</set>
+<set name="妝">
+</set>
+<set name="粟">
+</set>
+<set name="採">
+</set>
+<set name="撼">
+</set>
+<set name="斥">
+</set>
+<set name="梧">
+</set>
+<set name="薰">
+</set>
+<set name="劫">
+</set>
+<set name="洪">
+</set>
+<set name="咯">
+</set>
+<set name="箱">
+</set>
+<set name="騰">
+</set>
+<set name="綵">
+</set>
+<set name="茶">
+</set>
+<set name="蘸">
+</set>
+<set name="檻">
+</set>
+<set name="蕞">
+</set>
+<set name="覽">
+</set>
+<set name="格">
+</set>
+<set name="貿">
+</set>
+<set name="輾">
+</set>
+<set name="囁">
+</set>
+<set name="熨">
+</set>
+<set name="病">
+</set>
+<set name="鑄">
+</set>
+<set name="壇">
+</set>
+<set name="筆">
+</set>
+<set name="寇">
+</set>
+<set name="拋">
+</set>
+<set name="窒">
+</set>
+<set name="泣">
+</set>
+<set name="李">
+</set>
+<set name="詐">
+</set>
+<set name="滓">
+</set>
+<set name="汔">
+</set>
+<set name="韙">
+</set>
+<set name="駝">
+</set>
+<set name="蔻">
+</set>
+<set name="糟">
+</set>
+<set name="握">
+</set>
+<set name="蟬">
+</set>
+<set name="慢">
+</set>
+<set name="日">
+</set>
+<set name="鐲">
+</set>
+<set name="棧">
+</set>
+<set name="警">
+</set>
+<set name="柑">
+</set>
+<set name="浪">
+</set>
+<set name="燭">
+</set>
+<set name="焰">
+</set>
+<set name="藩">
+</set>
+<set name="廳">
+</set>
+<set name="猿">
+</set>
+<set name="蟹">
+</set>
+<set name="櫻">
+</set>
+<set name="槽">
+</set>
+<set name="瀟">
+</set>
+<set name="崔">
+</set>
+<set name="銀">
+</set>
+<set name="咄">
+</set>
+<set name="麈">
+</set>
+<set name="舖">
+</set>
+<set name="愍">
+</set>
+<set name="肌">
+</set>
+<set name="搏">
+</set>
+<set name="皙">
+</set>
+<set name="逗">
+</set>
+<set name="鎖">
+</set>
+<set name="隘">
+</set>
+<set name="娛">
+</set>
+<set name="喚">
+</set>
+<set name="墜">
+</set>
+<set name="從">
+</set>
+<set name="蔥">
+</set>
+<set name="撤">
+</set>
+<set name="聰">
+</set>
+<set name="輩">
+</set>
+<set name="亨">
+</set>
+<set name="蓆">
+</set>
+<set name="鄭">
+</set>
+<set name="催">
+</set>
+<set name="垮">
+</set>
+<set name="鬱">
+</set>
+<set name="骰">
+</set>
+<set name="帳">
+</set>
+<set name="紵">
+</set>
+<set name="懈">
+</set>
+<set name="註">
+</set>
+<set name="丞">
+</set>
+<set name="椽">
+</set>
+<set name="十">
+</set>
+<set name="狀">
+</set>
+<set name="陃">
+</set>
+<set name="哄">
+</set>
+<set name="密">
+</set>
+<set name="廈">
+</set>
+<set name="手">
+</set>
+<set name="緊">
+</set>
+<set name="慍">
+</set>
+<set name="背">
+</set>
+<set name="翌">
+</set>
+<set name="乓">
+</set>
+<set name="角">
+</set>
+<set name="隆">
+</set>
+<set name="筏">
+</set>
+<set name="取">
+</set>
+<set name="驛">
+</set>
+<set name="嗚">
+</set>
+<set name="祝">
+</set>
+<set name="籟">
+</set>
+<set name="擤">
+</set>
+<set name="闐">
+</set>
+<set name="佩">
+</set>
+<set name="醬">
+</set>
+<set name="淪">
+</set>
+<set name="六">
+</set>
+<set name="矮">
+</set>
+<set name="孱">
+</set>
+<set name="平">
+</set>
+<set name="鳴">
+</set>
+<set name="職">
+</set>
+<set name="揶">
+</set>
+<set name="書">
+</set>
+<set name="旺">
+</set>
+<set name="濾">
+</set>
+<set name="犁">
+</set>
+<set name="垃">
+</set>
+<set name="岌">
+</set>
+<set name="甄">
+</set>
+<set name="炭">
+</set>
+<set name="尊">
+</set>
+<set name="悍">
+</set>
+<set name="簃">
+</set>
+<set name="明">
+</set>
+<set name="誑">
+</set>
+<set name="謐">
+</set>
+<set name="薯">
+</set>
+<set name="冗">
+</set>
+<set name="姘">
+</set>
+<set name="隙">
+</set>
+<set name="團">
+</set>
+<set name="宛">
+</set>
+<set name="嘮">
+</set>
+<set name="祉">
+</set>
+<set name="夜">
+</set>
+<set name="鸞">
+</set>
+<set name="瘟">
+</set>
+<set name="撥">
+</set>
+<set name="攤">
+</set>
+<set name="睇">
+</set>
+<set name="玫">
+</set>
+<set name="傭">
+</set>
+<set name="阮">
+</set>
+<set name="嬰">
+</set>
+<set name="砲">
+</set>
+<set name="粵">
+</set>
+<set name="戶">
+</set>
+<set name="暹">
+</set>
+<set name="祈">
+</set>
+<set name="渾">
+</set>
+<set name="勁">
+</set>
+<set name="區">
+</set>
+<set name="埃">
+</set>
+<set name="遂">
+</set>
+<set name="啄">
+</set>
+<set name="婆">
+</set>
+<set name="廉">
+</set>
+<set name="彈">
+</set>
+<set name="父">
+</set>
+<set name="蕻">
+</set>
+<set name="慌">
+</set>
+<set name="族">
+</set>
+<set name="虎">
+</set>
+<set name="歐">
+</set>
+<set name="倏">
+</set>
+<set name="法">
+</set>
+<set name="剖">
+</set>
+<set name="雙">
+</set>
+<set name="鯛">
+</set>
+<set name="瑚">
+</set>
+<set name="繞">
+</set>
+<set name="恢">
+</set>
+<set name="試">
+</set>
+<set name="叫">
+</set>
+<set name="豪">
+</set>
+<set name="郭">
+</set>
+<set name="公">
+</set>
+<set name="嗯">
+</set>
+<set name="癮">
+</set>
+<set name="謊">
+</set>
+<set name="孰">
+</set>
+<set name="翳">
+</set>
+<set name="趿">
+</set>
+<set name="懷">
+</set>
+<set name="扶">
+</set>
+<set name="曹">
+</set>
+<set name="蝸">
+</set>
+<set name="摺">
+</set>
+<set name="製">
+</set>
+<set name="靡">
+</set>
+<set name="乾">
+</set>
+<set name="刁">
+</set>
+<set name="圃">
+</set>
+<set name="邂">
+</set>
+<set name="琅">
+</set>
+<set name="善">
+</set>
+<set name="哦">
+</set>
+<set name="很">
+</set>
+<set name="妖">
+</set>
+<set name="耍">
+</set>
+<set name="韃">
+</set>
+<set name="攏">
+</set>
+<set name="樑">
+</set>
+<set name="崙">
+</set>
+<set name="漓">
+</set>
+<set name="袒">
+</set>
+<set name="涔">
+</set>
+<set name="焗">
+</set>
+<set name="笛">
+</set>
+<set name="咚">
+</set>
+<set name="戡">
+</set>
+<set name="掠">
+</set>
+<set name="肢">
+</set>
+<set name="搥">
+</set>
+<set name="斤">
+</set>
+<set name="誦">
+</set>
+<set name="踩">
+</set>
+<set name="辨">
+</set>
+<set name="錫">
+</set>
+<set name="貪">
+</set>
+<set name="冬">
+</set>
+<set name="唯">
+</set>
+<set name="皮">
+</set>
+<set name="稱">
+</set>
+<set name="宰">
+</set>
+<set name="雲">
+</set>
+<set name="謓">
+</set>
+<set name="綴">
+</set>
+<set name="愷">
+</set>
+<set name="枸">
+</set>
+<set name="跤">
+</set>
+<set name="栽">
+</set>
+<set name="籬">
+</set>
+<set name="剁">
+</set>
+<set name="僂">
+</set>
+<set name="彷">
+</set>
+<set name="奇">
+</set>
+<set name="糊">
+</set>
+<set name="恍">
+</set>
+<set name="敏">
+</set>
+<set name="煌">
+</set>
+<set name="詑">
+</set>
+<set name="棒">
+</set>
+<set name="汕">
+</set>
+<set name="藏">
+</set>
+<set name="硝">
+</set>
+<set name="姜">
+</set>
+<set name="點">
+</set>
+<set name="菠">
+</set>
+<set name="竺">
+</set>
+<set name="藤">
+</set>
+<set name="諦">
+</set>
+<set name="蹩">
+</set>
+<set name="白">
+</set>
+<set name="質">
+</set>
+<set name="遭">
+</set>
+<set name="迓">
+</set>
+<set name="篆">
+</set>
+<set name="目">
+</set>
+<set name="彳">
+</set>
+<set name="飲">
+</set>
+<set name="巴">
+</set>
+<set name="慷">
+</set>
+<set name="虹">
+</set>
+<set name="死">
+</set>
+<set name="擺">
+</set>
+<set name="瘴">
+</set>
+<set name="戇">
+</set>
+<set name="滾">
+</set>
+<set name="喁">
+</set>
+<set name="邃">
+</set>
+<set name="庇">
+</set>
+<set name="紆">
+</set>
+<set name="莘">
+</set>
+<set name="須">
+</set>
+<set name="融">
+</set>
+<set name="昌">
+</set>
+<set name="曙">
+</set>
+<set name="袓">
+</set>
+<set name="輒">
+</set>
+<set name="熙">
+</set>
+<set name="倘">
+</set>
+<set name="錚">
+</set>
+<set name="莞">
+</set>
+<set name="窟">
+</set>
+<set name="斡">
+</set>
+<set name="患">
+</set>
+<set name="蜢">
+</set>
+<set name="接">
+</set>
+<set name="咫">
+</set>
+<set name="汪">
+</set>
+<set name="瞭">
+</set>
+<set name="琳">
+</set>
+<set name="犯">
+</set>
+<set name="楜">
+</set>
+<set name="綱">
+</set>
+<set name="莉">
+</set>
+<set name="墳">
+</set>
+<set name="厲">
+</set>
+<set name="宵">
+</set>
+<set name="收">
+</set>
+<set name="濡">
+</set>
+<set name="費">
+</set>
+<set name="挺">
+</set>
+<set name="躋">
+</set>
+<set name="調">
+</set>
+<set name="隴">
+</set>
+<set name="呀">
+</set>
+<set name="靂">
+</set>
+<set name="絆">
+</set>
+<set name="秉">
+</set>
+<set name="蓋">
+</set>
+<set name="晌">
+</set>
+<set name="慎">
+</set>
+<set name="跑">
+</set>
+<set name="豐">
+</set>
+<set name="沸">
+</set>
+<set name="燙">
+</set>
+<set name="灘">
+</set>
+<set name="博">
+</set>
+<set name="忝">
+</set>
+<set name="竟">
+</set>
+<set name="神">
+</set>
+<set name="浦">
+</set>
+<set name="表">
+</set>
+<set name="歪">
+</set>
+<set name="短">
+</set>
+<set name="噬">
+</set>
+<set name="煮">
+</set>
+<set name="己">
+</set>
+<set name="署">
+</set>
+<set name="寵">
+</set>
+<set name="穴">
+</set>
+<set name="捺">
+</set>
+<set name="追">
+</set>
+<set name="諛">
+</set>
+<set name="倔">
+</set>
+<set name="唁">
+</set>
+<set name="咀">
+</set>
+<set name="逃">
+</set>
+<set name="垂">
+</set>
+<set name="包">
+</set>
+<set name="餉">
+</set>
+<set name="服">
+</set>
+<set name="酬">
+</set>
+<set name="沐">
+</set>
+<set name="栓">
+</set>
+<set name="熒">
+</set>
+<set name="檔">
+</set>
+<set name="嘗">
+</set>
+<set name="憩">
+</set>
+<set name="鄙">
+</set>
+<set name="傘">
+</set>
+<set name="厚">
+</set>
+<set name="府">
+</set>
+<set name="娟">
+</set>
+<set name="妞">
+</set>
+<set name="蔡">
+</set>
+<set name="躪">
+</set>
+<set name="螢">
+</set>
+<set name="片">
+</set>
+<set name="穰">
+</set>
+<set name="梨">
+</set>
+<set name="含">
+</set>
+<set name="釆">
+</set>
+<set name="圭">
+</set>
+<set name="躬">
+</set>
+<set name="鐸">
+</set>
+<set name="脹">
+</set>
+<set name="悸">
+</set>
+<set name="伽">
+</set>
+<set name="浴">
+</set>
+<set name="啁">
+</set>
+<set name="哀">
+</set>
+<set name="偃">
+</set>
+<set name="卅">
+</set>
+<set name="狄">
+</set>
+<set name="奉">
+</set>
+<set name="鯊">
+</set>
+<set name="渝">
+</set>
+<set name="誣">
+</set>
+<set name="盹">
+</set>
+<set name="術">
+</set>
+<set name="噗">
+</set>
+<set name="闖">
+</set>
+<set name="煙">
+</set>
+<set name="烘">
+</set>
+<set name="彝">
+</set>
+<set name="黜">
+</set>
+<set name="驟">
+</set>
+<set name="頤">
+</set>
+<set name="腎">
+</set>
+<set name="擠">
+</set>
+<set name="恣">
+</set>
+<set name="葺">
+</set>
+<set name="璧">
+</set>
+<set name="湧">
+</set>
+<set name="淦">
+</set>
+<set name="壽">
+</set>
+<set name="坭">
+</set>
+<set name="副">
+</set>
+<set name="統">
+</set>
+<set name="峰">
+</set>
+<set name="穆">
+</set>
+<set name="豁">
+</set>
+<set name="腹">
+</set>
+<set name="胸">
+</set>
+<set name="溫">
+</set>
+<set name="揎">
+</set>
+<set name="囔">
+</set>
+<set name="咁">
+</set>
+<set name="踴">
+</set>
+<set name="鋤">
+</set>
+<set name="銅">
+</set>
+<set name="錄">
+</set>
+<set name="徇">
+</set>
+<set name="蜃">
+</set>
+<set name="掏">
+</set>
+<set name="怎">
+</set>
+<set name="麇">
+</set>
+<set name="覓">
+</set>
+<set name="誕">
+</set>
+<set name="謔">
+</set>
+<set name="備">
+</set>
+<set name="儘">
+</set>
+<set name="佰">
+</set>
+<set name="芥">
+</set>
+<set name="嚨">
+</set>
+<set name="疫">
+</set>
+<set name="訪">
+</set>
+<set name="拜">
+</set>
+<set name="岱">
+</set>
+<set name="細">
+</set>
+<set name="妳">
+</set>
+<set name="嬴">
+</set>
+<set name="枷">
+</set>
+<set name="搶">
+</set>
+<set name="溽">
+</set>
+<set name="似">
+</set>
+<set name="殿">
+</set>
+<set name="品">
+</set>
+<set name="燃">
+</set>
+<set name="療">
+</set>
+<set name="鋅">
+</set>
+<set name="獄">
+</set>
+<set name="屆">
+</set>
+<set name="奈">
+</set>
+<set name="旋">
+</set>
+<set name="漶">
+</set>
+<set name="描">
+</set>
+<set name="槓">
+</set>
+<set name="乒">
+</set>
+<set name="矗">
+</set>
+<set name="烙">
+</set>
+<set name="嚎">
+</set>
+<set name="廝">
+</set>
+<set name="察">
+</set>
+<set name="塞">
+</set>
+<set name="臣">
+</set>
+<set name="晢">
+</set>
+<set name="若">
+</set>
+<set name="滕">
+</set>
+<set name="釦">
+</set>
+<set name="弓">
+</set>
+<set name="可">
+</set>
+<set name="遮">
+</set>
+<set name="鵰">
+</set>
+<set name="干">
+</set>
+<set name="嫵">
+</set>
+<set name="惹">
+</set>
+<set name="腸">
+</set>
+<set name="添">
+</set>
+<set name="扺">
+</set>
+<set name="份">
+</set>
+<set name="顫">
+</set>
+<set name="衾">
+</set>
+<set name="吁">
+</set>
+<set name="門">
+</set>
+<set name="皂">
+</set>
+<set name="玄">
+</set>
+<set name="民">
+</set>
+<set name="霍">
+</set>
+<set name="互">
+</set>
+<set name="訕">
+</set>
+<set name="咖">
+</set>
+<set name="這">
+</set>
+<set name="紛">
+</set>
+<set name="帝">
+</set>
+<set name="徜">
+</set>
+<set name="增">
+</set>
+<set name="搡">
+</set>
+<set name="愣">
+</set>
+<set name="暢">
+</set>
+<set name="戥">
+</set>
+<set name="栩">
+</set>
+<set name="榨">
+</set>
+<set name="甫">
+</set>
+<set name="說">
+</set>
+<set name="瞬">
+</set>
+<set name="匯">
+</set>
+<set name="炮">
+</set>
+<set name="就">
+</set>
+<set name="宴">
+</set>
+<set name="蜷">
+</set>
+<set name="活">
+</set>
+<set name="踽">
+</set>
+<set name="介">
+</set>
+<set name="瑁">
+</set>
+<set name="元">
+</set>
+<set name="囂">
+</set>
+<set name="鉅">
+</set>
+<set name="莠">
+</set>
+<set name="竊">
+</set>
+<set name="捏">
+</set>
+<set name="籌">
+</set>
+<set name="楓">
+</set>
+<set name="軒">
+</set>
+<set name="評">
+</set>
+<set name="比">
+</set>
+<set name="賸">
+</set>
+<set name="遙">
+</set>
+<set name="釘">
+</set>
+<set name="譎">
+</set>
+<set name="孟">
+</set>
+<set name="壞">
+</set>
+<set name="葡">
+</set>
+<set name="鈾">
+</set>
+<set name="慣">
+</set>
+<set name="俺">
+</set>
+<set name="賦">
+</set>
+<set name="獷">
+</set>
+<set name="畫">
+</set>
+<set name="遽">
+</set>
+<set name="狼">
+</set>
+<set name="山">
+</set>
+<set name="女">
+</set>
+<set name="杷">
+</set>
+<set name="徨">
+</set>
+<set name="懸">
+</set>
+<set name="靦">
+</set>
+<set name="挫">
+</set>
+<set name="裾">
+</set>
+<set name="袁">
+</set>
+<set name="劃">
+</set>
+<set name="蕙">
+</set>
+<set name="孚">
+</set>
+<set name="安">
+</set>
+<set name="稈">
+</set>
+<set name="蚋">
+</set>
+<set name="養">
+</set>
+<set name="萌">
+</set>
+<set name="躉">
+</set>
+<set name="熬">
+</set>
+<set name="踐">
+</set>
+<set name="誓">
+</set>
+<set name="訂">
+</set>
+<set name="榕">
+</set>
+<set name="蠔">
+</set>
+<set name="圖">
+</set>
+<set name="嚮">
+</set>
+<set name="四">
+</set>
+<set name="碟">
+</set>
+<set name="映">
+</set>
+<set name="攢">
+</set>
+<set name="貧">
+</set>
+<set name="樨">
+</set>
+<set name="逆">
+</set>
+<set name="琬">
+</set>
+<set name="傯">
+</set>
+<set name="錮">
+</set>
+<set name="媳">
+</set>
+<set name="破">
+</set>
+<set name="款">
+</set>
+<set name="韁">
+</set>
+<set name="陀">
+</set>
+<set name="勃">
+</set>
+<set name="檀">
+</set>
+<set name="遄">
+</set>
+<set name="彆">
+</set>
+<set name="築">
+</set>
+<set name="蛋">
+</set>
+<set name="藍">
+</set>
+<set name="竣">
+</set>
+<set name="捎">
+</set>
+<set name="近">
+</set>
+<set name="蹐">
+</set>
+<set name="靖">
+</set>
+<set name="牘">
+</set>
+<set name="黛">
+</set>
+<set name="酚">
+</set>
+<set name="川">
+</set>
+<set name="屜">
+</set>
+<set name="食">
+</set>
+<set name="邑">
+</set>
+<set name="敢">
+</set>
+<set name="臥">
+</set>
+<set name="恤">
+</set>
+<set name="潦">
+</set>
+<set name="霖">
+</set>
+<set name="囫">
+</set>
+<set name="襪">
+</set>
+<set name="丐">
+</set>
+<set name="看">
+</set>
+<set name="棺">
+</set>
+<set name="忱">
+</set>
+<set name="揩">
+</set>
+<set name="絲">
+</set>
+<set name="顴">
+</set>
+<set name="蝶">
+</set>
+<set name="揹">
+</set>
+<set name="任">
+</set>
+<set name="腺">
+</set>
+<set name="酌">
+</set>
+<set name="省">
+</set>
+<set name="嚀">
+</set>
+<set name="刃">
+</set>
+<set name="喂">
+</set>
+<set name="宗">
+</set>
+<set name="將">
+</set>
+<set name="嬉">
+</set>
+<set name="蘋">
+</set>
+<set name="怏">
+</set>
+<set name="莎">
+</set>
+<set name="休">
+</set>
+<set name="源">
+</set>
+<set name="樓">
+</set>
+<set name="壯">
+</set>
+<set name="匙">
+</set>
+<set name="銘">
+</set>
+<set name="縛">
+</set>
+<set name="渭">
+</set>
+<set name="酉">
+</set>
+<set name="砦">
+</set>
+<set name="祇">
+</set>
+<set name="氧">
+</set>
+<set name="辦">
+</set>
+<set name="羞">
+</set>
+<set name="親">
+</set>
+<set name="甭">
+</set>
+<set name="咬">
+</set>
+<set name="鎮">
+</set>
+<set name="弱">
+</set>
+<set name="網">
+</set>
+<set name="餵">
+</set>
+<set name="架">
+</set>
+<set name="茹">
+</set>
+<set name="芸">
+</set>
+<set name="主">
+</set>
+<set name="膺">
+</set>
+<set name="洽">
+</set>
+<set name="貼">
+</set>
+<set name="遴">
+</set>
+<set name="雀">
+</set>
+<set name="剃">
+</set>
+<set name="賊">
+</set>
+<set name="充">
+</set>
+<set name="簍">
+</set>
+<set name="等">
+</set>
+<set name="姊">
+</set>
+<set name="瀚">
+</set>
+<set name="凌">
+</set>
+<set name="潑">
+</set>
+<set name="淒">
+</set>
+<set name="畏">
+</set>
+<set name="勘">
+</set>
+<set name="蝎">
+</set>
+<set name="鵝">
+</set>
+<set name="糜">
+</set>
+<set name="寞">
+</set>
+<set name="曠">
+</set>
+<set name="扣">
+</set>
+<set name="既">
+</set>
+<set name="腥">
+</set>
+<set name="迦">
+</set>
+<set name="噫">
+</set>
+<set name="叮">
+</set>
+<set name="影">
+</set>
+<set name="已">
+</set>
+<set name="飴">
+</set>
+<set name="葷">
+</set>
+<set name="臺">
+</set>
+<set name="赽">
+</set>
+<set name="購">
+</set>
+<set name="桿">
+</set>
+<set name="需">
+</set>
+<set name="扼">
+</set>
+<set name="傅">
+</set>
+<set name="億">
+</set>
+<set name="嶇">
+</set>
+<set name="帆">
+</set>
+<set name="欖">
+</set>
+<set name="笈">
+</set>
+<set name="澆">
+</set>
+<set name="膏">
+</set>
+<set name="戎">
+</set>
+<set name="云">
+</set>
+<set name="伐">
+</set>
+<set name="讓">
+</set>
+<set name="嶂">
+</set>
+<set name="侯">
+</set>
+<set name="瘖">
+</set>
+<set name="通">
+</set>
+<set name="紜">
+</set>
+<set name="掣">
+</set>
+<set name="肥">
+</set>
+<set name="並">
+</set>
+<set name="謨">
+</set>
+<set name="株">
+</set>
+<set name="咭">
+</set>
+<set name="唬">
+</set>
+<set name="刮">
+</set>
+<set name="茉">
+</set>
+<set name="害">
+</set>
+<set name="鰲">
+</set>
+<set name="斷">
+</set>
+<set name="抹">
+</set>
+<set name="茸">
+</set>
+<set name="沽">
+</set>
+<set name="朴">
+</set>
+<set name="雁">
+</set>
+<set name="址">
+</set>
+<set name="參">
+</set>
+<set name="呂">
+</set>
+<set name="僅">
+</set>
+<set name="兄">
+</set>
+<set name="繆">
+</set>
+<set name="嫉">
+</set>
+<set name="崍">
+</set>
+<set name="塊">
+</set>
+<set name="操">
+</set>
+<set name="仿">
+</set>
+<set name="扎">
+</set>
+<set name="滑">
+</set>
+<set name="佐">
+</set>
+<set name="毓">
+</set>
+<set name="裕">
+</set>
+<set name="癖">
+</set>
+<set name="務">
+</set>
+<set name="做">
+</set>
+<set name="租">
+</set>
+<set name="蝠">
+</set>
+<set name="揣">
+</set>
+<set name="蕪">
+</set>
+<set name="蹦">
+</set>
+<set name="芽">
+</set>
+<set name="跼">
+</set>
+<set name="哭">
+</set>
+<set name="罰">
+</set>
+<set name="詆">
+</set>
+<set name="籲">
+</set>
+<set name="奴">
+</set>
+<set name="晶">
+</set>
+<set name="荸">
+</set>
+<set name="賽">
+</set>
+<set name="嘁">
+</set>
+<set name="磁">
+</set>
+<set name="咂">
+</set>
+<set name="逅">
+</set>
+<set name="熄">
+</set>
+<set name="崇">
+</set>
+<set name="守">
+</set>
+<set name="朋">
+</set>
+<set name="墊">
+</set>
+<set name="損">
+</set>
+<set name="意">
+</set>
+<set name="馥">
+</set>
+<set name="丑">
+</set>
+<set name="駐">
+</set>
+<set name="沒">
+</set>
+<set name="皖">
+</set>
+<set name="厘">
+</set>
+<set name="弛">
+</set>
+<set name="綜">
+</set>
+<set name="筐">
+</set>
+<set name="琶">
+</set>
+<set name="急">
+</set>
+<set name="憤">
+</set>
+<set name="亦">
+</set>
+<set name="恆">
+</set>
+<set name="吭">
+</set>
+<set name="喬">
+</set>
+<set name="焯">
+</set>
+<set name="縱">
+</set>
+<set name="堵">
+</set>
+<set name="借">
+</set>
+<set name="攷">
+</set>
+<set name="蕈">
+</set>
+<set name="船">
+</set>
+<set name="輻">
+</set>
+<set name="肺">
+</set>
+<set name="秋">
+</set>
+<set name="椿">
+</set>
+<set name="練">
+</set>
+<set name="噁">
+</set>
+<set name="千">
+</set>
+<set name="哂">
+</set>
+<set name="酷">
+</set>
+<set name="嵇">
+</set>
+<set name="婉">
+</set>
+<set name="磊">
+</set>
+<set name="訣">
+</set>
+<set name="拎">
+</set>
+<set name="俐">
+</set>
+<set name="俘">
+</set>
+<set name="雖">
+</set>
+<set name="牙">
+</set>
+<set name="鏘">
+</set>
+<set name="儉">
+</set>
+<set name="僚">
+</set>
+<set name="祟">
+</set>
+<set name="囪">
+</set>
+<set name="擢">
+</set>
+<set name="恥">
+</set>
+<set name="詩">
+</set>
+<set name="睫">
+</set>
+<set name="翰">
+</set>
+<set name="塵">
+</set>
+<set name="敷">
+</set>
+<set name="批">
+</set>
+<set name="佻">
+</set>
+<set name="惺">
+</set>
+<set name="汽">
+</set>
+<set name="縫">
+</set>
+<set name="西">
+</set>
+<set name="諾">
+</set>
+<set name="禁">
+</set>
+<set name="羅">
+</set>
+<set name="劇">
+</set>
+<set name="閉">
+</set>
+<set name="合">
+</set>
+<set name="袋">
+</set>
+<set name="殍">
+</set>
+<set name="憑">
+</set>
+<set name="耐">
+</set>
+<set name="撓">
+</set>
+<set name="枕">
+</set>
+<set name="昔">
+</set>
+<set name="窗">
+</set>
+<set name="外">
+</set>
+<set name="嶙">
+</set>
+<set name="宮">
+</set>
+<set name="猢">
+</set>
+<set name="謢">
+</set>
+<set name="渤">
+</set>
+<set name="鄯">
+</set>
+<set name="薩">
+</set>
+<set name="未">
+</set>
+<set name="箭">
+</set>
+<set name="卜">
+</set>
+<set name="熱">
+</set>
+<set name="瀰">
+</set>
+<set name="咳">
+</set>
+<set name="喲">
+</set>
+<set name="嘴">
+</set>
+<set name="褶">
+</set>
+<set name="永">
+</set>
+<set name="悻">
+</set>
+<set name="伺">
+</set>
+<set name="莽">
+</set>
+<set name="放">
+</set>
+<set name="私">
+</set>
+<set name="魂">
+</set>
+<set name="必">
+</set>
+<set name="簷">
+</set>
+<set name="勇">
+</set>
+<set name="兆">
+</set>
+<set name="呈">
+</set>
+<set name="棋">
+</set>
+<set name="牲">
+</set>
+<set name="母">
+</set>
+<set name="恐">
+</set>
+<set name="掂">
+</set>
+<set name="荒">
+</set>
+<set name="虔">
+</set>
+<set name="祖">
+</set>
+<set name="嘻">
+</set>
+<set name="盟">
+</set>
+<set name="啞">
+</set>
+<set name="賣">
+</set>
+<set name="止">
+</set>
+<set name="迥">
+</set>
+<set name="蹤">
+</set>
+<set name="腦">
+</set>
+<set name="早">
+</set>
+<set name="士">
+</set>
+<set name="梓">
+</set>
+<set name="黯">
+</set>
+<set name="絮">
+</set>
+<set name="凱">
+</set>
+<set name="灰">
+</set>
+<set name="獲">
+</set>
+<set name="跋">
+</set>
+<set name="噴">
+</set>
+<set name="諷">
+</set>
+<set name="蕨">
+</set>
+<set name="淹">
+</set>
+<set name="惻">
+</set>
+<set name="潺">
+</set>
+<set name="閘">
+</set>
+<set name="替">
+</set>
+<set name="鈺">
+</set>
+<set name="礁">
+</set>
+<set name="尃">
+</set>
+<set name="噪">
+</set>
+<set name="庄">
+</set>
+<set name="切">
+</set>
+<set name="軀">
+</set>
+<set name="唉">
+</set>
+<set name="髭">
+</set>
+<set name="誌">
+</set>
+<set name="踏">
+</set>
+<set name="涎">
+</set>
+<set name="搓">
+</set>
+<set name="排">
+</set>
+<set name="濯">
+</set>
+<set name="首">
+</set>
+<set name="紙">
+</set>
+<set name="粘">
+</set>
+<set name="逛">
+</set>
+<set name="籮">
+</set>
+<set name="猝">
+</set>
+<set name="銜">
+</set>
+<set name="嘟">
+</set>
+<set name="閞">
+</set>
+<set name="胱">
+</set>
+<set name="氣">
+</set>
+<set name="交">
+</set>
+<set name="腰">
+</set>
+<set name="蒨">
+</set>
+<set name="捉">
+</set>
+<set name="吳">
+</set>
+<set name="玲">
+</set>
+<set name="嚴">
+</set>
+<set name="貸">
+</set>
+<set name="挽">
+</set>
+<set name="押">
+</set>
+<set name="蘿">
+</set>
+<set name="籃">
+</set>
+<set name="寂">
+</set>
+<set name="罅">
+</set>
+<set name="則">
+</set>
+<set name="准">
+</set>
+<set name="哈">
+</set>
+<set name="乏">
+</set>
+<set name="跎">
+</set>
+<set name="腑">
+</set>
+<set name="臊">
+</set>
+<set name="插">
+</set>
+<set name="蝕">
+</set>
+<set name="驗">
+</set>
+<set name="癟">
+</set>
+<set name="痞">
+</set>
+<set name="棠">
+</set>
+<set name="蹺">
+</set>
+<set name="令">
+</set>
+<set name="懦">
+</set>
+<set name="蕩">
+</set>
+<set name="填">
+</set>
+<set name="差">
+</set>
+<set name="共">
+</set>
+<set name="味">
+</set>
+<set name="史">
+</set>
+<set name="直">
+</set>
+<set name="浹">
+</set>
+<set name="腕">
+</set>
+<set name="濺">
+</set>
+<set name="拼">
+</set>
+<set name="綃">
+</set>
+<set name="弄">
+</set>
+<set name="率">
+</set>
+<set name="倆">
+</set>
+<set name="鞭">
+</set>
+<set name="見">
+</set>
+<set name="認">
+</set>
+<set name="侏">
+</set>
+<set name="舒">
+</set>
+<set name="朔">
+</set>
+<set name="算">
+</set>
+<set name="紘">
+</set>
+<set name="鸚">
+</set>
+<set name="猜">
+</set>
+<set name="瞟">
+</set>
+<set name="吞">
+</set>
+<set name="悖">
+</set>
+<set name="趣">
+</set>
+<set name="拴">
+</set>
+<set name="枒">
+</set>
+<set name="控">
+</set>
+<set name="怦">
+</set>
+<set name="撩">
+</set>
+<set name="侖">
+</set>
+<set name="第">
+</set>
+<set name="啜">
+</set>
+<set name="邱">
+</set>
+<set name="鄰">
+</set>
+<set name="喳">
+</set>
+<set name="殷">
+</set>
+<set name="油">
+</set>
+<set name="渺">
+</set>
+<set name="抽">
+</set>
+<set name="搾">
+</set>
+<set name="壁">
+</set>
+<set name="罄">
+</set>
+<set name="哉">
+</set>
+<set name="構">
+</set>
+<set name="歌">
+</set>
+<set name="俏">
+</set>
+<set name="豎">
+</set>
+<set name="惑">
+</set>
+<set name="腐">
+</set>
+<set name="扒">
+</set>
+<set name="漏">
+</set>
+<set name="糙">
+</set>
+<set name="繚">
+</set>
+<set name="勝">
+</set>
+<set name="治">
+</set>
+<set name="域">
+</set>
+<set name="瑞">
+</set>
+<set name="裡">
+</set>
+<set name="瀑">
+</set>
+<set name="詢">
+</set>
+<set name="以">
+</set>
+<set name="潤">
+</set>
+<set name="徽">
+</set>
+<set name="眸">
+</set>
+<set name="竭">
+</set>
+<set name="盲">
+</set>
+<set name="僱">
+</set>
+<set name="痳">
+</set>
+<set name="割">
+</set>
+<set name="靴">
+</set>
+<set name="桶">
+</set>
+<set name="浸">
+</set>
+<set name="臻">
+</set>
+<set name="夾">
+</set>
+<set name="繫">
+</set>
+<set name="柿">
+</set>
+<set name="頁">
+</set>
+<set name="炆">
+</set>
+<set name="吉">
+</set>
+<set name="隊">
+</set>
+<set name="伏">
+</set>
+<set name="憐">
+</set>
+<set name="蔓">
+</set>
+<set name="芒">
+</set>
+<set name="硯">
+</set>
+<set name="嬗">
+</set>
+<set name="寮">
+</set>
+<set name="初">
+</set>
+<set name="脛">
+</set>
+<set name="真">
+</set>
+<set name="校">
+</set>
+<set name="檢">
+</set>
+<set name="澤">
+</set>
+<set name="萩">
+</set>
+<set name="夫">
+</set>
+<set name="週">
+</set>
+<set name="冰">
+</set>
+<set name="申">
+</set>
+<set name="土">
+</set>
+<set name="涸">
+</set>
+<set name="人">
+</set>
+<set name="擋">
+</set>
+<set name="蜿">
+</set>
+<set name="秀">
+</set>
+<set name="絃">
+</set>
+<set name="嫂">
+</set>
+<set name="幅">
+</set>
+<set name="升">
+</set>
+<set name="益">
+</set>
+<set name="毌">
+</set>
+<set name="住">
+</set>
+<set name="陌">
+</set>
+<set name="惡">
+</set>
+<set name="拒">
+</set>
+<set name="處">
+</set>
+<set name="柔">
+</set>
+<set name="字">
+</set>
+<set name="緘">
+</set>
+<set name="廚">
+</set>
+<set name="剝">
+</set>
+<set name="衡">
+</set>
+<set name="淑">
+</set>
+<set name="浣">
+</set>
+<set name="濤">
+</set>
+<set name="捧">
+</set>
+<set name="惦">
+</set>
+<set name="摩">
+</set>
+<set name="旨">
+</set>
+<set name="鬩">
+</set>
+<set name="寬">
+</set>
+<set name="凰">
+</set>
+<set name="陵">
+</set>
+<set name="聿">
+</set>
+<set name="歷">
+</set>
+<set name="礫">
+</set>
+<set name="板">
+</set>
+<set name="擾">
+</set>
+<set name="稀">
+</set>
+<set name="射">
+</set>
+<set name="邇">
+</set>
+<set name="匆">
+</set>
+<set name="嘈">
+</set>
+<set name="啖">
+</set>
+<set name="伎">
+</set>
+<set name="湟">
+</set>
+<set name="成">
+</set>
+<set name="箏">
+</set>
+<set name="斕">
+</set>
+<set name="輯">
+</set>
+<set name="碗">
+</set>
+<set name="徙">
+</set>
+<set name="帘">
+</set>
+<set name="力">
+</set>
+<set name="級">
+</set>
+<set name="倜">
+</set>
+<set name="霞">
+</set>
+<set name="疇">
+</set>
+<set name="昨">
+</set>
+<set name="蘆">
+</set>
+<set name="馭">
+</set>
+<set name="鳶">
+</set>
+<set name="到">
+</set>
+<set name="儲">
+</set>
+<set name="疵">
+</set>
+<set name="琴">
+</set>
+<set name="澹">
+</set>
+<set name="游">
+</set>
+<set name="芻">
+</set>
+<set name="饞">
+</set>
+<set name="膽">
+</set>
+<set name="撿">
+</set>
+<set name="穀">
+</set>
+<set name="黃">
+</set>
+<set name="請">
+</set>
+<set name="啊">
+</set>
+<set name="槍">
+</set>
+<set name="行">
+</set>
+<set name="簾">
+</set>
+<set name="低">
+</set>
+<set name="摔">
+</set>
+<set name="策">
+</set>
+<set name="忙">
+</set>
+<set name="勛">
+</set>
+<set name="針">
+</set>
+<set name="停">
+</set>
+<set name="非">
+</set>
+<set name="詠">
+</set>
+<set name="代">
+</set>
+<set name="躺">
+</set>
+<set name="晨">
+</set>
+<set name="赦">
+</set>
+<set name="駭">
+</set>
+<set name="硬">
+</set>
+<set name="糯">
+</set>
+<set name="置">
+</set>
+<set name="叱">
+</set>
+<set name="煲">
+</set>
+<set name="朿">
+</set>
+<set name="松">
+</set>
+<set name="布">
+</set>
+<set name="如">
+</set>
+<set name="紅">
+</set>
+<set name="眉">
+</set>
+<set name="隈">
+</set>
+<set name="喊">
+</set>
+<set name="植">
+</set>
+<set name="齎">
+</set>
+<set name="氏">
+</set>
+<set name="澎">
+</set>
+<set name="挑">
+</set>
+<set name="易">
+</set>
+<set name="諂">
+</set>
+<set name="頗">
+</set>
+<set name="爛">
+</set>
+<set name="兮">
+</set>
+<set name="吟">
+</set>
+<set name="迄">
+</set>
+<set name="次">
+</set>
+<set name="誠">
+</set>
+<set name="渣">
+</set>
+<set name="津">
+</set>
+<set name="性">
+</set>
+<set name="薪">
+</set>
+<set name="夭">
+</set>
+<set name="墬">
+</set>
+<set name="微">
+</set>
+<set name="搔">
+</set>
+<set name="悼">
+</set>
+<set name="崛">
+</set>
+<set name="魁">
+</set>
+<set name="躡">
+</set>
+<set name="繃">
+</set>
+<set name="囊">
+</set>
+<set name="遇">
+</set>
+<set name="盈">
+</set>
+<set name="橋">
+</set>
+<set name="闊">
+</set>
+<set name="烊">
+</set>
+<set name="迎">
+</set>
+<set name="拐">
+</set>
+<set name="舐">
+</set>
+<set name="擔">
+</set>
+<set name="塗">
+</set>
+<set name="寖">
+</set>
+<set name="彙">
+</set>
+<set name="默">
+</set>
+<set name="牛">
+</set>
+<set name="線">
+</set>
+<set name="峻">
+</set>
+<set name="瑟">
+</set>
+<set name="歡">
+</set>
+<set name="遑">
+</set>
+<set name="蹣">
+</set>
+<set name="賤">
+</set>
+<set name="穫">
+</set>
+<set name="祭">
+</set>
+<set name="壬">
+</set>
+<set name="屯">
+</set>
+<set name="繼">
+</set>
+<set name="危">
+</set>
+<set name="鋰">
+</set>
+<set name="陳">
+</set>
+<set name="勒">
+</set>
+<set name="啵">
+</set>
+<set name="瓴">
+</set>
+<set name="衷">
+</set>
+<set name="軸">
+</set>
+<set name="淺">
+</set>
+<set name="突">
+</set>
+<set name="頂">
+</set>
+<set name="嫋">
+</set>
+<set name="約">
+</set>
+<set name="醇">
+</set>
+<set name="爆">
+</set>
+<set name="圈">
+</set>
+<set name="吊">
+</set>
+<set name="袍">
+</set>
+<set name="抑">
+</set>
+<set name="怒">
+</set>
+<set name="撕">
+</set>
+<set name="攔">
+</set>
+<set name="弘">
+</set>
+<set name="尚">
+</set>
+<set name="喟">
+</set>
+<set name="餚">
+</set>
+<set name="欠">
+</set>
+<set name="辣">
+</set>
+<set name="蠢">
+</set>
+<set name="憧">
+</set>
+<set name="木">
+</set>
+<set name="搪">
+</set>
+<set name="餬">
+</set>
+<set name="鶯">
+</set>
+<set name="縮">
+</set>
+<set name="麓">
+</set>
+<set name="進">
+</set>
+<set name="蝟">
+</set>
+<set name="榷">
+</set>
+<set name="迺">
+</set>
+<set name="伸">
+</set>
+<set name="悽">
+</set>
+<set name="嫁">
+</set>
+<set name="孀">
+</set>
+<set name="心">
+</set>
+<set name="變">
+</set>
+<set name="組">
+</set>
+<set name="采">
+</set>
+<set name="牆">
+</set>
+<set name="囉">
+</set>
+<set name="靈">
+</set>
+<set name="毋">
+</set>
+<set name="告">
+</set>
+<set name="棍">
+</set>
+<set name="淏">
+</set>
+<set name="乎">
+</set>
+<set name="苑">
+</set>
+<set name="捐">
+</set>
+<set name="染">
+</set>
+<set name="恒">
+</set>
+<set name="叛">
+</set>
+<set name="憎">
+</set>
+<set name="郝">
+</set>
+<set name="兜">
+</set>
+<set name="嗟">
+</set>
+<set name="衢">
+</set>
+<set name="泥">
+</set>
+<set name="赤">
+</set>
+<set name="艦">
+</set>
+<set name="寫">
+</set>
+<set name="飭">
+</set>
+<set name="緯">
+</set>
+<set name="印">
+</set>
+<set name="石">
+</set>
+<set name="遲">
+</set>
+<set name="玷">
+</set>
+<set name="爪">
+</set>
+<set name="決">
+</set>
+<set name="能">
+</set>
+<set name="晾">
+</set>
+<set name="威">
+</set>
+<set name="盪">
+</set>
+<set name="懟">
+</set>
+<set name="嶄">
+</set>
+<set name="嘉">
+</set>
+<set name="逍">
+</set>
+<set name="輸">
+</set>
+<set name="贏">
+</set>
+<set name="于">
+</set>
+<set name="我">
+</set>
+<set name="焙">
+</set>
+<set name="蜓">
+</set>
+<set name="薔">
+</set>
+<set name="帙">
+</set>
+<set name="徘">
+</set>
+<set name="猛">
+</set>
+<set name="逝">
+</set>
+<set name="醜">
+</set>
+<set name="生">
+</set>
+<set name="襄">
+</set>
+<set name="模">
+</set>
+<set name="漣">
+</set>
+<set name="梢">
+</set>
+<set name="襾">
+</set>
+<set name="嗇">
+</set>
+<set name="愧">
+</set>
+<set name="窸">
+</set>
+<set name="笫">
+</set>
+<set name="頭">
+</set>
+<set name="馬">
+</set>
+<set name="累">
+</set>
+<set name="纜">
+</set>
+<set name="圳">
+</set>
+<set name="傲">
+</set>
+<set name="鐵">
+</set>
+<set name="稟">
+</set>
+<set name="丹">
+</set>
+<set name="耽">
+</set>
+<set name="政">
+</set>
+<set name="節">
+</set>
+<set name="居">
+</set>
+<set name="護">
+</set>
+<set name="兇">
+</set>
+<set name="瓊">
+</set>
+<set name="衍">
+</set>
+<set name="倣">
+</set>
+<set name="提">
+</set>
+<set name="垢">
+</set>
+<set name="鎚">
+</set>
+<set name="套">
+</set>
+<set name="嫖">
+</set>
+<set name="忘">
+</set>
+<set name="鍛">
+</set>
+<set name="灝">
+</set>
+<set name="凜">
+</set>
+<set name="啟">
+</set>
+<set name="回">
+</set>
+<set name="橡">
+</set>
+<set name="佣">
+</set>
+<set name="淤">
+</set>
+<set name="慧">
+</set>
+<set name="苦">
+</set>
+<set name="孫">
+</set>
+<set name="姬">
+</set>
+<set name="胚">
+</set>
+<set name="台">
+</set>
+<set name="坳">
+</set>
+<set name="摒">
+</set>
+<set name="呵">
+</set>
+<set name="痴">
+</set>
+<set name="墨">
+</set>
+<set name="俸">
+</set>
+<set name="荻">
+</set>
+<set name="賺">
+</set>
+<set name="聽">
+</set>
+<set name="懼">
+</set>
+<set name="曾">
+</set>
+<set name="綁">
+</set>
+<set name="境">
+</set>
+<set name="宅">
+</set>
+<set name="皇">
+</set>
+<set name="唆">
+</set>
+<set name="醉">
+</set>
+<set name="乖">
+</set>
+<set name="侍">
+</set>
+<set name="丌">
+</set>
+<set name="椎">
+</set>
+<set name="斑">
+</set>
+<set name="搐">
+</set>
+<set name="蜒">
+</set>
+<set name="舔">
+</set>
+<set name="店">
+</set>
+<set name="崖">
+</set>
+<set name="香">
+</set>
+<set name="領">
+</set>
+<set name="鬚">
+</set>
+<set name="嘜">
+</set>
+<set name="功">
+</set>
+<set name="漢">
+</set>
+<set name="膩">
+</set>
+<set name="怨">
+</set>
+<set name="岫">
+</set>
+<set name="挪">
+</set>
+<set name="煸">
+</set>
+<set name="骯">
+</set>
+<set name="央">
+</set>
+<set name="閱">
+</set>
+<set name="枉">
+</set>
+<set name="傳">
+</set>
+<set name="露">
+</set>
+<set name="鈴">
+</set>
+<set name="泫">
+</set>
+<set name="洶">
+</set>
+<set name="砂">
+</set>
+<set name="核">
+</set>
+<set name="撻">
+</set>
+<set name="欺">
+</set>
+<set name="抿">
+</set>
+<set name="脾">
+</set>
+<set name="鷁">
+</set>
+<set name="局">
+</set>
+<set name="驄">
+</set>
+<set name="雇">
+</set>
+<set name="商">
+</set>
+<set name="燉">
+</set>
+<set name="半">
+</set>
+<set name="臼">
+</set>
+<set name="頌">
+</set>
+<set name="彊">
+</set>
+<set name="扔">
+</set>
+<set name="願">
+</set>
+<set name="垠">
+</set>
+<set name="魚">
+</set>
+<set name="陜">
+</set>
+<set name="募">
+</set>
+<set name="煞">
+</set>
+<set name="淡">
+</set>
+<set name="池">
+</set>
+<set name="棣">
+</set>
+<set name="佢">
+</set>
+<set name="敦">
+</set>
+<set name="恨">
+</set>
+<set name="侄">
+</set>
+<set name="嚓">
+</set>
+<set name="端">
+</set>
+<set name="奮">
+</set>
+<set name="痱">
+</set>
+<set name="瑰">
+</set>
+<set name="牴">
+</set>
+<set name="爍">
+</set>
+<set name="妾">
+</set>
+<set name="濫">
+</set>
+<set name="拿">
+</set>
+<set name="慾">
+</set>
+<set name="頃">
+</set>
+<set name="窄">
+</set>
+<set name="疆">
+</set>
+<set name="鄉">
+</set>
+<set name="邈">
+</set>
+<set name="鎊">
+</set>
+<set name="伍">
+</set>
+<set name="二">
+</set>
+<set name="蔑">
+</set>
+<set name="撐">
+</set>
+<set name="彪">
+</set>
+<set name="穹">
+</set>
+<set name="丘">
+</set>
+<set name="礙">
+</set>
+<set name="獅">
+</set>
+<set name="君">
+</set>
+<set name="定">
+</set>
+<set name="障">
+</set>
+<set name="醞">
+</set>
+<set name="負">
+</set>
+<set name="誤">
+</set>
+<set name="昧">
+</set>
+<set name="薦">
+</set>
+<set name="您">
+</set>
+<set name="簫">
+</set>
+<set name="措">
+</set>
+<set name="弭">
+</set>
+<set name="禮">
+</set>
+<set name="唱">
+</set>
+<set name="環">
+</set>
+<set name="鑲">
+</set>
+<set name="僵">
+</set>
+<set name="殺">
+</set>
+<set name="朽">
+</set>
+<set name="房">
+</set>
+<set name="憾">
+</set>
+<set name="褪">
+</set>
+<set name="魅">
+</set>
+<set name="竄">
+</set>
+<set name="闆">
+</set>
+<set name="光">
+</set>
+<set name="烈">
+</set>
+<set name="及">
+</set>
+<set name="位">
+</set>
+<set name="軌">
+</set>
+<set name="囌">
+</set>
+<set name="救">
+</set>
+<set name="髹">
+</set>
+<set name="蟒">
+</set>
+<set name="捕">
+</set>
+<set name="拔">
+</set>
+<set name="壘">
+</set>
+<set name="瑛">
+</set>
+<set name="燎">
+</set>
+<set name="雜">
+</set>
+<set name="牟">
+</set>
+<set name="氤">
+</set>
+<set name="賠">
+</set>
+<set name="衣">
+</set>
+<set name="迢">
+</set>
+<set name="步">
+</set>
+<set name="諤">
+</set>
+<set name="虧">
+</set>
+<set name="旦">
+</set>
+<set name="腩">
+</set>
+<set name="嗜">
+</set>
+<set name="揪">
+</set>
+<set name="彭">
+</set>
+<set name="桓">
+</set>
+<set name="鍵">
+</set>
+<set name="裸">
+</set>
+<set name="戍">
+</set>
+<set name="艾">
+</set>
+<set name="曼">
+</set>
+<set name="承">
+</set>
+<set name="懾">
+</set>
+<set name="紀">
+</set>
+<set name="妃">
+</set>
+<set name="市">
+</set>
+<set name="瞇">
+</set>
+<set name="理">
+</set>
+<set name="儈">
+</set>
+<set name="刊">
+</set>
+<set name="躍">
+</set>
+<set name="亢">
+</set>
+<set name="溷">
+</set>
+<set name="狙">
+</set>
+<set name="投">
+</set>
+<set name="得">
+</set>
+<set name="尖">
+</set>
+<set name="項">
+</set>
+<set name="稚">
+</set>
+<set name="霜">
+</set>
+<set name="原">
+</set>
+<set name="逞">
+</set>
+<set name="財">
+</set>
+<set name="踢">
+</set>
+<set name="誥">
+</set>
+<set name="肩">
+</set>
+<set name="航">
+</set>
+<set name="庭">
+</set>
+<set name="咱">
+</set>
+<set name="田">
+</set>
+<set name="防">
+</set>
+<set name="猴">
+</set>
+<set name="侷">
+</set>
+<set name="褸">
+</set>
+<set name="診">
+</set>
+<set name="炊">
+</set>
+<set name="竅">
+</set>
+<set name="魄">
+</set>
+<set name="矇">
+</set>
+<set name="呆">
+</set>
+<set name="先">
+</set>
+<set name="淋">
+</set>
+<set name="削">
+</set>
+<set name="軍">
+</set>
+<set name="遣">
+</set>
+<set name="每">
+</set>
+<set name="桎">
+</set>
+<set name="羹">
+</set>
+<set name="晒">
+</set>
+<set name="荔">
+</set>
+<set name="志">
+</set>
+<set name="丸">
+</set>
+<set name="痛">
+</set>
+<set name="驚">
+</set>
+<set name="偕">
+</set>
+<set name="靜">
+</set>
+<set name="鏟">
+</set>
+<set name="遞">
+</set>
+<set name="泡">
+</set>
+<set name="解">
+</set>
+<set name="櫥">
+</set>
+<set name="此">
+</set>
+<set name="葦">
+</set>
+<set name="慨">
+</set>
+<set name="巫">
+</set>
+<set name="彬">
+</set>
+<set name="逼">
+</set>
+<set name="異">
+</set>
+<set name="凳">
+</set>
+<set name="勵">
+</set>
+<set name="璿">
+</set>
+<set name="迷">
+</set>
+<set name="汶">
+</set>
+<set name="裹">
+</set>
+<set name="耕">
+</set>
+<set name="藻">
+</set>
+<set name="眾">
+</set>
+<set name="聾">
+</set>
+<set name="封">
+</set>
+<set name="凈">
+</set>
+<set name="潢">
+</set>
+<set name="稅">
+</set>
+<set name="崗">
+</set>
+<set name="震">
+</set>
+<set name="驀">
+</set>
+<set name="倉">
+</set>
+<set name="洋">
+</set>
+<set name="睦">
+</set>
+<set name="不">
+</set>
+<set name="娙">
+</set>
+<set name="扯">
+</set>
+<set name="弗">
+</set>
+<set name="媚">
+</set>
+<set name="溢">
+</set>
+<set name="軋">
+</set>
+<set name="殤">
+</set>
+<set name="朧">
+</set>
+<set name="怩">
+</set>
+<set name="膨">
+</set>
+<set name="紫">
+</set>
+<set name="捆">
+</set>
+<set name="席">
+</set>
+<set name="徬">
+</set>
+<set name="鬯">
+</set>
+<set name="墮">
+</set>
+<set name="吱">
+</set>
+<set name="爵">
+</set>
+<set name="貶">
+</set>
+<set name="根">
+</set>
+<set name="筵">
+</set>
+<set name="攻">
+</set>
+<set name="溺">
+</set>
+<set name="屁">
+</set>
+<set name="廂">
+</set>
+<set name="驅">
+</set>
+<set name="寄">
+</set>
+<set name="均">
+</set>
+<set name="哆">
+</set>
+<set name="偉">
+</set>
+<set name="燈">
+</set>
+<set name="喃">
+</set>
+<set name="噢">
+</set>
+<set name="乍">
+</set>
+<set name="譏">
+</set>
+<set name="桌">
+</set>
+<set name="摑">
+</set>
+<set name="藐">
+</set>
+<set name="糖">
+</set>
+<set name="秘">
+</set>
+<set name="轎">
+</set>
+<set name="陝">
+</set>
+<set name="矜">
+</set>
+<set name="象">
+</set>
+<set name="楣">
+</set>
+<set name="擦">
+</set>
+<set name="恩">
+</set>
+<set name="臨">
+</set>
+<set name="魆">
+</set>
+<set name="繭">
+</set>
+<set name="魯">
+</set>
+<set name="軼">
+</set>
+<set name="呱">
+</set>
+<set name="痰">
+</set>
+<set name="酒">
+</set>
+<set name="創">
+</set>
+<set name="婿">
+</set>
+<set name="佷">
+</set>
+<set name="衹">
+</set>
+<set name="觸">
+</set>
+<set name="敻">
+</set>
+<set name="觴">
+</set>
+<set name="征">
+</set>
+<set name="紂">
+</set>
+<set name="璇">
+</set>
+<set name="霆">
+</set>
+<set name="玉">
+</set>
+<set name="事">
+</set>
+<set name="焊">
+</set>
+<set name="醃">
+</set>
+<set name="梏">
+</set>
+<set name="謎">
+</set>
+<set name="抓">
+</set>
+<set name="昂">
+</set>
+<set name="怔">
+</set>
+<set name="粗">
+</set>
+<set name="湘">
+</set>
+<set name="宙">
+</set>
+<set name="娘">
+</set>
+<set name="際">
+</set>
+<set name="多">
+</set>
+<set name="喝">
+</set>
+<set name="苛">
+</set>
+<set name="澡">
+</set>
+<set name="渠">
+</set>
+<set name="湎">
+</set>
+<set name="緞">
+</set>
+<set name="朦">
+</set>
+<set name="掩">
+</set>
+<set name="凝">
+</set>
+<set name="庫">
+</set>
+<set name="維">
+</set>
+<set name="尬">
+</set>
+<set name="颯">
+</set>
+<set name="遜">
+</set>
+<set name="嘰">
+</set>
+<set name="銳">
+</set>
+<set name="甲">
+</set>
+<set name="買">
+</set>
+<set name="伶">
+</set>
+<set name="樸">
+</set>
+<set name="睞">
+</set>
+<set name="施">
+</set>
+<set name="喋">
+</set>
+<set name="挾">
+</set>
+<set name="翁">
+</set>
+<set name="篡">
+</set>
+<set name="跏">
+</set>
+<set name="終">
+</set>
+<set name="哇">
+</set>
+<set name="叉">
+</set>
+<set name="版">
+</set>
+<set name="滋">
+</set>
+<set name="裏">
+</set>
+<set name="歎">
+</set>
+<set name="蟑">
+</set>
+<set name="虐">
+</set>
+<set name="拓">
+</set>
+<set name="篙">
+</set>
+<set name="盛">
+</set>
+<set name="奚">
+</set>
+<set name="灕">
+</set>
+<set name="瑜">
+</set>
+<set name="籤">
+</set>
+<set name="信">
+</set>
+<set name="疪">
+</set>
+<set name="蝦">
+</set>
+<set name="菩">
+</set>
+<set name="搽">
+</set>
+<set name="屬">
+</set>
+<set name="飯">
+</set>
+<set name="廬">
+</set>
+<set name="陰">
+</set>
+<set name="勳">
+</set>
+<set name="釵">
+</set>
+<set name="側">
+</set>
+<set name="荼">
+</set>
+<set name="蛻">
+</set>
+<set name="敊">
+</set>
+<set name="娃">
+</set>
+<set name="啪">
+</set>
+<set name="餅">
+</set>
+<set name="劈">
+</set>
+<set name="下">
+</set>
+<set name="冊">
+</set>
+<set name="贍">
+</set>
+<set name="貌">
+</set>
+<set name="炙">
+</set>
+<set name="愕">
+</set>
+<set name="悔">
+</set>
+<set name="笙">
+</set>
+<set name="窘">
+</set>
+<set name="嘛">
+</set>
+<set name="璜">
+</set>
+<set name="速">
+</set>
+<set name="樣">
+</set>
+<set name="褥">
+</set>
+<set name="袤">
+</set>
+<set name="搧">
+</set>
+<set name="鏢">
+</set>
+<set name="筷">
+</set>
+<set name="抨">
+</set>
+<set name="師">
+</set>
+<set name="盆">
+</set>
+<set name="堯">
+</set>
+<set name="鮮">
+</set>
+<set name="疲">
+</set>
+<set name="谷">
+</set>
+<set name="侶">
+</set>
+<set name="謹">
+</set>
+<set name="檸">
+</set>
+<set name="覺">
+</set>
+<set name="蔽">
+</set>
+<set name="蒼">
+</set>
+<set name="耿">
+</set>
+<set name="驃">
+</set>
+<set name="炳">
+</set>
+<set name="饅">
+</set>
+<set name="飄">
+</set>
+<set name="韆">
+</set>
+<set name="卉">
+</set>
+<set name="屍">
+</set>
+<set name="之">
+</set>
+<set name="癢">
+</set>
+<set name="泌">
+</set>
+<set name="淌">
+</set>
+<set name="村">
+</set>
+<set name="打">
+</set>
+<set name="逡">
+</set>
+<set name="慕">
+</set>
+<set name="鱗">
+</set>
+<set name="忖">
+</set>
+<set name="高">
+</set>
+<set name="陛">
+</set>
+<set name="姚">
+</set>
+<set name="畝">
+</set>
+<set name="瓜">
+</set>
+<set name="鏞">
+</set>
+<set name="騁">
+</set>
+<set name="摧">
+</set>
+<set name="捩">
+</set>
+<set name="幫">
+</set>
+<set name="自">
+</set>
+<set name="顯">
+</set>
+<set name="遼">
+</set>
+<set name="困">
+</set>
+<set name="兵">
+</set>
+<set name="歹">
+</set>
+<set name="諸">
+</set>
+<set name="喫">
+</set>
+<set name="恿">
+</set>
+<set name="它">
+</set>
+<set name="酪">
+</set>
+<set name="墅">
+</set>
+<set name="喇">
+</set>
+<set name="嘆">
+</set>
+<set name="劉">
+</set>
+<set name="匈">
+</set>
+<set name="例">
+</set>
+<set name="規">
+</set>
+<set name="討">
+</set>
+<set name="暑">
+</set>
+<set name="莓">
+</set>
+<set name="嶗">
+</set>
+<set name="帖">
+</set>
+<set name="贅">
+</set>
+<set name="垛">
+</set>
+<set name="逮">
+</set>
+<set name="甜">
+</set>
+<set name="熟">
+</set>
+<set name="鈞">
+</set>
+<set name="亡">
+</set>
+<set name="漠">
+</set>
+<set name="魔">
+</set>
+<set name="挨">
+</set>
+<set name="怪">
+</set>
+<set name="馳">
+</set>
+<set name="種">
+</set>
+<set name="隱">
+</set>
+<set name="地">
+</set>
+<set name="玳">
+</set>
+<set name="串">
+</set>
+<set name="債">
+</set>
+<set name="污">
+</set>
+<set name="欸">
+</set>
+<set name="戾">
+</set>
+<set name="廁">
+</set>
+<set name="幡">
+</set>
+<set name="鬈">
+</set>
+<set name="疊">
+</set>
+<set name="磅">
+</set>
+<set name="症">
+</set>
+<set name="翠">
+</set>
+<set name="勉">
+</set>
+<set name="午">
+</set>
+<set name="遊">
+</set>
+<set name="斧">
+</set>
+<set name="材">
+</set>
+<set name="賢">
+</set>
+<set name="惕">
+</set>
+<set name="腔">
+</set>
+<set name="鷗">
+</set>
+<set name="站">
+</set>
+<set name="存">
+</set>
+<set name="矛">
+</set>
+<set name="鈽">
+</set>
+<set name="畜">
+</set>
+<set name="營">
+</set>
+<set name="你">
+</set>
+<set name="爺">
+</set>
+<set name="蒲">
+</set>
+<set name="晦">
+</set>
+<set name="捨">
+</set>
+<set name="快">
+</set>
+<set name="恪">
+</set>
+<set name="峭">
+</set>
+<set name="鵬">
+</set>
+<set name="癬">
+</set>
+<set name="盱">
+</set>
+<set name="剩">
+</set>
+<set name="右">
+</set>
+<set name="冒">
+</set>
+<set name="郵">
+</set>
+<set name="混">
+</set>
+<set name="蹶">
+</set>
+<set name="歸">
+</set>
+<set name="蟻">
+</set>
+<set name="找">
+</set>
+<set name="鸁">
+</set>
+<set name="往">
+</set>
+<set name="鬃">
+</set>
+<set name="堅">
+</set>
+<set name="妄">
+</set>
+<set name="唇">
+</set>
+<set name="皆">
+</set>
+<set name="邊">
+</set>
+<set name="涌">
+</set>
+<set name="椏">
+</set>
+<set name="蘑">
+</set>
+<set name="析">
+</set>
+<set name="撒">
+</set>
+<set name="怕">
+</set>
+<set name="憔">
+</set>
+<set name="紗">
+</set>
+<set name="纖">
+</set>
+<set name="騙">
+</set>
+<set name="官">
+</set>
+<set name="眛">
+</set>
+<set name="吝">
+</set>
+<set name="喜">
+</set>
+<set name="償">
+</set>
+<set name="渡">
+</set>
+<set name="欣">
+</set>
+<set name="貢">
+</set>
+<set name="璫">
+</set>
+<set name="推">
+</set>
+<set name="肪">
+</set>
+<set name="鰭">
+</set>
+<set name="窮">
+</set>
+<set name="阱">
+</set>
+<set name="瞰">
+</set>
+<set name="溶">
+</set>
+<set name="樹">
+</set>
+<set name="偵">
+</set>
+<set name="蜻">
+</set>
+<set name="瞞">
+</set>
+<set name="落">
+</set>
+<set name="於">
+</set>
+<set name="芾">
+</set>
+<set name="繁">
+</set>
+<set name="孃">
+</set>
+<set name="硅">
+</set>
+<set name="海">
+</set>
+<set name="集">
+</set>
+<set name="又">
+</set>
+<set name="郊">
+</set>
+<set name="跌">
+</set>
+<set name="某">
+</set>
+<set name="擒">
+</set>
+<set name="恕">
+</set>
+<set name="廖">
+</set>
+<set name="睛">
+</set>
+<set name="磚">
+</set>
+<set name="關">
+</set>
+<set name="勞">
+</set>
+<set name="俠">
+</set>
+<set name="正">
+</set>
+<set name="波">
+</set>
+<set name="攜">
+</set>
+<set name="槤">
+</set>
+<set name="曦">
+</set>
+<set name="鑽">
+</set>
+<set name="煉">
+</set>
+<set name="緬">
+</set>
+<set name="髮">
+</set>
+<set name="癱">
+</set>
+<set name="即">
+</set>
+<set name="哲">
+</set>
+<set name="遵">
+</set>
+<set name="起">
+</set>
+<set name="件">
+</set>
+<set name="詹">
+</set>
+<set name="澈">
+</set>
+<set name="拾">
+</set>
+<set name="葽">
+</set>
+<set name="腿">
+</set>
+<set name="答">
+</set>
+</character-collection>

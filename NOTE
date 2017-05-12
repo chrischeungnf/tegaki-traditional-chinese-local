@@ -7,3 +7,5 @@ http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf
 http://stackoverflow.com/questions/10060411/byte-string-vs-unicode-string-python
 http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string
 tegaki-train: import 0x7684
+
+change some code in append_character_rows in charcol.py and ./tegaki-train

@@ -1,8 +1,8 @@
-# tegaki-zinnia-traditional-chinese-local
+# tegaki-traditional-chinese-local
 ## Create better traditional Chinese handwriting model by locals
 
 Current stage for development:
-I seem to be able to resolve the encoding problem as in present.pdf . But, there are other problems popping up. I will resolove them and push all my resolutions to upstream (Tegaki project)
+I plan to use tesseract to recognize Chinese handwriting model as it is better trained. I will integrate tesseract into tegaki.
 
 Problem:
 [Current traditional Chinese handwriting model](https://github.com/tegaki/tegaki/releases/download/v0.3/tegaki-zinnia-traditional-chinese-0.3.zip) of [Tegaki Project](https://tegaki.github.io/) is bad as it seems to be trained with rare Chinese characters

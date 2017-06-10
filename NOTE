@@ -10,3 +10,29 @@ tegaki-train: import 0x7684
 
 change some code in append_character_rows in charcol.py and ./tegaki-train
 
+https://github.com/tesseract-ocr/tesseract
+https://www.pythonanywhere.com/user/chrischeungnf/consoles/5464023/
+https://www.pythonanywhere.com/user/chrischeungnf/consoles/5463269/
+https://github.com/tesseract-ocr/tesseract/search?utf8=%E2%9C%93&q=chi_tra&type=
+https://github.com/sirfz/tesserocr
+flask
+https://www.airpair.com/python/posts/django-flask-pyramid#7-summary
+https://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+
+https://www.pythonanywhere.com/login/
+http://chrischeungnf.pythonanywhere.com/#
+sudo in pythonanywhere
+https://unix.stackexchange.com/questions/42567/how-to-install-program-locally-without-sudo-privileges
+https://stackoverflow.com/questions/26793861/pythonanywhere-how-to-choose-different-install-directory
+https://pythonhosted.org/pypng/png.html#and-now-my-famous-members
+google search: pythonanywhere install program
+https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
+
+~/tesserocr/leptonica/leptonica-1.74.1
+cheung@cheung-Vostro-2420:~/mytegaki/tegaki$ grep -nr "zinnia" .^C
+
+-> HERE: https://stackoverflow.com/questions/15836423/gcc-how-to-add-before-the-default-linker-search-path-by-default-library-path-no
+https://stackoverflow.com/questions/18783390/python-pip-specify-a-library-directory-and-an-include-directory
+pip2.7 install --global-option=build_ext --global-option="-I/home/chrischeungnf/include" tesserocr
+
+dpkg -i libtesseract-dev_3.03.02-3_amd64.deb --force-not-root --root=$HOME 

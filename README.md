@@ -1,7 +1,9 @@
 # tegaki-traditional-chinese-local
 ## Create better traditional Chinese handwriting recognition system by locals
 
-Current stage for development:
+*This project will not be updated in foreseeable future since the owner has taken up a full-time job with very limited down time. I recommend people interested in creating open source Chinese handwriting recognition system to join this GitHub project: [hanzi_lookup](https://github.com/gugray/hanzi_lookup).*
+
+Old Plan for development:
 I plan to use tesseract to recognize Chinese handwriting as it is better trained. I will integrate tesseract into tegaki. I plan to talk about my progress in [HKOSCon 2017](https://hkoscon.org/2017/) Day 2 Lightning Talks (3:00pm - 3:25pm, Function Room 1 and 2)
 
 Problem:
